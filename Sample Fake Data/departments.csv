@@ -1,0 +1,1501 @@
+DepartmentID,Name,Head,FocusArea,JobRelevanceWeight
+1,Advanced Environmental Science Center,William Collins,Humanities,0.65
+2,Integrated Engineering Institute,Christine Meyer,Humanities,0.72
+3,Innovative Fine Arts Institute,Eric Flowers,Humanities,0.6
+4,Integrated Psychology Department,Dawn Bowman,Humanities,0.81
+5,Modern Physics Department,Marissa Lewis,Humanities,0.77
+6,Modern Education School,Jimmy Jones,Engineering,0.9
+7,Global Robotics Center,David Dickerson,Environment,0.74
+8,Global History Institute,Brian Shelton,Engineering,0.82
+9,Advanced Economics School,Katherine Malone,Environment,0.67
+10,Advanced Sociology Department,Amanda Galloway,Healthcare,0.69
+11,Global Mathematics School,Darren Monroe,AI,0.65
+12,Modern Physics School,Lee Morris,Engineering,0.79
+13,Applied Computer Science Center,Natalie Conrad,Humanities,0.6
+14,Applied Quantum Computing Department,Lisa Payne,Engineering,0.9
+15,Integrated Data Science School,Shirley Wong,Humanities,0.93
+16,Global Sociology Center,Andrew Terry,Engineering,0.76
+17,Advanced Biology School,Larry Sanders,AI,0.92
+18,Global Healthcare Institute,Kristin Erickson DVM,Environment,0.55
+19,Modern Political Science Institute,Lauren Rose,Engineering,0.75
+20,Applied Computer Science Department,Wanda Blake,Humanities,1.0
+21,Integrated Architecture Center,Ana Ford,Environment,0.78
+22,Innovative Quantum Computing Center,Nicholas Miller,AI,0.78
+23,Global Psychology Institute,Katelyn Johnson,Environment,0.9
+24,Integrated Education Institute,Karen Orozco,Environment,0.58
+25,Integrated Data Science Institute,Carolyn Hughes,Healthcare,0.87
+26,Innovative Mathematics Institute,Larry Hamilton,AI,0.79
+27,Integrated Robotics School,Lauren Miller,Healthcare,0.54
+28,Modern Economics Center,Brandy Ross,AI,0.76
+29,Global Physics Center,Tabitha Stewart,Humanities,0.98
+30,Advanced Psychology School,Tiffany Wilson,Healthcare,0.63
+31,Innovative Engineering Department,Amanda Smith,AI,0.86
+32,Applied Philosophy Department,Joanna Payne,Engineering,0.54
+33,Global Architecture Institute,Melanie Dennis,Engineering,0.79
+34,Modern Chemistry Department,Allison Valdez,AI,0.52
+35,Applied Quantum Computing Department,Heather Rangel,AI,0.8
+36,Advanced Chemistry Department,Judy Williams,Humanities,0.83
+37,Modern Physics Center,Jennifer Warren,Engineering,0.52
+38,Global Architecture School,Sarah Lowery,Engineering,0.74
+39,Global Business Administration Center,Mark Henderson,Environment,0.9
+40,Modern Robotics Institute,Gregory Jensen,AI,0.9
+41,Modern Data Science School,Eileen Gonzales,Environment,0.91
+42,Modern Education Center,Lindsey Morgan,Engineering,0.85
+43,Applied Psychology Institute,Bailey Blanchard,Environment,0.93
+44,Integrated Philosophy Department,Pamela Savage,AI,0.91
+45,Applied AI Department,Valerie Green,AI,0.77
+46,Advanced Business Administration Institute,John Lewis,Humanities,0.52
+47,Innovative Political Science School,Erin Bentley,Humanities,0.51
+48,Integrated Fine Arts Department,Stacey Coleman,Environment,0.74
+49,Innovative Political Science Institute,Madeline Williams,Healthcare,0.9
+50,Innovative Data Science Department,Deanna Anderson,Healthcare,0.94
+51,Advanced Healthcare Center,Daniel Roberts,Humanities,0.86
+52,Advanced Healthcare Department,Daniel Burns,Humanities,0.82
+53,Global Quantum Computing Institute,John Moran,Healthcare,0.89
+54,Integrated Chemistry Institute,Christopher Watson,Healthcare,0.72
+55,Modern Chemistry Institute,Michele Mata,AI,0.85
+56,Innovative Chemistry Institute,Michael Contreras,Humanities,0.72
+57,Global Chemistry Center,Timothy Mitchell,AI,0.91
+58,Integrated Environmental Science School,Elizabeth Johnson,Healthcare,0.88
+59,Applied Fine Arts Center,Lee Jones,Engineering,0.6
+60,Global Sociology School,Patricia Lopez,AI,0.89
+61,Modern Chemistry School,Ashley Hall,Humanities,0.83
+62,Integrated Medicine Center,Deborah Edwards,Engineering,0.69
+63,Global Healthcare Center,Crystal Saunders,Humanities,0.92
+64,Innovative History School,Jeffrey Green,Engineering,0.87
+65,Innovative Environmental Science Center,Hector Miller,AI,0.86
+66,Applied Data Science Center,Cheryl Young,Healthcare,0.85
+67,Modern Engineering School,Samantha Montes,AI,0.74
+68,Modern Education School,Robert Morgan,Humanities,0.95
+69,Innovative Political Science Center,Haley Reed,Environment,0.89
+70,Integrated Environmental Science Department,Shawn Cross,Healthcare,0.6
+71,Global Psychology Department,Kimberly Foster,Engineering,0.57
+72,Applied Computer Science Center,Michelle Lane,Environment,0.83
+73,Innovative AI Institute,Alexander Davis,Engineering,0.5
+74,Innovative Economics Institute,Angela Reyes,Healthcare,0.88
+75,Advanced Philosophy Department,Brian Wheeler,Environment,0.79
+76,Integrated Chemistry Department,Paula Bright,Humanities,0.69
+77,Innovative Medicine School,Alexander Macdonald,Healthcare,0.99
+78,Applied Nursing Department,Kevin Stewart,AI,0.54
+79,Modern Economics Center,Nicholas Collins,Healthcare,0.64
+80,Global Chemistry Institute,Bryan Smith,Environment,0.8
+81,Integrated Mathematics School,Stephen Lawrence,AI,0.82
+82,Global Healthcare School,John Johnson,Engineering,0.86
+83,Applied Education Department,Rachel Ryan,Healthcare,0.98
+84,Applied Sociology Center,Jennifer Brewer,AI,0.94
+85,Integrated Fine Arts Department,Karen Weber,Engineering,0.85
+86,Applied Robotics School,Jennifer Huynh,Healthcare,0.98
+87,Integrated Physics Institute,William Gilbert,Environment,0.88
+88,Advanced Business Administration Institute,Rebecca Perry,AI,0.9
+89,Advanced Data Science Institute,Jessica Martinez,AI,0.86
+90,Global Biology Department,Jennifer Ward,Humanities,0.96
+91,Modern Economics Department,Joseph Robinson,Humanities,0.75
+92,Advanced Architecture Department,Jeffrey Wells,Engineering,0.74
+93,Applied Mathematics Department,Eric Martin,Engineering,0.87
+94,Advanced Business Administration Center,David Castro,AI,0.79
+95,Modern Political Science Center,Rhonda Rivera,Humanities,0.85
+96,Applied AI School,Erin Williams,Engineering,0.73
+97,Global History Center,Sierra Green,Environment,0.97
+98,Global Business Administration Institute,Amanda Banks,Environment,0.75
+99,Advanced Engineering Center,Zachary Elliott,Healthcare,0.65
+100,Advanced Physics School,Dr. Amy Maynard,Engineering,0.59
+101,Modern History Department,Manuel Castro,AI,0.64
+102,Advanced History Center,Ryan Flores,Humanities,0.65
+103,Applied Quantum Computing School,Laurie Wilson,Healthcare,0.59
+104,Modern Quantum Computing Center,Kaylee White,Healthcare,0.66
+105,Integrated Medicine Department,Kylie Rodriguez,AI,0.65
+106,Applied History Institute,David Hall,Healthcare,0.75
+107,Innovative Nursing Institute,Daniel Mccann,Environment,0.61
+108,Integrated AI Department,Julie Martinez,Engineering,0.95
+109,Modern Physics Department,Angela Bishop,AI,0.68
+110,Integrated Physics School,Ashley Martinez,Healthcare,0.74
+111,Integrated History Institute,Ann Alvarez,Engineering,0.53
+112,Integrated Sociology Center,Heather Frost,Healthcare,0.75
+113,Global Business Administration School,Bailey Smith,Healthcare,0.85
+114,Modern Education School,Brian Flores,Environment,0.73
+115,Integrated Economics Department,Lisa Robinson,Humanities,0.52
+116,Applied Biology Department,Janet Lozano,Humanities,0.97
+117,Advanced Robotics Institute,Justin Keller,Healthcare,0.67
+118,Advanced Data Science School,Jill Young,Healthcare,0.68
+119,Modern Physics Department,Michelle Kelly,Humanities,0.78
+120,Advanced Computer Science School,Daniel Murray,Humanities,0.7
+121,Advanced Physics Center,Jeffery Reed,Humanities,0.67
+122,Modern Architecture Center,Seth Villarreal,AI,0.7
+123,Advanced Environmental Science Institute,Susan Peterson,Environment,0.77
+124,Advanced Biology School,Kelli Acevedo,Humanities,0.92
+125,Innovative Engineering School,Jane Cooper,Healthcare,0.54
+126,Integrated Political Science Department,Ronald Miller,Humanities,0.57
+127,Integrated Education Institute,Jaclyn Briggs,Healthcare,0.74
+128,Modern Psychology Center,Michael Bender,Engineering,0.64
+129,Modern Computer Science Center,April Patterson,Environment,0.9
+130,Modern Education Center,Rebecca Berg,Humanities,0.74
+131,Integrated Psychology Institute,Robert Gates,Healthcare,0.73
+132,Advanced Architecture Center,Brian Mitchell,Humanities,0.82
+133,Applied Chemistry Department,Tommy Griffin,Environment,0.63
+134,Applied Data Science School,Brianna Butler,Humanities,0.95
+135,Integrated Physics Center,Anna Lopez,AI,0.8
+136,Innovative Psychology Institute,Joshua Phillips,Healthcare,0.56
+137,Integrated Architecture Institute,Kevin Lee,Environment,0.56
+138,Innovative History Institute,Jonathan Sanford,Humanities,0.65
+139,Global Medicine Institute,Daisy Wolfe,Humanities,0.54
+140,Integrated Mathematics School,Brian Ross,Engineering,0.87
+141,Integrated Economics Center,Timothy Lynch,Engineering,0.56
+142,Modern Environmental Science Institute,Craig Wiley,Environment,0.72
+143,Applied Biology School,Jason Young,AI,0.88
+144,Innovative Quantum Computing Center,Emily Farmer,AI,0.68
+145,Innovative AI School,Gordon Glass,Engineering,0.52
+146,Innovative Economics School,Katie Smith,Healthcare,0.51
+147,Innovative Education Center,Sean Hartman,Environment,0.77
+148,Innovative Fine Arts Center,Randall Carson,Engineering,0.52
+149,Integrated Mathematics Department,Anthony Key,Environment,0.58
+150,Applied Fine Arts Institute,Yolanda Walker,Engineering,0.74
+151,Advanced Chemistry Center,David Zhang,Environment,0.5
+152,Advanced Psychology Institute,Patricia Wilkerson,Environment,0.71
+153,Modern Computer Science School,Jeffrey Rose,Environment,0.88
+154,Global Biology Institute,Bianca Johnson,Humanities,0.69
+155,Advanced Engineering School,Richard Bush,Healthcare,0.85
+156,Modern Environmental Science School,Jacqueline Brown,Engineering,0.55
+157,Advanced Healthcare Center,Jessica Cannon,Healthcare,0.74
+158,Modern Computer Science Department,Brendan Sharp,Healthcare,0.83
+159,Innovative Data Science Center,Brandon Marsh,AI,0.9
+160,Applied AI Department,Lauren Hernandez,Humanities,0.78
+161,Innovative Psychology School,Karen Morrison,Healthcare,0.63
+162,Global Sociology Institute,Ashlee Gomez,Humanities,0.63
+163,Innovative Education Institute,Laura Wilson,AI,0.55
+164,Modern Robotics School,Maria Melton,Humanities,0.68
+165,Advanced Economics Center,Francisco Palmer,Humanities,0.55
+166,Integrated Chemistry Department,Jennifer Nicholson,Engineering,0.91
+167,Modern Biology Center,Adam Todd,AI,0.75
+168,Integrated Data Science Institute,Todd Sawyer,Humanities,0.84
+169,Applied Chemistry School,Elizabeth Martinez,Engineering,0.79
+170,Applied Quantum Computing Center,Erin Ramos,Humanities,0.93
+171,Advanced Sociology Center,Ashley Kane,Environment,0.67
+172,Modern Psychology Department,Michael Cummings,Healthcare,0.96
+173,Global Mathematics Institute,Christopher Ellison,Environment,0.57
+174,Integrated Psychology Department,Kristine Arnold,Humanities,0.65
+175,Global Philosophy Department,Denise Carr,Healthcare,0.79
+176,Global Business Administration Center,Doris Wilson,Environment,0.65
+177,Advanced Psychology Institute,Crystal Hardin,Humanities,0.98
+178,Global Engineering Department,Kelly Mays,Environment,0.89
+179,Advanced Engineering Department,Sarah Brown,Engineering,0.59
+180,Modern Data Science Institute,Scott Hunter,Engineering,0.67
+181,Global Psychology Institute,Chelsea Walters,Humanities,0.62
+182,Integrated Mathematics Center,Amber Eaton,Healthcare,0.56
+183,Modern Medicine Center,Angela Turner,Environment,0.85
+184,Integrated Computer Science School,Diane White,AI,0.61
+185,Applied Philosophy Department,Michelle Perry,Engineering,0.57
+186,Advanced Robotics Center,Casey Martin,AI,0.78
+187,Modern Education Institute,Mark Nelson Jr.,Engineering,0.99
+188,Global Architecture Institute,Harry Perry,Humanities,0.61
+189,Advanced Fine Arts School,Jeremy Carter,Humanities,0.77
+190,Advanced AI Institute,Cameron Myers,Humanities,0.56
+191,Modern Robotics Department,Robert Stewart,Engineering,0.85
+192,Global Physics Center,Fernando Zimmerman,Engineering,0.59
+193,Modern Engineering Center,Garrett Rose,AI,0.78
+194,Global Fine Arts Center,Michael Ross,Healthcare,0.69
+195,Advanced Political Science School,Nathaniel Ellis,Humanities,0.58
+196,Integrated Education Department,Gregory Hall,Healthcare,0.7
+197,Innovative AI School,Stephen Williams,AI,0.51
+198,Advanced Computer Science Institute,Kevin Anderson,Environment,0.89
+199,Global Psychology Department,Julie Ortega,Engineering,0.77
+200,Applied AI School,Marcus Ortega,Engineering,0.77
+201,Global Quantum Computing Center,Evan Mcintyre,Humanities,0.91
+202,Integrated Fine Arts Center,Alexandria Olsen,Humanities,0.8
+203,Applied Fine Arts School,Michael Rivers,Humanities,0.63
+204,Advanced Education School,Jacqueline Parker,Humanities,0.95
+205,Global Robotics Institute,Joseph Murphy,Healthcare,0.92
+206,Applied Biology Center,David Stout,Environment,0.9
+207,Advanced Data Science Department,John Henry,AI,0.62
+208,Advanced Computer Science Institute,Ethan Russell,Engineering,0.66
+209,Applied Psychology Center,Lisa Holmes,Humanities,1.0
+210,Advanced Mathematics Department,Tammy Gonzalez,Engineering,0.52
+211,Integrated Environmental Science Institute,Russell Elliott,Environment,0.82
+212,Advanced Quantum Computing Institute,Joseph Smith,Environment,0.58
+213,Applied History School,Scott Rice,Engineering,0.75
+214,Modern Psychology School,Sharon Edwards,Healthcare,0.63
+215,Advanced Chemistry School,Alexander Nguyen,Environment,0.67
+216,Applied Sociology School,David Harper,Engineering,0.51
+217,Innovative AI Center,William Stephens,AI,0.71
+218,Integrated Political Science Center,Timothy Reyes,Humanities,0.54
+219,Global Law Department,Jeffrey Johnson,Healthcare,0.55
+220,Global Data Science Institute,Bruce Turner,AI,0.55
+221,Advanced Robotics School,Ian Phelps,Humanities,0.53
+222,Applied Political Science Center,Michael George,Healthcare,0.59
+223,Innovative Law Institute,Amy Williams,AI,0.61
+224,Integrated Political Science School,Mark Scott,Engineering,0.81
+225,Applied Physics Department,Tara Garrett,Healthcare,0.72
+226,Modern Biology Institute,Deborah Contreras,AI,0.85
+227,Innovative Law Center,Michael Robinson,Environment,0.84
+228,Advanced Robotics Department,Maria Davis,AI,0.59
+229,Modern Data Science Center,Richard Henderson,Environment,0.59
+230,Modern Education Center,Anthony Baker,AI,0.52
+231,Advanced Law School,Mario Mcgrath,AI,0.98
+232,Applied Nursing Department,Thomas Smith,Engineering,0.54
+233,Modern Medicine Department,Michael Riley,AI,0.92
+234,Advanced Education Institute,Christopher Smith,AI,0.97
+235,Integrated Biology Institute,Kelly Lopez,Healthcare,0.68
+236,Integrated Law Department,Jasmine Ramos,Humanities,0.95
+237,Integrated Law School,Benjamin Castro,Humanities,0.7
+238,Applied History Center,Scott Smith,Engineering,0.68
+239,Integrated Sociology Center,Kiara Doyle,Humanities,0.67
+240,Innovative Engineering Center,Johnathan Morrow,Humanities,0.62
+241,Advanced Physics Institute,Joshua Gutierrez,Environment,0.8
+242,Innovative Biology Institute,Andrew Johnson,Healthcare,0.95
+243,Integrated Fine Arts Institute,Patricia Yang PhD,AI,0.6
+244,Advanced Medicine Center,Jessica Johnson,AI,0.58
+245,Advanced Quantum Computing Department,Elizabeth Mills,Engineering,0.51
+246,Applied Robotics Institute,Lisa Cooper,AI,0.51
+247,Integrated Fine Arts Institute,Brenda Ayala,Environment,0.9
+248,Modern Nursing Center,Francis Taylor,Engineering,1.0
+249,Applied Robotics Center,Craig Smith,Engineering,0.67
+250,Advanced Physics Institute,Christopher Morris,Humanities,0.91
+251,Advanced Business Administration School,Susan Price,Healthcare,0.89
+252,Integrated Robotics Department,Jenna Curtis,Environment,0.91
+253,Global Biology School,Crystal Mendez,Engineering,0.7
+254,Global Sociology School,Mary Riley,Healthcare,0.8
+255,Applied Biology Center,Stephen Andersen,Environment,0.73
+256,Modern Philosophy Center,Kevin Munoz,Environment,0.78
+257,Innovative Business Administration Institute,Brian Thomas,Environment,0.96
+258,Integrated Computer Science Center,Tracy Smith,Healthcare,0.57
+259,Advanced Computer Science School,Douglas Roth,Humanities,0.77
+260,Advanced Architecture School,Dennis Herrera,Humanities,0.8
+261,Integrated Political Science Center,Matthew Downs,Environment,0.91
+262,Innovative Business Administration Department,Charles Stewart,Environment,0.76
+263,Advanced Law Institute,Matthew Murphy,AI,0.75
+264,Innovative Physics Center,Philip Hernandez,Humanities,0.99
+265,Innovative Economics Center,Alexander Chambers,Humanities,0.58
+266,Modern Environmental Science Center,Kim Smith,Healthcare,0.96
+267,Modern AI Department,Lisa Riley,Environment,0.67
+268,Innovative Nursing Center,Timothy Walker,Humanities,0.94
+269,Global Education Institute,Rebekah Hernandez,Engineering,0.76
+270,Modern Robotics Department,Sheila Mendoza,Humanities,0.97
+271,Applied Education Center,Patricia Humphrey,Healthcare,0.6
+272,Applied History School,Christy Hall,Humanities,0.8
+273,Modern Computer Science School,Spencer Vang,AI,0.55
+274,Global Biology Department,Diana Haynes,Engineering,0.5
+275,Advanced Robotics School,Stephanie Hayes,Healthcare,0.77
+276,Applied Psychology School,Michaela Turner,Humanities,0.76
+277,Applied Law Department,Dylan Swanson,Engineering,0.66
+278,Integrated Nursing Department,Michael Martin,Engineering,0.67
+279,Advanced Environmental Science Institute,Stephen Coffey,Environment,0.93
+280,Modern Architecture Institute,Raven Snow,Environment,0.72
+281,Modern Business Administration Department,Robin Nguyen,AI,0.62
+282,Innovative Law Institute,Stephanie Smith,Environment,0.64
+283,Advanced Engineering Department,Angela Schroeder,AI,0.84
+284,Integrated Sociology School,Katherine Suarez,Engineering,0.52
+285,Applied Political Science Center,Joshua Tucker,AI,0.56
+286,Integrated Education Institute,Brian Blair,Humanities,0.7
+287,Integrated Environmental Science Center,Jordan Lee,AI,0.79
+288,Global AI Center,James Watts,Humanities,0.99
+289,Integrated AI Department,Jason Lee,AI,0.77
+290,Applied Computer Science Center,David Gomez,Humanities,0.68
+291,Applied Chemistry Institute,Lisa Campbell,Environment,0.83
+292,Integrated Mathematics Department,Carrie Castro,Healthcare,0.57
+293,Innovative Fine Arts Department,Ellen Brandt,AI,0.99
+294,Advanced Healthcare School,Victoria Jones,Healthcare,0.54
+295,Innovative History Center,Raymond White,Humanities,0.85
+296,Advanced Physics Institute,Samantha Robbins,AI,0.92
+297,Applied Architecture Institute,Jeffrey Klein,Engineering,0.66
+298,Advanced Chemistry Institute,Theresa Daniels,Environment,0.78
+299,Advanced Law Center,Kevin Johnson,Environment,0.57
+300,Applied Psychology School,Kimberly Howard,Humanities,0.61
+301,Global Law Department,Robert Gregory,Healthcare,0.87
+302,Innovative Law Center,Sabrina Young,Healthcare,0.53
+303,Applied Business Administration Institute,Megan Doyle,Healthcare,0.93
+304,Advanced Law Department,Brendan Garcia,Environment,0.9
+305,Integrated Architecture School,Jeffrey Perry,Environment,0.88
+306,Innovative Data Science Department,Christina Winters,Engineering,0.75
+307,Applied Environmental Science Department,Chris Martin,AI,0.58
+308,Innovative Data Science Department,Carolyn Flores,Engineering,0.95
+309,Advanced Physics Institute,Bethany Travis,Humanities,0.7
+310,Innovative Biology Department,Rodney Barron,Environment,0.72
+311,Innovative Engineering Department,Ian Page,AI,0.57
+312,Global Economics Center,Nicole Smith,Environment,0.79
+313,Applied Fine Arts Institute,Rhonda Bass,Engineering,0.93
+314,Innovative Healthcare School,Terry Merritt,AI,0.61
+315,Applied Sociology School,David Savage,Engineering,0.6
+316,Modern Robotics Center,Ellen Merritt,Humanities,0.68
+317,Global Quantum Computing Center,Sheri Peterson,Engineering,0.96
+318,Innovative Computer Science Center,Ryan Brown,Humanities,0.55
+319,Global Economics Center,Angela Hicks,AI,0.99
+320,Integrated Philosophy School,Courtney Johnson,AI,0.76
+321,Integrated Chemistry School,Dr. Paige Cook,Healthcare,0.51
+322,Advanced Law Department,Eric Murphy,Healthcare,0.74
+323,Global Biology Center,Laura Thompson,Environment,0.51
+324,Modern Mathematics Institute,Gregory Lee,Environment,0.51
+325,Innovative Education School,Julie Moran,Engineering,0.81
+326,Global Robotics Department,Emily Mckee,Engineering,0.61
+327,Applied Nursing Center,Travis Guerra,Healthcare,0.78
+328,Modern History Department,David Brown,Healthcare,0.58
+329,Innovative Philosophy School,Michael Stevens,Healthcare,0.57
+330,Integrated Business Administration Institute,Larry Hanson,AI,0.77
+331,Innovative Business Administration School,Michelle Romero,AI,0.66
+332,Innovative Mathematics Center,Michele Garcia,AI,0.66
+333,Applied Robotics School,Robert Wong,Environment,0.69
+334,Applied Architecture Department,Jeffrey Rose,AI,0.97
+335,Global Physics Institute,Brenda Schmidt,Engineering,0.94
+336,Advanced Fine Arts Center,Stacie Watson,Engineering,0.78
+337,Modern Education Center,Wendy Hart,Engineering,0.55
+338,Modern Business Administration School,Thomas Larsen,Engineering,0.83
+339,Applied Business Administration Institute,Michael Morales,Environment,0.8
+340,Innovative Psychology School,William Lewis,AI,0.89
+341,Advanced AI Department,Olivia Walters,Engineering,0.99
+342,Advanced Law Center,Cody Pope,Humanities,0.83
+343,Applied Education Institute,Anne White,Engineering,0.88
+344,Advanced Quantum Computing School,Justin Holt,Humanities,0.94
+345,Advanced Physics School,Timothy Brown,Humanities,0.83
+346,Global Economics Institute,Chris Smith,Healthcare,0.77
+347,Advanced Fine Arts Department,Betty Chung,Engineering,0.61
+348,Advanced Economics Department,Alison Burns,Humanities,0.83
+349,Global Business Administration Department,Roberto Lowe,Healthcare,0.62
+350,Integrated Education Center,Michael Jimenez,Humanities,0.96
+351,Modern Physics School,Michael Barnes,Environment,0.96
+352,Modern History Department,Jessica Palmer,AI,0.98
+353,Global Quantum Computing Center,Charlene Pierce,Healthcare,0.57
+354,Modern Environmental Science Department,Natalie Lee,Humanities,0.62
+355,Advanced Political Science School,Stacy Hampton,Healthcare,0.56
+356,Innovative Environmental Science Department,Gloria Boyer,Humanities,0.54
+357,Integrated Environmental Science Department,Melissa Brown,Healthcare,0.51
+358,Innovative History Institute,Michael Guerrero,Engineering,0.53
+359,Modern Mathematics School,Emily Manning,Engineering,0.93
+360,Global AI School,Melissa Maldonado,AI,0.76
+361,Applied Biology Institute,Daniel Johnson,Engineering,0.8
+362,Applied AI School,Mr. Cameron Mcdonald,Healthcare,0.59
+363,Integrated Sociology Department,Cindy Simpson,AI,0.81
+364,Modern Physics Center,Matthew Schneider,Environment,0.66
+365,Innovative Data Science Institute,Jeffrey Chaney,Engineering,0.71
+366,Applied Nursing Department,Matthew Johnson,Engineering,0.65
+367,Global Engineering School,Daniel Baldwin,AI,0.74
+368,Advanced Robotics Center,Andrea Bullock,Environment,0.59
+369,Innovative Environmental Science Institute,Megan Stafford,Healthcare,0.78
+370,Integrated AI Institute,Tina Mendez,AI,0.65
+371,Modern AI School,Anthony Smith,Humanities,0.8
+372,Advanced Environmental Science Center,Miss Emma Rowland,AI,0.78
+373,Innovative Mathematics Center,Patricia Conner,Humanities,0.88
+374,Global Fine Arts Institute,Justin Kelly,AI,0.79
+375,Advanced Mathematics Center,Christina Hoover,Environment,0.84
+376,Applied Psychology Institute,Alicia Holmes,Environment,0.89
+377,Integrated Business Administration Department,Kayla Johnson,Engineering,0.54
+378,Modern Quantum Computing School,Juan English,AI,0.61
+379,Modern Healthcare Department,Michael Bass,Healthcare,0.54
+380,Applied Biology School,Kimberly Rodriguez,Humanities,0.53
+381,Innovative Nursing Department,Charles Stevens,Environment,0.96
+382,Applied Chemistry School,Taylor Alvarez,AI,0.89
+383,Advanced Physics Institute,Yvette Rice,Engineering,0.88
+384,Modern Business Administration Department,Brian Holmes,AI,0.75
+385,Applied Mathematics Institute,Victoria Hall PhD,Healthcare,0.72
+386,Innovative Psychology Department,George Wong,Engineering,0.93
+387,Advanced Robotics Institute,Dr. Christopher Crosby,Healthcare,0.89
+388,Innovative Quantum Computing Department,Paul Potts,Healthcare,0.8
+389,Innovative Law Center,April Fisher,AI,0.79
+390,Global Economics Institute,Sarah Barber,AI,0.8
+391,Innovative Sociology Institute,Samantha Parker,Environment,0.69
+392,Integrated Quantum Computing Center,Darryl Davis,Environment,0.75
+393,Integrated Medicine Institute,Lisa Hartman,Humanities,0.62
+394,Applied Chemistry Institute,Donna David,Environment,0.95
+395,Integrated Fine Arts Department,Lisa Porter,Engineering,0.98
+396,Applied Philosophy Department,Laura Scott,Environment,0.84
+397,Integrated History School,Casey Johnson,Healthcare,0.85
+398,Innovative Philosophy Center,Andrew Maldonado,AI,0.56
+399,Advanced Nursing Center,Mandy Munoz,AI,0.93
+400,Integrated Engineering Department,Dominique Hill MD,Healthcare,0.68
+401,Innovative Business Administration School,Susan Roman,AI,0.87
+402,Innovative Business Administration Institute,Karen Williams,Healthcare,0.72
+403,Modern Data Science Center,Kayla Hurley MD,Humanities,0.94
+404,Integrated Chemistry Center,Matthew Cummings,Engineering,0.87
+405,Modern Physics Department,Jeffrey Montgomery,Humanities,0.95
+406,Modern Healthcare Department,Janice Moore,Humanities,1.0
+407,Applied AI Institute,Maria Brown,Healthcare,0.65
+408,Global Robotics School,Cindy Beck,Humanities,0.94
+409,Global Healthcare Department,Stephen Singleton,Environment,0.76
+410,Modern Psychology Institute,Melissa Davis,Healthcare,0.6
+411,Integrated Engineering Center,Shane Mitchell,Humanities,0.84
+412,Modern Biology Center,Melanie Stark,AI,0.67
+413,Modern Architecture School,Sara Alexander,Environment,0.98
+414,Applied Philosophy Department,Kevin Ramos,Engineering,0.57
+415,Innovative Law Institute,Teresa Edwards,Environment,0.87
+416,Advanced Sociology Institute,Alexandra Cox,Environment,0.55
+417,Global Fine Arts Department,Phillip Ward,Engineering,0.51
+418,Advanced Education School,Brian Ramirez,Engineering,0.52
+419,Global Political Science Institute,Maria Avila,Humanities,0.74
+420,Modern Mathematics Center,Jeffrey Smith,AI,0.96
+421,Advanced Mathematics Center,Michael Clark,Humanities,0.64
+422,Global Chemistry School,Danielle Sloan,Humanities,0.65
+423,Advanced Chemistry Center,Shelby Mejia,AI,0.56
+424,Advanced History School,James Long,AI,0.53
+425,Applied History Center,Karen Aguilar,Healthcare,0.89
+426,Advanced Biology Institute,Mark Turner,Environment,0.83
+427,Applied Sociology School,Connie Conner,Healthcare,0.55
+428,Advanced Medicine School,Jill Guerra,Humanities,0.74
+429,Global Environmental Science Department,Julia Krause,Humanities,0.58
+430,Advanced AI Department,Patricia Rosario,Humanities,0.83
+431,Modern Education School,Morgan Hill,AI,0.56
+432,Integrated Philosophy School,Maria Mcdaniel,Healthcare,0.85
+433,Global Fine Arts Center,Dalton Harris,Healthcare,0.79
+434,Integrated Mathematics School,Andrew Hansen Jr.,Humanities,0.82
+435,Innovative Chemistry Center,Melissa Horne,Healthcare,0.56
+436,Modern Engineering Center,William Pennington,Humanities,0.59
+437,Advanced AI Institute,Alan Yang,Healthcare,0.57
+438,Advanced Biology Center,Rebecca Sullivan,Healthcare,0.89
+439,Innovative Quantum Computing School,Michael Riggs,Healthcare,0.67
+440,Applied Nursing Center,Jacob Chavez,Environment,0.7
+441,Modern Psychology Institute,Michael Russell,AI,1.0
+442,Applied Chemistry Department,Michael Contreras,AI,0.5
+443,Applied Robotics Center,Brenda Barnes,Humanities,0.73
+444,Advanced Computer Science Center,Diane Swanson,Humanities,0.85
+445,Applied Environmental Science School,James Mullen,AI,0.82
+446,Modern Healthcare Institute,James Carpenter,Environment,0.72
+447,Modern Business Administration Institute,Troy Smith,Humanities,0.53
+448,Innovative Education Institute,Joseph Larson,Healthcare,0.64
+449,Advanced Biology Department,John Brown,Engineering,0.68
+450,Advanced Chemistry Institute,Andre Sanders,Healthcare,0.98
+451,Modern Psychology Department,Daniel Woodard,Environment,0.84
+452,Integrated Physics School,Marc Walsh,Environment,0.97
+453,Global Data Science Institute,Melissa Howard,AI,0.73
+454,Applied Architecture Institute,Misty Walker,Environment,0.62
+455,Advanced Environmental Science Department,Bradley Norris,AI,0.51
+456,Modern Engineering School,Amanda Kennedy,Healthcare,0.83
+457,Advanced Biology School,Amy Mann,Humanities,0.66
+458,Global Environmental Science Center,Victoria Fowler,Environment,0.57
+459,Integrated Medicine Center,Raymond Mckinney,Healthcare,0.62
+460,Modern Education Center,Maria Holmes,Healthcare,0.72
+461,Integrated Quantum Computing Department,Brandi Moore,AI,0.68
+462,Applied Architecture Department,Michael Thomas,Healthcare,0.89
+463,Applied Engineering Institute,Alison Osborn,Environment,0.67
+464,Innovative Psychology Department,Holly Osborne,Engineering,0.54
+465,Advanced Education Department,Edward Roberson,AI,0.94
+466,Applied Chemistry Institute,Morgan Joseph,Healthcare,0.66
+467,Modern AI Center,Mr. Zachary Wright DDS,Healthcare,0.7
+468,Modern Law Department,Lisa Galvan,Healthcare,0.84
+469,Applied Political Science Institute,Laura Reyes,Humanities,0.99
+470,Applied Robotics Center,Brandon Phillips MD,Healthcare,0.82
+471,Integrated Fine Arts Department,Patricia Clark,Healthcare,0.54
+472,Modern Nursing Center,Thomas Little,Healthcare,0.61
+473,Advanced Business Administration Department,Paul House,Healthcare,0.67
+474,Modern Education School,Mr. Joseph Davis,Engineering,0.69
+475,Innovative Political Science Center,Veronica Boyd,Healthcare,0.83
+476,Integrated Political Science Institute,Tony Bishop,Engineering,0.91
+477,Integrated Psychology Department,Jennifer Stafford,Environment,0.91
+478,Innovative Political Science Institute,Robert Taylor,Healthcare,0.85
+479,Integrated Political Science Institute,James Phillips,Engineering,0.92
+480,Advanced Robotics Institute,Gail Lewis,Environment,0.72
+481,Applied Medicine Center,Sharon Glenn,Healthcare,0.65
+482,Advanced Fine Arts Center,George Rhodes,Environment,0.93
+483,Integrated Sociology Center,John Cross,Engineering,0.75
+484,Advanced Education School,Sara English,Healthcare,0.53
+485,Applied History Center,Claire Richardson,AI,0.9
+486,Integrated Physics Institute,Sabrina Clark,Humanities,0.92
+487,Innovative Environmental Science Center,Christopher Vazquez,Humanities,0.81
+488,Integrated Chemistry Institute,Savannah Wagner,Environment,0.65
+489,Applied Engineering School,Lee Bailey,Engineering,0.84
+490,Advanced Medicine Center,Robert Lane Jr.,Engineering,0.7
+491,Advanced Philosophy Department,Destiny Hill,AI,0.79
+492,Applied Education Institute,Melissa Hatfield,Environment,0.67
+493,Advanced Political Science Department,Mary Knight,Engineering,0.68
+494,Modern Robotics Department,Roy Austin,Environment,0.52
+495,Integrated Computer Science Center,Laura Daniel,AI,0.84
+496,Modern Education Center,Mrs. Cheryl Marsh PhD,Humanities,0.94
+497,Global Data Science Institute,Cody Jenkins,Engineering,0.7
+498,Integrated Quantum Computing Department,Christopher Ramirez,Humanities,0.9
+499,Applied Robotics School,Mr. Ryan Parker DDS,Healthcare,0.84
+500,Modern Mathematics Center,James Bell,Environment,0.96
+501,Global Computer Science Institute,Amanda Willis,Engineering,0.71
+502,Applied Business Administration School,Stacy Nichols,Healthcare,0.53
+503,Integrated Medicine School,Alexander Molina,Healthcare,0.68
+504,Modern Physics School,Scott Martin,AI,0.98
+505,Global Sociology School,Ashley Mckinney,AI,0.55
+506,Modern Political Science Department,Aaron Martinez,Healthcare,0.7
+507,Global Chemistry Institute,Yvonne Carter,Humanities,0.58
+508,Modern Engineering Institute,Lori Snyder,Engineering,0.8
+509,Global Healthcare Institute,Crystal Campbell,Humanities,0.98
+510,Global Education Center,Jeffrey Koch,Healthcare,0.55
+511,Integrated Political Science Center,Theodore Buckley,AI,0.62
+512,Integrated Philosophy Department,Erin Chapman,Healthcare,0.6
+513,Integrated Philosophy Department,Brian Peterson,Healthcare,0.75
+514,Integrated Business Administration School,Charles Kelley,AI,0.75
+515,Innovative Environmental Science Department,John Ramos,Healthcare,0.94
+516,Integrated Data Science Department,Vicki Rogers,Healthcare,0.64
+517,Global AI Center,James Sanchez,AI,0.68
+518,Innovative Fine Arts Center,Robert Wallace,Environment,0.96
+519,Global Engineering Department,Cindy Andrews DDS,AI,0.93
+520,Modern Chemistry Department,Mr. Joshua Wheeler DDS,Healthcare,0.76
+521,Modern Chemistry Department,Peter Snyder,Engineering,0.72
+522,Advanced Political Science School,Jenna Houston,Engineering,0.88
+523,Integrated Political Science Center,Carol Rodriguez,Engineering,0.85
+524,Advanced History Institute,Michelle Rubio,Humanities,0.51
+525,Innovative Physics Department,Jennifer Chavez,Engineering,0.96
+526,Advanced Data Science Department,Jose Clark,Environment,0.92
+527,Advanced Chemistry Center,Victoria Brown,Humanities,0.82
+528,Advanced Philosophy Department,John Mason,Engineering,0.81
+529,Applied Philosophy Department,Stephanie Harris,Engineering,0.51
+530,Modern Computer Science School,Ashley Espinoza,Humanities,0.65
+531,Advanced Law Institute,Dylan Smith,Humanities,0.82
+532,Advanced History School,Yvonne Mcdaniel,Healthcare,0.77
+533,Integrated Nursing Department,Duane Velasquez,Humanities,0.66
+534,Advanced Nursing Department,Jonathan Myers,Engineering,0.89
+535,Integrated Quantum Computing School,David Rodriguez,Healthcare,0.57
+536,Integrated Business Administration Center,Harold Black,Environment,0.59
+537,Integrated Philosophy Institute,Kaitlyn Hughes,Humanities,0.75
+538,Global Computer Science Department,Madison Flores,Healthcare,0.59
+539,Advanced Mathematics School,Scott Stewart,Healthcare,0.57
+540,Modern Physics School,Kimberly Romero,Environment,0.93
+541,Advanced Economics Institute,Trevor Wright,Engineering,1.0
+542,Advanced Architecture Center,Robin Choi,Humanities,0.73
+543,Applied Business Administration Institute,David May,AI,0.62
+544,Modern Environmental Science Center,Michael Wong,Humanities,0.56
+545,Innovative Computer Science Center,Allison Dennis,Environment,0.93
+546,Integrated Engineering Institute,Leon Villanueva,Healthcare,0.91
+547,Advanced Architecture Department,Nicole Reynolds,Engineering,0.99
+548,Applied Psychology Center,Jonathan Grant,Engineering,0.77
+549,Modern Sociology Center,Zachary Owens,Environment,0.52
+550,Innovative Quantum Computing Center,Lisa Edwards,Engineering,0.92
+551,Integrated Nursing School,Kevin Russell,Healthcare,0.88
+552,Integrated Medicine School,Andre Leonard,Healthcare,0.9
+553,Innovative Chemistry Center,Joseph Clark,AI,0.81
+554,Advanced Fine Arts School,Melissa Conner,Healthcare,0.89
+555,Global Mathematics Center,Ronald Maxwell,Healthcare,0.53
+556,Advanced Sociology Department,Jared Gates,Environment,0.95
+557,Modern Environmental Science Department,Maria Reed,AI,0.96
+558,Applied AI Institute,Susan Turner,Healthcare,0.76
+559,Modern Nursing School,Benjamin Fields,AI,0.64
+560,Global Biology Center,Mr. Jonathan Lawrence,AI,0.59
+561,Advanced Mathematics Institute,Martin Clark,Humanities,0.8
+562,Integrated Data Science School,Matthew Rivera,AI,0.78
+563,Advanced Psychology School,Jared Edwards,AI,0.54
+564,Advanced Healthcare Center,Samantha Krause,Engineering,0.61
+565,Modern Robotics Department,Taylor Bailey,Humanities,0.84
+566,Modern Political Science Center,Timothy Salinas,Healthcare,0.97
+567,Modern Business Administration Institute,Brittney Allen,Humanities,0.94
+568,Advanced Political Science Center,Shawn Jacobson,AI,0.75
+569,Applied Mathematics Center,Alisha Martinez,Healthcare,0.78
+570,Integrated Mathematics Department,Todd Valentine,Environment,0.81
+571,Global Mathematics Center,Gail Lambert,Environment,0.77
+572,Advanced Robotics Institute,Daniel Anderson,AI,0.72
+573,Modern Engineering Institute,Kellie Perkins,AI,0.6
+574,Innovative Fine Arts Center,Jenny Cox,Engineering,0.75
+575,Integrated AI Center,Caleb Erickson,Environment,0.69
+576,Global Psychology Institute,Keith Murphy,Engineering,0.59
+577,Global Fine Arts School,Sherri Rogers,Humanities,0.8
+578,Innovative Mathematics Institute,Kimberly Crawford,Environment,0.76
+579,Innovative Engineering Center,Joshua Lopez,Healthcare,0.95
+580,Innovative History Department,William Flynn,Engineering,0.62
+581,Integrated AI School,Antonio Malone,AI,0.89
+582,Innovative Engineering School,Beverly Wright,Humanities,0.67
+583,Innovative Sociology Department,Gary Flowers,Humanities,0.81
+584,Global Fine Arts Center,Laura Lewis,Humanities,0.75
+585,Global Political Science School,Angela Sutton,Environment,0.89
+586,Innovative Chemistry School,Amber Gonzalez,Healthcare,0.72
+587,Modern Political Science Institute,Henry Anderson,Healthcare,0.77
+588,Global Chemistry Department,Haley Jackson,Environment,0.62
+589,Integrated Psychology Department,Jamie Stephens,Healthcare,0.71
+590,Applied Psychology Department,Debra Smith,Engineering,0.53
+591,Modern Architecture Center,Belinda Miranda,Engineering,0.51
+592,Integrated History Institute,Leah Soto,AI,0.84
+593,Applied Sociology School,Joel Myers,Engineering,0.54
+594,Advanced Sociology Institute,Michael Holt,Humanities,0.84
+595,Applied Quantum Computing School,Jody Charles,AI,0.62
+596,Integrated Computer Science Center,Sabrina Rodriguez,Environment,0.7
+597,Advanced Architecture Department,Karen Ray,Environment,0.86
+598,Integrated Mathematics Center,Nicholas King,Humanities,0.67
+599,Applied Robotics Center,Cynthia Douglas,AI,0.97
+600,Modern History School,Andrew Johnston,Engineering,0.79
+601,Applied Economics Institute,James Gill,Engineering,0.73
+602,Integrated Data Science Center,Pamela Evans,Engineering,0.58
+603,Advanced Environmental Science Department,Anthony Williams,AI,0.92
+604,Modern Business Administration Department,Logan Spencer,Healthcare,0.67
+605,Global Education Institute,Robert Martin,Engineering,0.88
+606,Modern Medicine Institute,Carol Smith DVM,Humanities,0.65
+607,Global Quantum Computing Department,Bruce Cox,AI,0.99
+608,Applied Chemistry Department,Teresa Black,Environment,0.5
+609,Integrated Psychology Department,Melinda Chen,Healthcare,0.5
+610,Integrated Law Center,Kristen Archer DDS,Humanities,0.66
+611,Integrated Environmental Science Center,Jennifer Boyd,Humanities,0.82
+612,Global AI Department,Briana Irwin,Healthcare,0.93
+613,Advanced Political Science Department,Chris Reyes,AI,0.62
+614,Integrated Architecture Center,Justin Stark,Healthcare,0.7
+615,Integrated Business Administration Department,Christina Taylor,Engineering,0.67
+616,Modern Biology Department,Jill Bishop,Engineering,0.7
+617,Innovative Healthcare Department,Tracy Sanchez,Humanities,0.66
+618,Integrated Education Institute,Mrs. Deanna Carter,Humanities,0.54
+619,Global Law Institute,Eric Guzman,Humanities,0.64
+620,Applied Political Science Institute,Larry Miranda,Humanities,0.68
+621,Modern AI Department,Lindsay Oconnor,Humanities,0.96
+622,Innovative Environmental Science Institute,Debra Ward,AI,0.61
+623,Integrated Chemistry Institute,Heather Palmer,Humanities,0.95
+624,Integrated Chemistry School,Rachel Chavez,Engineering,0.67
+625,Applied Robotics Department,Michael Massey,Engineering,0.92
+626,Global Philosophy School,Carolyn Patterson,Healthcare,0.75
+627,Advanced History Center,Mark Shelton,Humanities,0.86
+628,Applied Physics Department,Patrick Davis,Humanities,0.64
+629,Integrated Psychology School,Tina Palmer,Healthcare,0.86
+630,Applied Physics Center,Allen Lopez,Environment,0.99
+631,Advanced AI Department,Alicia English,Environment,0.66
+632,Global Mathematics School,Brandon Williams,Healthcare,0.73
+633,Advanced AI Center,Peter Reid,Humanities,0.82
+634,Global Physics School,Brittany Martinez,Engineering,0.52
+635,Innovative Mathematics Department,Ronald Matthews,AI,0.85
+636,Global Law Center,James Tate,Humanities,0.54
+637,Advanced Law Center,Ray Garcia,AI,0.76
+638,Advanced Engineering School,April Burton,Environment,0.82
+639,Applied Fine Arts School,Kayla Jordan,Environment,0.69
+640,Integrated Law Center,Christine White,Healthcare,0.86
+641,Modern Computer Science Center,Andrew Hernandez,AI,0.96
+642,Advanced Healthcare Center,Katherine Jones,Humanities,0.65
+643,Innovative Quantum Computing Department,Debra Allen,AI,0.76
+644,Innovative Sociology Center,Jennifer Daniels,Environment,0.7
+645,Global Sociology Center,Paige Caldwell,Healthcare,0.57
+646,Innovative Philosophy Department,Maurice Walker,Engineering,0.55
+647,Advanced Economics School,Teresa Lewis,AI,0.68
+648,Modern History Department,Michele Knight,Humanities,0.54
+649,Advanced Physics Institute,Jeffrey Brown,Environment,0.94
+650,Advanced Nursing Department,Mary Adams,Environment,0.67
+651,Global Chemistry School,Wendy Wade,Humanities,0.59
+652,Modern Quantum Computing Department,Mrs. Alyssa Dunlap DVM,AI,0.51
+653,Advanced Fine Arts Institute,Michael Clark,Engineering,0.95
+654,Integrated Business Administration Center,Colleen Reese,Humanities,0.73
+655,Modern Law Department,Billy Smith,Engineering,0.91
+656,Integrated Chemistry Institute,Breanna Harding,Healthcare,0.89
+657,Advanced Psychology Department,Ronald Pope,Healthcare,0.55
+658,Advanced Economics Institute,Ashley Villanueva,Healthcare,1.0
+659,Global Healthcare Center,Bradley Davis,AI,0.59
+660,Innovative Political Science Institute,Michelle Hill,Healthcare,0.72
+661,Innovative Healthcare Center,Antonio Williams,Engineering,0.93
+662,Innovative Nursing School,Keith Santiago,Humanities,0.59
+663,Integrated Environmental Science Department,Paul Moore,Healthcare,0.8
+664,Global AI School,Mr. Gerald Foster,AI,0.67
+665,Global Law School,Paul Woodard Jr.,Environment,0.99
+666,Advanced Robotics Center,Jasmine Hogan,Humanities,0.66
+667,Advanced Psychology Institute,Kelly Matthews,Engineering,0.67
+668,Global Mathematics Institute,David Robertson,AI,0.58
+669,Innovative Physics Center,Veronica Kerr,Environment,0.92
+670,Integrated Robotics Center,Andrew Peterson,Healthcare,0.73
+671,Global History Institute,Megan Parrish,Engineering,0.84
+672,Integrated Computer Science Center,Jason King,Healthcare,0.61
+673,Integrated Business Administration Center,Andrew James,AI,0.59
+674,Applied Mathematics Department,Sarah Smith,AI,0.97
+675,Innovative Economics Institute,Jacob Jenkins,AI,0.85
+676,Applied Nursing Center,David Williams,Environment,0.63
+677,Applied Engineering Center,Randy Novak,AI,0.63
+678,Global Fine Arts Center,Joseph Vargas,AI,0.6
+679,Innovative Psychology Institute,Marissa Robles,AI,0.75
+680,Applied Economics School,Shawn Nelson,Environment,0.59
+681,Global Architecture Department,Dr. Matthew Perkins,Environment,0.85
+682,Integrated Healthcare Department,Brian Mejia,Humanities,0.97
+683,Applied Physics Department,Tiffany Shaw,Environment,0.92
+684,Integrated Quantum Computing Institute,Corey Wilson,Environment,0.72
+685,Integrated Computer Science School,Ralph Hopkins,AI,0.59
+686,Advanced Computer Science Institute,Veronica Patterson,Environment,0.51
+687,Applied AI Center,Dr. Vickie Garcia,Environment,0.62
+688,Global Quantum Computing Department,Valerie Arnold,AI,0.88
+689,Advanced Medicine School,Mikayla Andrade,AI,0.8
+690,Global Business Administration Center,Ann Chaney,Environment,0.8
+691,Global AI Department,Sydney Jones,Healthcare,0.56
+692,Applied Law School,Jeffrey Chandler,Healthcare,0.62
+693,Global Law School,Andrew Trujillo,Humanities,0.77
+694,Innovative Fine Arts Center,Sara Clark,Environment,0.89
+695,Integrated Mathematics Department,Joseph Holmes,Healthcare,0.7
+696,Applied Chemistry School,Christopher Jones,AI,0.68
+697,Innovative Fine Arts Institute,Paul Brown,AI,0.88
+698,Innovative Robotics School,Samantha Anderson,Healthcare,0.78
+699,Applied Business Administration Institute,Matthew Young,AI,0.99
+700,Integrated Physics School,Anthony Wallace,Engineering,0.71
+701,Global Business Administration School,Bernard Smith,Humanities,0.76
+702,Modern Computer Science Center,Brianna Garner,AI,0.66
+703,Innovative Data Science Center,Cody Schaefer,Engineering,0.95
+704,Global Engineering Department,Angela Jimenez,AI,0.85
+705,Modern Physics Institute,Jacob Poole,Environment,0.95
+706,Integrated Engineering Department,Emma Adams,AI,0.58
+707,Advanced AI Institute,Deborah Durham,Humanities,0.85
+708,Innovative Engineering Center,Mark Armstrong,Healthcare,0.56
+709,Innovative Biology Center,Beth Brown,Engineering,0.62
+710,Modern Environmental Science Institute,Kristi Sexton,AI,0.82
+711,Applied Architecture Institute,Jonathan Jones,Engineering,0.82
+712,Global Engineering Center,Cameron Evans,AI,0.73
+713,Applied Mathematics Institute,Tina Brown,Humanities,0.97
+714,Global Engineering Institute,Diane Davies,Healthcare,0.8
+715,Applied Quantum Computing Department,James Jackson,Healthcare,0.61
+716,Innovative Law Department,Courtney Tyler,Environment,0.97
+717,Global Mathematics Department,Amy Brown MD,Humanities,0.76
+718,Modern Philosophy Center,Jose Hernandez,Environment,0.66
+719,Advanced Robotics Department,Trevor Jones,Engineering,0.87
+720,Innovative Nursing School,Jill Robinson,Environment,0.57
+721,Innovative Philosophy Department,Aaron Williams,Healthcare,0.79
+722,Global Robotics Institute,Joseph Tucker,Humanities,0.74
+723,Advanced AI Institute,Kayla Zimmerman,Humanities,0.71
+724,Applied Medicine Institute,James Hoffman,Engineering,0.92
+725,Advanced Environmental Science Center,Mary Sampson,Humanities,0.93
+726,Innovative Education School,Lance Herman,Environment,0.52
+727,Modern Nursing Department,Jennifer White,Engineering,0.9
+728,Integrated Healthcare School,Andrea Williams,Environment,0.65
+729,Integrated Computer Science Department,Daryl Medina,AI,0.82
+730,Global Environmental Science Department,Brenda Graves,Humanities,0.76
+731,Advanced Data Science Center,William Rosales,Environment,0.61
+732,Modern Architecture Institute,Kenneth Holland,Humanities,0.71
+733,Innovative Sociology Department,Jessica Rocha MD,Humanities,0.89
+734,Modern Chemistry Center,Elizabeth Johnson,Humanities,0.57
+735,Modern Business Administration Department,Christian Robinson,Healthcare,0.62
+736,Modern Healthcare Center,Ryan Parsons,Healthcare,0.93
+737,Innovative Chemistry Center,Debbie Williams,Engineering,0.89
+738,Advanced Economics School,Michael Hodge,Humanities,0.95
+739,Integrated Robotics Department,Anthony Everett,AI,0.9
+740,Innovative Biology Department,Veronica Graham,Engineering,0.7
+741,Modern Fine Arts Institute,Katherine Rojas,Healthcare,0.85
+742,Global Engineering School,Lynn Friedman,Engineering,0.91
+743,Applied Fine Arts Institute,Angela Finley,Humanities,0.72
+744,Integrated Physics Center,Ronald Mccann,Humanities,0.84
+745,Innovative Philosophy School,Cindy Rivera,AI,0.61
+746,Integrated Education School,Elizabeth Allen,Humanities,0.77
+747,Applied Nursing Institute,Samantha Foster DDS,Engineering,0.74
+748,Integrated Economics Department,Matthew Oliver,Environment,0.91
+749,Advanced Quantum Computing Center,Darlene Maddox,Healthcare,0.53
+750,Modern Fine Arts School,Samuel Jimenez,Healthcare,0.94
+751,Applied Business Administration Center,Rebecca Cummings,Engineering,0.64
+752,Global Sociology Center,Patrick Rios,Environment,0.73
+753,Advanced Data Science Institute,Dean Hull,Humanities,0.94
+754,Advanced Physics Institute,Luis Holmes,Environment,0.66
+755,Applied Psychology Institute,Jean Peters,Humanities,0.63
+756,Advanced Law Institute,Denise Rowe,Environment,0.55
+757,Applied Education Department,Cory Shaw,Humanities,0.96
+758,Modern Architecture Institute,Dr. Teresa Hill,Engineering,0.84
+759,Global Psychology Center,Nicole Shepard,Humanities,0.65
+760,Global Nursing School,Leah Crawford,AI,0.94
+761,Advanced Biology School,Brittany Bell,Engineering,0.98
+762,Advanced Fine Arts School,Courtney Shields,Environment,0.69
+763,Innovative Biology School,Taylor Long,Healthcare,0.89
+764,Modern Data Science School,Brenda Flores,AI,0.97
+765,Innovative Engineering Center,Pamela Thompson,Humanities,0.9
+766,Integrated Political Science Center,Fernando Morrow,Engineering,0.83
+767,Global Biology School,Jessica Hensley MD,Humanities,0.59
+768,Applied Quantum Computing Center,Kayla Snyder,AI,0.66
+769,Modern Business Administration Center,Madison Mcdaniel,AI,0.5
+770,Modern Fine Arts Institute,Theodore Martin,Humanities,0.98
+771,Modern Sociology School,Hannah Cobb,Environment,0.57
+772,Modern Healthcare School,Christopher Flores,Humanities,0.54
+773,Global Environmental Science Institute,Katelyn Marshall,Healthcare,0.8
+774,Innovative History Center,Erin Mooney,Environment,0.79
+775,Innovative Mathematics Center,John Montoya,Engineering,0.96
+776,Advanced Philosophy Center,Paula Phillips,Engineering,0.89
+777,Integrated Robotics Institute,Stephanie Blevins,Humanities,0.84
+778,Integrated Engineering Center,Thomas Campos,AI,0.59
+779,Advanced Engineering Institute,Andrea Miller,Environment,0.73
+780,Advanced Sociology Institute,Jack Thompson,Engineering,0.88
+781,Innovative Computer Science Department,Matthew Monroe,Humanities,0.95
+782,Innovative Mathematics Institute,Craig Walker,Humanities,0.75
+783,Applied Biology Department,Heather Delgado,Healthcare,1.0
+784,Integrated Quantum Computing Center,Dwayne Martin,Healthcare,0.74
+785,Integrated Philosophy Department,Erin Sanchez,Healthcare,0.7
+786,Integrated Computer Science Institute,Dr. David Rodriguez MD,Healthcare,0.7
+787,Innovative Economics Center,Brian Ochoa,Healthcare,0.87
+788,Integrated Robotics Center,Angel Nelson,Environment,0.59
+789,Modern Computer Science Department,Johnny Burton,Engineering,0.88
+790,Advanced Philosophy Institute,Dominique Gutierrez,Humanities,0.93
+791,Applied Nursing Department,Kristen Taylor,Healthcare,0.94
+792,Global Robotics School,James Cortez,Humanities,0.86
+793,Global Quantum Computing School,Melissa Walker,Environment,0.76
+794,Innovative AI Institute,Abigail Price,AI,0.65
+795,Advanced Physics Department,Mr. Michael Sawyer,AI,0.52
+796,Applied Engineering Department,Jennifer Harvey,AI,0.5
+797,Integrated AI School,Ebony Nicholson,Environment,0.87
+798,Integrated Chemistry Center,Ashley Kim,Environment,0.52
+799,Innovative Nursing School,April Morales,Environment,0.91
+800,Advanced Architecture School,Jaime Stewart,Environment,0.52
+801,Applied Political Science Institute,Devin White,Environment,0.72
+802,Innovative Architecture Department,Kayla Baker,Environment,0.75
+803,Modern Economics Center,Christopher Gray,Humanities,0.71
+804,Applied Political Science Institute,Erin Shaffer,Healthcare,0.81
+805,Modern Engineering Department,Melanie Henderson,Humanities,0.89
+806,Advanced Healthcare Department,Tonya Young,Healthcare,0.67
+807,Applied Biology Institute,Sophia Smith,AI,0.76
+808,Integrated Engineering Center,Mario Williams,Healthcare,0.75
+809,Advanced Architecture Center,Kathleen Buchanan,Environment,0.56
+810,Global Nursing School,Earl Velasquez,Environment,0.56
+811,Advanced Biology Institute,Doris Chavez,Humanities,0.63
+812,Innovative Law Department,Juan Chen,Humanities,0.6
+813,Innovative Biology Department,Gary West,Environment,0.75
+814,Global Engineering Institute,Sarah Castillo,Environment,0.52
+815,Modern Environmental Science Center,Christopher Marshall,Environment,0.62
+816,Applied Mathematics Institute,Jennifer Hoffman,Healthcare,0.58
+817,Innovative Quantum Computing Department,Lauren Conley,Healthcare,0.77
+818,Advanced Architecture Center,Ashley Black,AI,0.86
+819,Innovative Psychology Institute,Michael Lee,Engineering,0.9
+820,Applied Business Administration Center,Bianca Welch,Humanities,0.74
+821,Advanced Quantum Computing School,Thomas Stephens,Humanities,0.55
+822,Global Environmental Science School,Ashley Moore,Humanities,0.61
+823,Advanced Data Science Institute,Laura Smith,Healthcare,0.84
+824,Innovative Education School,Mary Turner,Humanities,0.62
+825,Applied Psychology Center,Patricia Gonzalez,Environment,0.87
+826,Global Medicine Department,Mr. James Cook MD,AI,0.67
+827,Integrated Education Center,David Cruz,Environment,0.55
+828,Innovative Psychology Institute,Brandi Daugherty,Environment,0.82
+829,Applied Physics Department,Cindy Smith,Engineering,0.67
+830,Integrated AI Department,Taylor Baker,Healthcare,0.53
+831,Global Medicine School,Joseph Moody,AI,0.84
+832,Integrated Architecture Center,Debbie Spence,Healthcare,0.99
+833,Advanced Robotics Center,Rebecca Stevens,Engineering,0.7
+834,Applied Engineering Institute,Trevor Everett,AI,0.75
+835,Advanced AI Institute,John Larson,Engineering,0.81
+836,Advanced Education Center,Max Clark,Humanities,0.82
+837,Modern Psychology Department,Peter Ayers,Environment,0.54
+838,Integrated Architecture Center,Andrew Wilson,Humanities,0.71
+839,Integrated Philosophy Center,Jessica Brown,AI,0.53
+840,Global Biology Department,Lisa Liu,Environment,0.54
+841,Applied Medicine Center,William Gilbert,Engineering,0.69
+842,Modern Computer Science Department,Charles Matthews III,AI,0.69
+843,Innovative Physics Department,David Mooney,Healthcare,0.97
+844,Global Fine Arts Department,Megan Brown,Humanities,0.72
+845,Global Fine Arts Department,Patricia Mooney,Healthcare,0.52
+846,Advanced Medicine Center,Dana Hall,Engineering,0.92
+847,Integrated Data Science Institute,Deanna Moyer,AI,0.62
+848,Global Healthcare Institute,Kelly Marshall,Healthcare,0.83
+849,Global Psychology School,Johnny Gonzalez,Engineering,0.68
+850,Innovative Engineering Department,Mason Green,Humanities,0.63
+851,Global Environmental Science Center,Theresa Mills,AI,0.56
+852,Applied Education Department,Karen Lewis,Humanities,0.61
+853,Innovative Environmental Science Institute,Michael Gray,Engineering,0.9
+854,Modern Mathematics Institute,Zachary Hawkins,Healthcare,0.55
+855,Innovative Data Science Department,Katherine Holland,Healthcare,0.98
+856,Global Robotics Department,David Goodwin,AI,0.62
+857,Global Sociology Institute,Robert Taylor,Humanities,0.75
+858,Integrated Architecture Institute,Steven Bailey,Healthcare,0.65
+859,Modern Medicine Institute,Roger Brown,Environment,0.62
+860,Global Nursing Department,Brittany Holt,AI,0.86
+861,Global Robotics School,Matthew Mejia,Engineering,0.6
+862,Applied Data Science Institute,Ricardo Smith,Engineering,0.78
+863,Modern Data Science Institute,Lauren Day,Humanities,0.9
+864,Advanced Robotics School,Terrence Hunter,Environment,0.64
+865,Global Law Center,David Davis,Humanities,0.95
+866,Advanced Engineering Institute,Madison Hickman,Healthcare,0.54
+867,Innovative Computer Science Department,Jennifer Potts,AI,1.0
+868,Innovative Computer Science Institute,Kevin Brown,Humanities,0.61
+869,Global Physics Department,Kelly Ho,Environment,0.72
+870,Integrated History School,Joseph Brewer DDS,Healthcare,0.77
+871,Integrated Healthcare Center,Michelle Le,AI,0.88
+872,Integrated Quantum Computing Center,Lauren Petersen,Healthcare,0.62
+873,Applied Data Science School,Steven Nguyen,Humanities,0.76
+874,Modern Architecture Department,Steven Howell,AI,0.68
+875,Applied Business Administration School,Donna Love,AI,0.95
+876,Innovative Robotics Department,Angela Sullivan,Engineering,0.83
+877,Integrated Robotics Institute,Amy Bennett,Engineering,0.72
+878,Applied Physics School,Brenda Cook,Healthcare,0.93
+879,Innovative Biology Center,Zachary Medina,Humanities,0.85
+880,Modern Medicine Department,Casey Decker,Environment,0.62
+881,Modern Robotics Institute,Zachary Wright,Environment,0.7
+882,Innovative Chemistry School,William Gaines,Humanities,0.65
+883,Innovative Philosophy Center,Stephanie Keller,AI,0.73
+884,Advanced Physics School,Bradley Valencia,AI,0.52
+885,Modern Data Science Institute,Sandra Rodriguez,AI,0.8
+886,Advanced Nursing School,Elizabeth Williams,AI,0.57
+887,Advanced Nursing School,James Carr,Engineering,0.71
+888,Integrated Computer Science School,Cheryl Francis,Healthcare,0.62
+889,Modern Nursing Department,Mr. Melvin Smith,Humanities,0.79
+890,Integrated Quantum Computing School,Dylan Robinson,Healthcare,0.86
+891,Modern Mathematics School,Robert Craig,Engineering,0.71
+892,Modern Data Science School,Eileen Gibson,Healthcare,0.58
+893,Integrated Architecture School,Patricia Howell,Humanities,0.74
+894,Integrated Economics Department,Ashley Harris,Humanities,0.58
+895,Advanced Biology School,Joseph York,Environment,0.84
+896,Global Environmental Science Institute,Michael Graham,AI,0.58
+897,Applied Psychology Institute,Jonathan Silva,Environment,0.54
+898,Modern Data Science School,Katherine Hansen,AI,0.89
+899,Global Business Administration Institute,Melissa Martin,Engineering,0.84
+900,Global Philosophy Center,Christopher Mitchell,Environment,0.75
+901,Modern Data Science School,Andrea Ellis,Environment,0.86
+902,Innovative AI Department,Cody Luna,Engineering,0.81
+903,Integrated AI School,Anna Sosa,Humanities,0.96
+904,Advanced Economics Department,Christopher Warner,AI,0.82
+905,Modern Robotics Center,Donna Wilson,Humanities,0.82
+906,Advanced Nursing Department,Christopher Long,Environment,0.86
+907,Applied Engineering Institute,Michelle Cuevas MD,AI,0.73
+908,Innovative Data Science Department,Victoria Green,Healthcare,0.71
+909,Integrated Law Center,Christopher Farmer,Humanities,0.78
+910,Global Data Science Center,William Schaefer,Healthcare,0.98
+911,Innovative Robotics Center,Jason Sanders,Humanities,0.67
+912,Modern Biology Institute,Paul Valdez,Humanities,0.96
+913,Global Business Administration Center,Robert Merritt,Environment,0.52
+914,Advanced Healthcare Department,Russell Perez,Engineering,0.83
+915,Integrated Physics Department,Jessica White DVM,Environment,0.91
+916,Applied Computer Science Department,Kenneth Smith,Humanities,0.92
+917,Advanced Chemistry School,Wayne Gonzalez,AI,0.6
+918,Integrated Sociology Center,Dylan Allen,Engineering,0.68
+919,Advanced Computer Science Department,Zachary Riley,Environment,0.82
+920,Integrated Law School,Colton Lane,Humanities,0.81
+921,Integrated Political Science Center,Aaron Jensen,Engineering,0.76
+922,Applied Fine Arts Institute,Jennifer Malone,AI,0.5
+923,Integrated Healthcare Institute,Michelle Lambert,Environment,0.52
+924,Innovative Nursing Center,Mary Roberts,Engineering,0.52
+925,Integrated Economics Department,Crystal Blanchard,Environment,0.67
+926,Innovative Sociology Center,Olivia Murray,AI,0.81
+927,Applied Medicine Department,Eileen Thompson,Environment,0.82
+928,Applied Business Administration Center,Jessica Singh,Humanities,0.87
+929,Innovative Robotics Center,Shelley Washington,Humanities,0.7
+930,Advanced Law Department,Christopher Hawkins,Environment,0.78
+931,Global Psychology Department,Jeffrey Ramirez,Humanities,0.95
+932,Advanced Medicine Institute,Malik Garcia,Healthcare,0.83
+933,Advanced Medicine School,Kimberly Atkins,Humanities,0.94
+934,Applied Political Science Institute,Gregory Andrade,Environment,0.72
+935,Modern Healthcare Center,William Hall,Engineering,0.89
+936,Advanced Chemistry Institute,Amanda Campbell,Engineering,0.93
+937,Global AI Institute,Daniel Farmer,Environment,0.63
+938,Innovative Education Department,Jason Rogers,Humanities,0.81
+939,Applied Sociology Institute,Henry Clark,Engineering,0.59
+940,Global Nursing Institute,Victoria Nichols,Healthcare,0.95
+941,Modern Engineering School,Brian Miller,Humanities,0.86
+942,Modern Data Science Center,Sean Smith,AI,0.54
+943,Applied Architecture School,Jennifer Johnson,Healthcare,0.61
+944,Global Environmental Science School,Brittney Watkins,Humanities,0.58
+945,Innovative Sociology Department,John Bush,Healthcare,0.61
+946,Innovative Education Department,Jeffrey Carter,Humanities,0.87
+947,Innovative Education School,Lee Olson,Environment,0.61
+948,Global Chemistry Institute,Sonia Flores,AI,0.76
+949,Global Environmental Science Department,William Owens,Humanities,0.6
+950,Applied Sociology Department,Alicia Chan,AI,0.71
+951,Modern Data Science Center,Larry Grant,AI,0.84
+952,Global Sociology Institute,Ashley Fuentes,Engineering,0.72
+953,Modern Architecture School,Sean Moyer,Humanities,0.52
+954,Advanced Education School,Cheyenne Thornton,Engineering,0.87
+955,Innovative Architecture Institute,Diana Foster DDS,Humanities,0.79
+956,Innovative Psychology Department,Angela Henry,Environment,0.59
+957,Innovative Biology Department,William Robertson,Healthcare,0.97
+958,Integrated Philosophy Institute,Robert Oneill,Healthcare,0.6
+959,Global Robotics School,Alexander Powell,Healthcare,0.77
+960,Global Engineering School,Christopher Lee,Humanities,0.93
+961,Modern Education Center,Heather Rose,AI,0.52
+962,Modern Engineering Institute,Sarah Cook,Humanities,0.95
+963,Innovative Business Administration Department,Kyle Perez,Environment,0.99
+964,Modern Law Department,Jeffrey Powell,AI,0.66
+965,Modern Mathematics School,Darryl Lang,Healthcare,0.93
+966,Global Education Center,Roger Peterson,Environment,0.84
+967,Innovative Sociology Center,Edward Fisher,AI,0.97
+968,Integrated Law Institute,Melissa Williams,Engineering,0.53
+969,Global Education Department,Shannon Kirby,Humanities,0.71
+970,Advanced Philosophy Institute,Amy Harris,Healthcare,0.97
+971,Modern Psychology School,Brooke Bishop,Humanities,0.84
+972,Modern Physics Center,Paige Greene,Healthcare,0.63
+973,Applied Quantum Computing Center,Beth Lee,Humanities,0.92
+974,Advanced Political Science Center,Alicia Lane,AI,0.67
+975,Applied Physics Department,Mr. Donald Reynolds,AI,0.98
+976,Global Environmental Science School,Deanna Strickland,Environment,0.75
+977,Innovative Data Science Center,Patricia Green,Engineering,0.7
+978,Applied Architecture Department,David Noble,Healthcare,0.71
+979,Advanced Business Administration Institute,Devin Schmidt,Healthcare,0.83
+980,Integrated Architecture School,Jose Haynes,Humanities,0.98
+981,Applied Environmental Science Department,Kim Miranda,Engineering,0.76
+982,Modern Law Institute,Samantha Oliver,Humanities,0.72
+983,Innovative Architecture Center,Darlene Foley,AI,0.64
+984,Applied Robotics School,Todd Kelly,Healthcare,0.67
+985,Global Economics Department,Robert Hall,Humanities,0.83
+986,Integrated Engineering Department,George Brown,Engineering,0.85
+987,Advanced Physics School,Mr. Ronald Smith,Humanities,0.59
+988,Modern Philosophy Institute,Allen Lozano,Environment,0.89
+989,Innovative Education Institute,Victoria Vargas,Environment,0.8
+990,Global Philosophy Institute,Steven Mitchell,Engineering,0.71
+991,Modern Fine Arts Center,Joseph Davidson,AI,0.76
+992,Global Healthcare Institute,Jonathan Oliver,Environment,0.67
+993,Innovative Political Science School,Amanda Schwartz,Humanities,0.9
+994,Applied Biology Institute,John Melton,Environment,0.94
+995,Modern Quantum Computing Department,Pamela Ramos,Healthcare,0.75
+996,Advanced Law School,Paul Houston,AI,0.57
+997,Integrated Medicine Department,Sonya Wilson,Environment,0.95
+998,Modern Environmental Science Center,Joshua Campos,AI,0.65
+999,Innovative Economics School,Anna West,AI,0.56
+1000,Advanced Quantum Computing Department,Angela Schultz,Healthcare,0.87
+1001,Applied Sociology School,Heather Glenn,Humanities,0.64
+1002,Global Mathematics Institute,Desiree Bennett,Humanities,0.64
+1003,Modern Physics School,Lauren Johnston,Environment,0.64
+1004,Applied Architecture School,John Young,Humanities,0.55
+1005,Innovative Quantum Computing Institute,Nathan Castro,Environment,0.82
+1006,Modern Law Department,Shawn Christensen,Humanities,0.69
+1007,Advanced History Institute,Hannah Brown,Engineering,0.72
+1008,Advanced Fine Arts Department,Phillip Waller,AI,0.71
+1009,Modern History Department,Richard Freeman,Healthcare,0.81
+1010,Advanced Political Science Institute,Veronica Gutierrez,AI,0.7
+1011,Advanced Biology School,Jerry Pearson,Engineering,0.86
+1012,Modern Sociology Center,Hannah Mcgee,AI,0.62
+1013,Innovative Economics Center,Brian Golden,Humanities,0.7
+1014,Applied AI Institute,Paul Ramsey,Environment,0.58
+1015,Modern Physics Center,Tony Anderson,Engineering,0.63
+1016,Advanced History School,Michelle Kennedy,Environment,0.87
+1017,Innovative Medicine School,Steven Nicholson,Healthcare,0.94
+1018,Modern Political Science Center,Jessica Johnson,Environment,0.91
+1019,Applied Quantum Computing Center,Willie Bowers,AI,0.9
+1020,Applied Data Science Department,Ronald Acevedo,Engineering,0.69
+1021,Advanced Chemistry School,Mrs. Brenda Archer,Engineering,0.76
+1022,Advanced Engineering School,Samantha Lyons,Healthcare,0.68
+1023,Modern History School,David Lambert,AI,0.77
+1024,Innovative Sociology School,Mark Brooks,Environment,0.65
+1025,Modern Sociology School,Lauren Johnson,Engineering,0.8
+1026,Innovative Business Administration Department,Shelley Gill,AI,0.89
+1027,Integrated Data Science School,Samuel Sandoval,Engineering,0.6
+1028,Global Robotics Department,David Patton,Humanities,0.77
+1029,Innovative Psychology School,Hailey Ryan,Engineering,0.92
+1030,Modern AI Department,Dawn Cook,Engineering,0.99
+1031,Advanced Medicine Center,Amber Jackson,AI,0.61
+1032,Modern Quantum Computing Institute,Michael Thompson,Environment,0.53
+1033,Modern Nursing Institute,Jeremy Meza,AI,0.67
+1034,Innovative Political Science School,Nancy Webster,Healthcare,0.99
+1035,Innovative Fine Arts School,Kevin Clark,Engineering,0.63
+1036,Global Physics Department,Xavier Cordova,Engineering,0.65
+1037,Modern Architecture School,Jamie Davis,AI,0.98
+1038,Innovative Education Institute,Mark Jones,Engineering,0.84
+1039,Applied Engineering Center,Jonathan Morrison,AI,0.91
+1040,Modern Medicine Institute,Shannon Lewis,Engineering,0.72
+1041,Global Healthcare Institute,Charles Garcia,Environment,0.67
+1042,Global Law School,Heather Orr,Humanities,0.9
+1043,Innovative Computer Science Institute,Lisa Waller,AI,0.92
+1044,Advanced Education Department,Daniel Martinez,AI,0.69
+1045,Global Fine Arts Department,Tracy Calhoun,Environment,0.55
+1046,Applied Fine Arts Center,Laura Jackson,Environment,0.64
+1047,Global Law School,Elizabeth Stevenson,Healthcare,0.82
+1048,Innovative Data Science Center,Martha Strong,Engineering,0.72
+1049,Applied Environmental Science Department,Donna Robinson,Humanities,0.76
+1050,Modern Medicine Department,Jennifer Bowers,Humanities,0.91
+1051,Modern Architecture Institute,Lisa Santiago,AI,0.64
+1052,Modern History Institute,Joseph Reyes,Engineering,0.72
+1053,Global Computer Science Center,Maria White,Healthcare,0.81
+1054,Global Philosophy Center,Gerald Phillips,Humanities,0.85
+1055,Modern Engineering Center,Jeffrey Scott,Healthcare,0.73
+1056,Innovative Architecture Institute,Maria Joyce,Engineering,0.66
+1057,Innovative Law Institute,Mary Morris,Healthcare,0.63
+1058,Applied Quantum Computing Center,James Parker,Healthcare,0.73
+1059,Applied Physics Center,Devin Thompson,Environment,0.51
+1060,Integrated AI Institute,Felicia Patel,AI,0.55
+1061,Innovative Architecture School,Donald Smith,Humanities,0.53
+1062,Innovative Economics School,Michael Lopez,Humanities,0.88
+1063,Advanced Mathematics Institute,Brandon Wiley,Environment,0.68
+1064,Applied Mathematics Institute,Brenda Moody,AI,0.79
+1065,Modern Quantum Computing Department,Christopher Stevenson,Humanities,0.67
+1066,Applied Sociology Department,Jasmine Allison,Humanities,0.92
+1067,Innovative Sociology School,Christopher Lawrence,Environment,0.93
+1068,Innovative Computer Science Center,Lee Cannon,Healthcare,0.95
+1069,Advanced Education Center,Jamie Tyler,Environment,0.89
+1070,Modern History Center,Chase Herrera,AI,0.57
+1071,Applied Psychology Center,Danielle Hill,AI,0.71
+1072,Applied Environmental Science Center,Margaret Griffin,Humanities,0.85
+1073,Advanced Robotics Center,Stephanie Hall,Environment,0.73
+1074,Global Mathematics Center,Adrienne Castillo MD,AI,0.99
+1075,Applied Healthcare Department,John Landry,AI,0.63
+1076,Innovative Chemistry School,Monica Elliott,Engineering,0.78
+1077,Applied Law Department,Christine Henderson,Engineering,0.84
+1078,Applied Data Science School,Juan Singh,Environment,0.95
+1079,Innovative Philosophy School,Kyle Garcia,Engineering,0.51
+1080,Global Medicine Department,Cynthia Moore,Humanities,0.95
+1081,Advanced Sociology Department,Chris Simmons,Engineering,0.87
+1082,Advanced History Department,Denise Lawson,Engineering,0.73
+1083,Integrated Environmental Science Institute,Jack Williams MD,Healthcare,0.53
+1084,Integrated History School,Maria Reeves,Engineering,0.52
+1085,Global Robotics School,Lynn Hill,Engineering,0.86
+1086,Innovative History Center,Stephanie Porter,Humanities,0.71
+1087,Integrated Education Department,Shane Gutierrez,Environment,0.89
+1088,Applied Education Department,Jennifer Hansen,Engineering,0.97
+1089,Modern Economics Department,Eric Moran,Healthcare,0.77
+1090,Advanced Chemistry Department,Pamela Jordan,Environment,0.72
+1091,Modern Data Science Institute,Carol Cooper,Engineering,0.77
+1092,Global Data Science Institute,Brian Bond,Humanities,0.89
+1093,Innovative History Department,Mark Owens,AI,0.88
+1094,Integrated Robotics Department,Melissa Stevens,Engineering,0.51
+1095,Modern Engineering Center,Amber Beltran,Environment,0.61
+1096,Global Psychology Institute,Michael Hansen,Healthcare,0.53
+1097,Applied Robotics Department,Daniel Young,Environment,0.82
+1098,Applied Environmental Science Institute,Michael Harrison,Environment,0.64
+1099,Applied Law Department,Julia Johnson,Environment,0.9
+1100,Innovative Economics School,Christopher Brown,AI,0.7
+1101,Integrated Nursing Department,Levi Fisher,Environment,0.9
+1102,Global Robotics Institute,Sara Gallegos,AI,0.77
+1103,Modern AI Department,Katie Camacho,Healthcare,0.65
+1104,Applied Psychology Center,Andrew Lee,Humanities,0.62
+1105,Modern Political Science Center,Debbie Martin,AI,1.0
+1106,Applied Psychology Center,Allison Henderson,AI,0.57
+1107,Integrated Medicine School,Seth Jordan,Healthcare,0.86
+1108,Applied Computer Science Department,Jennifer Rivera,Humanities,0.79
+1109,Integrated Biology Department,Marissa Combs,AI,0.76
+1110,Applied Sociology School,Stephanie Turner,Humanities,0.75
+1111,Applied Political Science School,Sherry Thomas,AI,0.92
+1112,Integrated Education Center,Marie Orr,Healthcare,0.9
+1113,Advanced Healthcare Department,Bethany Johnson,AI,0.86
+1114,Global Law Institute,Sandra Guzman,Humanities,0.72
+1115,Integrated Robotics Institute,Mr. Andrew Wong,AI,0.97
+1116,Advanced Computer Science Center,Scott Porter,Humanities,1.0
+1117,Innovative Law Department,Brittany Holden,Healthcare,0.62
+1118,Advanced Education Institute,Paul Snyder,Healthcare,0.6
+1119,Innovative Economics Institute,Matthew Vega,Environment,0.64
+1120,Global History Center,Cody Conrad,Healthcare,0.57
+1121,Integrated Sociology Institute,Helen Walker,Environment,0.66
+1122,Applied Architecture Institute,Jennifer Rose,Environment,0.75
+1123,Applied Chemistry School,Terry Martinez Jr.,Engineering,0.96
+1124,Innovative Education Department,Sarah Hall,Humanities,0.52
+1125,Global Nursing Institute,Selena Mitchell,AI,0.68
+1126,Modern Healthcare Institute,Traci Bradley,Humanities,0.6
+1127,Global Economics Center,Joseph Parker,Healthcare,1.0
+1128,Modern Chemistry Institute,Edward Lamb,Environment,0.85
+1129,Integrated Economics Department,Matthew Lee,AI,0.85
+1130,Applied Physics Institute,Christopher Hampton,Healthcare,0.96
+1131,Advanced History Center,Emily Hernandez,Healthcare,0.6
+1132,Modern Nursing Center,Stephen Ramos,Humanities,0.81
+1133,Advanced Education School,Ruth Hernandez,Healthcare,0.72
+1134,Innovative History Institute,Keith Schmitt,Humanities,0.63
+1135,Applied Data Science Department,Larry Thomas,Engineering,0.85
+1136,Integrated Business Administration Center,Michael Ballard,Environment,0.72
+1137,Advanced Biology Institute,Linda Flores,Humanities,0.97
+1138,Global Education Department,Nicole Harris,Engineering,0.52
+1139,Integrated Chemistry Center,Elizabeth Larsen,AI,0.57
+1140,Integrated Education Department,William Long,Healthcare,0.52
+1141,Innovative Mathematics Department,Leslie Daniel,AI,0.53
+1142,Global Philosophy School,Stephanie Long,Healthcare,0.86
+1143,Applied Data Science School,James Harris,Environment,0.85
+1144,Integrated Computer Science School,Nicholas Alvarez,Humanities,0.52
+1145,Innovative Law Institute,James Wright,Engineering,0.68
+1146,Modern Sociology School,Lisa Clark,Humanities,0.84
+1147,Innovative Chemistry Institute,Ms. Amanda Peters,Environment,0.68
+1148,Integrated Business Administration School,Michael Richmond,Healthcare,0.79
+1149,Applied Fine Arts School,Michael Smith,Environment,0.51
+1150,Modern Quantum Computing Department,Mariah Wilson,Humanities,0.7
+1151,Global Fine Arts Institute,Monica King,AI,0.92
+1152,Modern Economics Department,Jennifer Gonzalez,Humanities,0.61
+1153,Modern Quantum Computing Institute,Sandra Pittman,Healthcare,0.7
+1154,Modern Sociology Center,Gina Martinez,Environment,0.85
+1155,Modern Biology Institute,Thomas Hoffman,Humanities,0.86
+1156,Advanced Business Administration Institute,Joseph Cunningham,Healthcare,0.79
+1157,Innovative Philosophy Center,Cheryl Herrera,AI,0.51
+1158,Advanced Economics School,Ryan Wallace,AI,0.91
+1159,Modern Mathematics School,Michelle Wood,AI,0.85
+1160,Global Mathematics Center,Amber Davies,Humanities,1.0
+1161,Modern Education Institute,Candace Johnson,Healthcare,0.84
+1162,Advanced Mathematics Department,Kayla Marks,Healthcare,0.99
+1163,Modern History School,Paula Moore,AI,0.68
+1164,Innovative Environmental Science Department,Monica Sampson,Environment,0.56
+1165,Innovative Architecture Department,Raymond Butler,Healthcare,0.66
+1166,Modern Data Science Center,Ashley Welch,Environment,0.96
+1167,Global Law Center,Alexander Martinez,Engineering,0.65
+1168,Integrated Chemistry Institute,Kimberly Mitchell,Healthcare,0.94
+1169,Global Architecture School,Dale Reyes,Healthcare,0.6
+1170,Applied Architecture Institute,Scott Anderson,Environment,0.75
+1171,Modern Law Center,Emily Fletcher,Engineering,0.81
+1172,Integrated Sociology Department,Angela Webb,Healthcare,0.54
+1173,Integrated Robotics Department,Jeffrey Turner,Humanities,0.8
+1174,Global Chemistry Department,James West,Environment,0.61
+1175,Modern Mathematics School,Tonya Perez,Engineering,0.8
+1176,Global History Institute,Brian Hernandez,Environment,0.93
+1177,Applied Architecture Center,Daniel Ward,Environment,0.6
+1178,Applied Education Center,Aaron Church,Environment,0.78
+1179,Modern AI School,Amber Lucero,Environment,0.92
+1180,Integrated Chemistry School,Preston Ruiz,AI,0.96
+1181,Modern Environmental Science Institute,Christopher Drake,Humanities,0.87
+1182,Integrated Medicine Institute,Tracy Ball,Environment,0.73
+1183,Applied Medicine Department,Jessica Farrell,AI,0.75
+1184,Integrated Medicine School,Andrew Wilson,AI,0.93
+1185,Advanced Nursing School,Stephanie Cisneros,Humanities,0.96
+1186,Integrated Law Institute,Stacey Brown,Healthcare,0.99
+1187,Global Political Science School,Timothy Kline,AI,0.87
+1188,Integrated Computer Science Department,Nicole Moore,Healthcare,0.86
+1189,Modern Environmental Science Institute,Matthew Evans,AI,0.76
+1190,Innovative Biology Institute,Debra Turner,AI,1.0
+1191,Innovative Medicine Institute,Megan Ritter,Healthcare,0.9
+1192,Global Psychology School,Ricardo Fox,Humanities,0.71
+1193,Global Computer Science Institute,Ryan Horn,Humanities,0.61
+1194,Applied Engineering School,Rodney Shannon,Environment,0.74
+1195,Global Architecture Institute,Mr. David Jordan,Engineering,0.78
+1196,Integrated Psychology School,Wesley Sanchez,Healthcare,0.53
+1197,Global Fine Arts Center,Catherine Davis,Healthcare,0.89
+1198,Global Engineering School,Caleb Medina,Humanities,1.0
+1199,Advanced Education Department,James Goodman,AI,0.77
+1200,Modern Political Science Department,Laura Perry,Engineering,0.56
+1201,Integrated Sociology Department,Sean Anderson,AI,0.66
+1202,Innovative Computer Science Institute,Robin Bailey,Healthcare,0.89
+1203,Innovative Education Department,Patrick Newton,AI,0.55
+1204,Modern Healthcare Institute,Jennifer Wells,Environment,0.54
+1205,Global Medicine Institute,Olivia Mcdonald,Engineering,0.53
+1206,Advanced Mathematics Institute,Diane Simmons,AI,0.93
+1207,Advanced Quantum Computing Center,Juan Johnson,AI,0.53
+1208,Applied Nursing Center,Ricky Ward,Healthcare,0.71
+1209,Integrated Data Science Institute,Bruce Moran,AI,0.73
+1210,Modern Mathematics Institute,Patrick Sloan,Engineering,0.99
+1211,Global Mathematics School,Jessica Williams,Healthcare,0.55
+1212,Modern Sociology Institute,Jason Larson,Environment,0.65
+1213,Applied Education Department,Roger Higgins,AI,0.76
+1214,Advanced Nursing Center,Matthew Taylor,Healthcare,0.87
+1215,Integrated Nursing Department,Mark Robertson,Environment,0.96
+1216,Innovative Data Science Center,Anne Marquez,AI,0.85
+1217,Integrated Physics Institute,Karen Key,AI,0.85
+1218,Global Education School,Amanda Torres,Environment,0.67
+1219,Integrated Fine Arts Department,Nancy Clark,AI,0.59
+1220,Modern Psychology School,Michelle Petersen,Environment,0.84
+1221,Advanced Quantum Computing Center,Jordan Miller,AI,0.64
+1222,Global Data Science Department,Stephanie Burns,Engineering,0.98
+1223,Innovative Nursing Department,Edward Becker,AI,0.78
+1224,Applied Engineering School,Julie Taylor,Healthcare,0.78
+1225,Modern Economics School,Kristin Williamson,Healthcare,0.7
+1226,Global Fine Arts Department,Alexis Cunningham,Environment,0.73
+1227,Applied Architecture Department,James Walker,Environment,0.99
+1228,Advanced Data Science Department,Anthony Davenport,Engineering,0.65
+1229,Advanced Environmental Science School,Teresa Torres,Environment,0.83
+1230,Advanced AI Department,Robert Peterson,Humanities,0.64
+1231,Modern AI School,Christopher White,Environment,0.81
+1232,Modern Economics Institute,Katie Porter,Environment,0.51
+1233,Global Psychology Institute,Keith Lewis,Humanities,0.87
+1234,Advanced Engineering Department,David Lewis,AI,0.71
+1235,Applied Biology School,Krista Jimenez,Engineering,0.8
+1236,Integrated History School,Thomas Campbell,Humanities,0.9
+1237,Integrated Architecture Center,Daniel Williams,Environment,0.75
+1238,Modern Environmental Science Department,Danielle Irwin,Humanities,0.73
+1239,Modern Business Administration Center,Shane Lewis,Environment,0.65
+1240,Advanced Physics Department,Cynthia Mack,Engineering,0.51
+1241,Integrated Quantum Computing Institute,Brianna Lam,Environment,0.65
+1242,Innovative History Department,Natasha Davis,Healthcare,0.7
+1243,Modern Political Science Department,Bryan Beltran,Humanities,0.7
+1244,Global Environmental Science Department,Krystal Mendoza,Engineering,0.6
+1245,Global Biology School,Shelia Reynolds,Engineering,0.6
+1246,Integrated Economics Institute,Christopher Johnson,Environment,0.87
+1247,Innovative Business Administration Department,Amanda Singh,Healthcare,0.83
+1248,Applied Political Science Department,Michael Baird,Engineering,0.63
+1249,Integrated Data Science School,Leslie Carr,Environment,0.77
+1250,Integrated Data Science Department,William Bishop,Environment,0.57
+1251,Applied Economics Department,Dawn Moss,AI,0.59
+1252,Global Engineering Institute,Kimberly Miller,Environment,0.96
+1253,Applied Fine Arts School,Tyler Cortez,Environment,0.51
+1254,Advanced Computer Science Center,Robert Fernandez,AI,0.72
+1255,Advanced Economics Department,Mr. Benjamin Robertson,Healthcare,0.74
+1256,Innovative AI Center,Gregory Watson,Environment,0.95
+1257,Integrated Mathematics Center,Chad Cross,Engineering,0.58
+1258,Innovative Physics School,Christina Allen,Engineering,0.95
+1259,Integrated Chemistry School,Cynthia Rivera,Humanities,0.98
+1260,Innovative Quantum Computing Center,Nicole Krueger,Humanities,0.99
+1261,Modern Chemistry Department,Jasmine Cook,Healthcare,0.8
+1262,Integrated Healthcare Center,Connie Henderson,Humanities,0.95
+1263,Global Mathematics Institute,Anne Hickman,Environment,0.9
+1264,Integrated Sociology Department,Lauren Knight,Environment,0.89
+1265,Modern Economics School,Ashley Miller,Humanities,0.55
+1266,Applied Engineering Institute,David Scott,Healthcare,0.92
+1267,Integrated Computer Science Department,Shane Scott,Environment,0.75
+1268,Integrated Economics Center,Cheryl Huang,Environment,0.7
+1269,Applied Sociology Center,Laura Wilson,Humanities,0.72
+1270,Applied Robotics Department,Melinda Gray,Humanities,0.65
+1271,Innovative Sociology Department,Michael Porter,Humanities,0.63
+1272,Applied Quantum Computing Department,Mary Petersen,Engineering,0.94
+1273,Advanced Political Science Center,Nathan Soto,Environment,0.57
+1274,Innovative Business Administration Center,Stephen Duncan,Humanities,0.56
+1275,Advanced Physics School,Ruben Smith,AI,0.61
+1276,Advanced Mathematics Center,Colleen Patterson,Healthcare,0.79
+1277,Integrated Data Science Center,Robin Chavez,Humanities,0.57
+1278,Global History Department,Joshua Jimenez,Healthcare,0.87
+1279,Modern Fine Arts Center,Linda Lee,Humanities,0.74
+1280,Integrated Chemistry Institute,Nathan Baxter,Humanities,0.98
+1281,Global Data Science School,Robert Daniel,Humanities,0.88
+1282,Modern Business Administration Department,Jeremy Graham,AI,0.96
+1283,Modern Robotics Center,Lauren Delgado,Environment,0.87
+1284,Modern Quantum Computing School,Jennifer Dillon,Environment,0.58
+1285,Advanced Economics Department,Christopher Brooks,AI,0.55
+1286,Applied Psychology Institute,Nicolas Johnson,Engineering,0.94
+1287,Applied Law School,Mary Mendez,Environment,0.61
+1288,Global Mathematics Center,Julie Moore,Environment,0.84
+1289,Integrated Economics Department,Raymond Harrell,Healthcare,0.99
+1290,Applied Data Science Department,Debra Schmidt,Healthcare,0.57
+1291,Applied Fine Arts School,Michael Ryan,AI,0.63
+1292,Modern Biology Center,Casey Payne,Engineering,0.79
+1293,Global Mathematics Institute,Jason Cook,Environment,0.69
+1294,Integrated Philosophy Center,Rebecca Buchanan,Healthcare,0.63
+1295,Global Chemistry Center,David Moore,Engineering,0.94
+1296,Applied Healthcare School,Angela Becker,Engineering,0.59
+1297,Advanced AI Center,Jodi Carter,Environment,0.73
+1298,Applied Education Center,Krista Bennett,Humanities,0.76
+1299,Global History School,Leroy Bowen,Healthcare,0.75
+1300,Innovative Nursing School,John Sharp,Environment,0.53
+1301,Modern AI Department,Ronald Morse PhD,Healthcare,0.8
+1302,Innovative Chemistry Department,Jamie Bradley,Environment,0.78
+1303,Advanced Sociology Institute,Mrs. Beth Morgan DDS,Engineering,0.81
+1304,Applied Architecture Institute,Luis Johnson,Humanities,0.89
+1305,Innovative Biology Department,Robert Adams,Environment,0.54
+1306,Integrated Medicine Institute,Jonathan Flores,AI,0.81
+1307,Innovative Sociology School,Stephanie Rodriguez,AI,0.55
+1308,Applied Economics Department,Patricia Morton,Humanities,0.59
+1309,Applied History Institute,Heather Diaz,AI,0.64
+1310,Applied Philosophy Center,Susan Gonzalez,Humanities,0.56
+1311,Integrated Psychology School,Kara Carr,Humanities,0.91
+1312,Advanced Fine Arts Center,Robert Campbell,Humanities,0.66
+1313,Advanced Medicine Institute,Victor Ford,Healthcare,0.98
+1314,Advanced Robotics Department,Ronald King,Environment,0.71
+1315,Applied Quantum Computing School,Michelle Adkins,Environment,0.5
+1316,Modern Biology School,Chelsea Poole,Healthcare,0.73
+1317,Innovative Psychology School,Andrew English,AI,0.8
+1318,Innovative Mathematics Center,Scott Davis,Healthcare,0.89
+1319,Modern Chemistry Department,Jennifer Roman,Humanities,0.62
+1320,Advanced Psychology Center,David Graves,Engineering,0.83
+1321,Global Education Department,Samantha Barton,AI,0.74
+1322,Applied Biology Center,Melissa Nelson,Environment,0.71
+1323,Global Computer Science Institute,Daniel Martin,Healthcare,0.64
+1324,Modern Engineering Institute,Suzanne Williams,Environment,0.81
+1325,Applied Architecture Institute,Rachel Robinson,AI,0.61
+1326,Modern Mathematics Center,Matthew Zimmerman,Engineering,0.77
+1327,Applied Education Center,Heather Summers,Engineering,0.55
+1328,Applied Engineering Department,Sheila Campbell,AI,0.75
+1329,Applied Philosophy Institute,Nicholas Padilla,Environment,0.81
+1330,Advanced Healthcare School,Jason Spence,Healthcare,0.61
+1331,Integrated Data Science Institute,Paul Summers,Environment,0.8
+1332,Advanced Nursing Institute,Kevin Stewart,AI,0.81
+1333,Global Fine Arts Institute,Eric Mccormick,Environment,0.61
+1334,Global Philosophy School,Mrs. Sandra Sexton,Engineering,0.99
+1335,Modern AI Institute,Jeffrey Ayers,Environment,0.87
+1336,Integrated Education Center,Raymond Brock,Engineering,0.7
+1337,Advanced Chemistry Center,Roger Mckinney,Environment,0.97
+1338,Global Chemistry Institute,Mark Jones,Healthcare,0.77
+1339,Advanced Sociology Center,Eddie Allen II,Humanities,0.76
+1340,Integrated Physics School,Kylie Erickson,AI,0.71
+1341,Integrated Education Institute,Timothy Snyder,Engineering,0.69
+1342,Advanced Sociology Department,Elizabeth Hayes,Humanities,0.75
+1343,Modern Education Institute,Tammie Lewis,Humanities,0.77
+1344,Modern Business Administration School,Joseph Gill,Humanities,0.66
+1345,Innovative History Department,Morgan Waters,Engineering,0.92
+1346,Applied Economics School,Kaitlyn Smith,Environment,0.99
+1347,Integrated Sociology School,Casey Richardson,AI,0.93
+1348,Advanced Sociology Institute,Rhonda Hall,Engineering,0.73
+1349,Integrated Environmental Science Center,Nicole Smith,AI,0.64
+1350,Integrated Architecture School,Kyle Smith,Humanities,0.73
+1351,Innovative Mathematics Department,Tyler Holland,Engineering,0.91
+1352,Global Psychology Institute,Steven Rogers,Environment,0.7
+1353,Integrated Philosophy Center,Leah Johnson,AI,0.73
+1354,Advanced Political Science Department,Jose Hampton,Healthcare,0.61
+1355,Integrated Healthcare Department,Cory Mitchell,Humanities,0.82
+1356,Advanced Fine Arts School,Gregory Wilson,Engineering,0.89
+1357,Advanced Chemistry Center,Brandi Jones,AI,0.95
+1358,Modern Economics Institute,Renee Vaughn,Engineering,0.79
+1359,Modern Engineering Department,Jimmy Brewer,AI,0.88
+1360,Advanced Sociology Center,Susan Grimes,Humanities,0.69
+1361,Applied Law School,Timothy Brown,Engineering,0.64
+1362,Innovative Education Department,Kyle Ortiz,Humanities,0.85
+1363,Innovative Sociology Department,Paul Giles,Humanities,0.9
+1364,Modern Healthcare School,Victoria Sherman,AI,0.63
+1365,Integrated Mathematics School,Amy Ellis MD,Engineering,0.74
+1366,Innovative Psychology Institute,Grace Morrison,Humanities,0.96
+1367,Integrated Fine Arts Institute,Thomas Wallace,Engineering,0.97
+1368,Applied Robotics Center,Michael Kennedy,Environment,0.8
+1369,Applied Data Science School,Daniel Allen,Humanities,0.86
+1370,Global Biology School,Sergio Phillips,Humanities,0.53
+1371,Innovative Architecture Department,Michael Johns,Environment,0.78
+1372,Modern Healthcare Department,Brian Taylor,Engineering,0.82
+1373,Modern Biology Institute,Juan Sosa,AI,0.66
+1374,Advanced Quantum Computing School,Matthew Alvarado,Healthcare,0.85
+1375,Innovative Data Science Department,Jennifer Sanford,Engineering,0.72
+1376,Advanced Healthcare Institute,Brandon Carey,Engineering,0.95
+1377,Innovative Business Administration Center,Michelle Carlson,Environment,0.83
+1378,Innovative Fine Arts Institute,Michael Pacheco,Humanities,0.51
+1379,Advanced Data Science Center,Shannon Torres,Environment,0.83
+1380,Integrated Physics School,Heather Harrison,AI,0.72
+1381,Modern Physics Center,Lisa Harris,Humanities,0.59
+1382,Global Data Science Institute,Antonio Kane,Healthcare,0.61
+1383,Modern Law Center,Elizabeth Holmes,Environment,0.9
+1384,Integrated Sociology Institute,Jonathan Campbell,Healthcare,0.65
+1385,Innovative Computer Science School,Ryan Quinn,Engineering,0.7
+1386,Innovative Medicine Institute,Christopher Fowler,Engineering,0.52
+1387,Innovative Medicine Institute,Emily Nguyen,Environment,0.51
+1388,Integrated Economics Institute,Christopher Price,Environment,0.66
+1389,Advanced Economics School,Robert Scott,Engineering,0.66
+1390,Applied Business Administration School,Michael Alvarez,Environment,0.72
+1391,Integrated Nursing Department,Jesus Haynes,Environment,0.59
+1392,Innovative AI Department,Aimee Moore,Environment,0.7
+1393,Global History Institute,Mary Hayes MD,Environment,0.98
+1394,Modern Medicine School,Adam Alexander,Healthcare,0.92
+1395,Modern History School,Amy Mays,Healthcare,0.84
+1396,Modern Economics Center,Scott Cardenas,Humanities,0.6
+1397,Modern Robotics Department,Robert Flores,Humanities,0.78
+1398,Modern Education School,Paul Haney,AI,0.64
+1399,Innovative Data Science Institute,Brittany Adams,Engineering,0.53
+1400,Advanced Psychology Center,Susan Peters,Engineering,0.87
+1401,Innovative Law School,Tammy Harvey,Environment,0.97
+1402,Advanced Computer Science Center,Frances Bell,Engineering,0.67
+1403,Modern Engineering School,Lawrence Wiggins,Humanities,0.81
+1404,Global Computer Science Department,Jonathan Andersen,Engineering,0.53
+1405,Integrated Environmental Science Institute,Lisa Alvarez,Environment,0.77
+1406,Advanced Nursing Department,Alison Anderson,Healthcare,0.76
+1407,Innovative Psychology Center,Madison Allison,AI,0.84
+1408,Advanced Robotics Institute,Judy Campbell,Engineering,0.52
+1409,Integrated History Institute,Zachary Scott,Environment,0.83
+1410,Integrated Engineering Department,James Shah,AI,0.95
+1411,Innovative Environmental Science Center,Lori Ramsey,Engineering,0.6
+1412,Applied Sociology Department,Gabrielle Mitchell,Humanities,0.91
+1413,Innovative Environmental Science Center,Austin Hughes,AI,0.92
+1414,Global Political Science School,Jessica Perez,Environment,0.63
+1415,Global Biology School,Caleb Gonzalez,Humanities,0.64
+1416,Advanced Medicine School,Raymond Curtis,Humanities,0.81
+1417,Global Economics Center,Dana Silva,Healthcare,0.67
+1418,Modern Data Science School,Tiffany Robinson,Healthcare,0.6
+1419,Innovative Healthcare Center,Steven Hill,Environment,0.5
+1420,Innovative Fine Arts Center,Toni Long MD,Humanities,0.53
+1421,Global Business Administration Institute,Melissa Davis,Engineering,0.53
+1422,Modern Quantum Computing Department,Cynthia Ford,Environment,0.64
+1423,Modern Robotics School,Dominique Harris,Engineering,0.68
+1424,Innovative Chemistry School,Summer Page,Environment,0.51
+1425,Innovative Robotics Institute,Brian Brewer,Environment,0.86
+1426,Applied History School,David Wood,Humanities,0.93
+1427,Global History School,Amy Mack,AI,0.95
+1428,Modern Medicine Center,Kimberly Anderson,Environment,1.0
+1429,Modern Nursing Department,Heather Young,AI,0.65
+1430,Global Business Administration Center,Linda Mack MD,AI,0.78
+1431,Applied AI School,Stephen Lowe,Environment,0.8
+1432,Modern Data Science School,Michelle Jordan,AI,0.83
+1433,Integrated Robotics Institute,Amanda Ali,Engineering,0.95
+1434,Advanced Psychology Center,Alyssa Cochran,Humanities,0.57
+1435,Integrated Computer Science School,Christopher Hernandez,AI,0.74
+1436,Innovative Education Center,Thomas Smith,Environment,0.75
+1437,Integrated Philosophy School,Thomas Mccoy,Environment,1.0
+1438,Integrated Computer Science Institute,Matthew Young,Environment,0.83
+1439,Advanced Psychology Center,Phillip Garcia,Environment,0.95
+1440,Global Political Science Department,Ashley Rowland,Humanities,0.54
+1441,Global Quantum Computing School,Mark Eaton,Healthcare,0.73
+1442,Modern History Institute,Cory Vaughn,Environment,0.86
+1443,Advanced Philosophy School,Stephanie Ramsey,Healthcare,1.0
+1444,Advanced Physics Center,Beth Ramirez,Humanities,0.75
+1445,Global Philosophy School,Jonathan Myers,Humanities,0.99
+1446,Applied Economics Institute,Kevin Freeman,Engineering,0.77
+1447,Applied Law Department,Kevin Huber,Humanities,0.98
+1448,Global History Institute,David Jenkins,Engineering,0.51
+1449,Global History School,Laura Medina,Healthcare,0.72
+1450,Integrated Economics Institute,Jesse Rivers,Humanities,0.8
+1451,Innovative History School,Edward Thomas,Environment,0.82
+1452,Innovative Engineering Department,Gary Nguyen,AI,0.93
+1453,Advanced Data Science Center,Ashley Garrison,Humanities,0.85
+1454,Global Business Administration Institute,Vanessa Kim,Humanities,0.67
+1455,Global Quantum Computing Institute,Miguel Smith,Engineering,0.7
+1456,Global Economics Center,Tina Schmidt,Healthcare,0.97
+1457,Global History Department,Keith Mcneil,Environment,0.94
+1458,Innovative Business Administration Department,Lawrence Carlson,Healthcare,0.99
+1459,Integrated Mathematics Center,Nicole Adams,AI,0.6
+1460,Innovative Psychology Department,James Morgan,Engineering,0.69
+1461,Advanced Environmental Science School,Sarah Perez,AI,0.66
+1462,Applied Environmental Science School,Samantha Miller,Engineering,0.77
+1463,Innovative Economics School,Samantha Williams,AI,0.72
+1464,Integrated Business Administration Institute,Susan Davenport,Healthcare,0.7
+1465,Integrated Political Science Department,Tyler Lee,AI,0.8
+1466,Global Fine Arts School,Jacob Brown,Environment,0.58
+1467,Applied Fine Arts School,Lee Christensen,AI,0.91
+1468,Modern Quantum Computing Department,Cesar Kennedy MD,Healthcare,0.95
+1469,Modern Environmental Science School,Michael Schneider,AI,0.89
+1470,Applied Biology Center,Zachary Sims,Engineering,0.81
+1471,Innovative Psychology School,Karen Green,Engineering,0.82
+1472,Global Sociology School,Denise Preston,Environment,0.8
+1473,Applied AI Department,Lynn Miranda,AI,0.73
+1474,Global Political Science School,Dean Watson,Environment,0.59
+1475,Modern Fine Arts Department,Tracy Santiago,AI,0.9
+1476,Integrated Philosophy Center,Jenna Barr,Environment,0.83
+1477,Integrated Mathematics Department,Nicholas Castillo,Humanities,0.98
+1478,Innovative History Department,Karla Mckinney,Environment,0.73
+1479,Modern Psychology Department,Johnny Houston,Environment,0.77
+1480,Global Medicine Center,Joel Morrow,AI,0.6
+1481,Applied Computer Science Center,Kimberly Moreno,AI,0.86
+1482,Global Medicine School,Anthony Parker,Environment,0.64
+1483,Applied Economics School,Misty Butler,Humanities,0.83
+1484,Modern Mathematics School,Darrell Zimmerman,Healthcare,0.91
+1485,Innovative Law Institute,Randy Parker,AI,0.51
+1486,Global Law Department,Victor Fitzgerald,Engineering,0.61
+1487,Advanced Fine Arts Department,Amanda Johns,Humanities,0.93
+1488,Advanced Architecture Center,Whitney Dominguez,Environment,0.51
+1489,Innovative Economics Center,William Hall,Humanities,0.96
+1490,Advanced Economics School,Troy Park,Engineering,0.58
+1491,Integrated Architecture Institute,Eric Zimmerman,Healthcare,0.95
+1492,Integrated Education School,Robert Craig,Healthcare,0.97
+1493,Innovative Education School,Lisa Daugherty,Humanities,0.65
+1494,Global Robotics School,Nancy Torres,Engineering,0.98
+1495,Applied Nursing School,Stephanie Wheeler,Engineering,0.67
+1496,Applied Philosophy Center,Jacob White,Healthcare,0.99
+1497,Global Economics Center,Mark Bradford,Engineering,0.54
+1498,Integrated Fine Arts Department,Lori Alvarez DDS,AI,0.52
+1499,Modern Chemistry Center,Kylie Miller,Environment,0.58
+1500,Integrated Fine Arts Institute,Melissa Lee,Engineering,0.9

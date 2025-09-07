@@ -1,0 +1,1501 @@
+CompanyID,Name,Type,Location,PartnershipLevel
+1,"Faulkner, Martinez and Gilmore",Government,Ottawa,Collaborator
+2,"Howell, Sanchez and Pierce",Private,Ottawa,Strategic
+3,Villarreal-Moreno,Private,Remote,Strategic
+4,Vincent-Watts,Private,Toronto,Strategic
+5,Duffy Group,Government,Vancouver,Collaborator
+6,Evans LLC,Government,Ottawa,Collaborator
+7,"Manning, Miller and Forbes",Government,Toronto,Collaborator
+8,Davis LLC,Government,Vancouver,Collaborator
+9,Miller LLC,Government,Vancouver,Collaborator
+10,Carney PLC,Private,Ottawa,Strategic
+11,"Benton, Barr and Haney",Government,Toronto,Strategic
+12,Ali-Singleton,Government,Ottawa,Collaborator
+13,Rivera-Rodriguez,Private,Remote,Strategic
+14,Glover-Tapia,Government,Toronto,Strategic
+15,"Hodges, Meyer and Snyder",Government,Toronto,Strategic
+16,Hart-Brewer,Government,Remote,Collaborator
+17,Brown-Sandoval,Government,Ottawa,Collaborator
+18,"Crawford, Reyes and Gordon",Private,Vancouver,Collaborator
+19,Daniels-White,Private,Ottawa,Strategic
+20,Russell-Anderson,Government,Ottawa,Strategic
+21,Clay Inc,Private,Remote,Strategic
+22,Lowe and Sons,Government,Remote,Collaborator
+23,"King, Morris and Robinson",Government,Toronto,Collaborator
+24,Miller-Carr,Private,Ottawa,Collaborator
+25,"Ramirez, Wilson and Kramer",Government,Ottawa,Strategic
+26,Cuevas and Sons,Private,Ottawa,Collaborator
+27,Griffin-Roberts,Government,Vancouver,Collaborator
+28,Page Inc,Government,Toronto,Collaborator
+29,Martinez Group,Private,Remote,Collaborator
+30,Dunn-Cannon,Private,Vancouver,Collaborator
+31,Jimenez Group,Private,Vancouver,Collaborator
+32,Shepherd-Vargas,Private,Ottawa,Collaborator
+33,Taylor-Steele,Government,Remote,Collaborator
+34,Smith and Sons,Private,Remote,Collaborator
+35,Miller LLC,Government,Ottawa,Collaborator
+36,Moore PLC,Private,Vancouver,Collaborator
+37,Christensen-Brewer,Government,Remote,Collaborator
+38,Garcia-Caldwell,Private,Ottawa,Strategic
+39,Torres-Russo,Government,Vancouver,Strategic
+40,Jackson-Miller,Government,Toronto,Strategic
+41,Rodriguez and Sons,Private,Ottawa,Strategic
+42,Gibbs-Howard,Private,Vancouver,Strategic
+43,"Schneider, Price and Holden",Private,Remote,Strategic
+44,Donovan LLC,Government,Vancouver,Collaborator
+45,"Levy, Sawyer and Perkins",Government,Vancouver,Strategic
+46,Garcia Ltd,Government,Toronto,Strategic
+47,Cruz-Perez,Government,Ottawa,Strategic
+48,"Kelly, Wallace and Santana",Private,Toronto,Collaborator
+49,King and Sons,Private,Ottawa,Collaborator
+50,Harrison Group,Private,Ottawa,Collaborator
+51,Rowland and Sons,Private,Toronto,Collaborator
+52,Robbins-Pratt,Private,Vancouver,Strategic
+53,"Watson, Anderson and Lee",Private,Vancouver,Collaborator
+54,"Kim, Shaffer and Acosta",Private,Toronto,Strategic
+55,"Booth, Flores and Lee",Government,Remote,Collaborator
+56,Wilkerson PLC,Government,Ottawa,Strategic
+57,"Gay, Kennedy and Austin",Government,Remote,Collaborator
+58,Stone Inc,Private,Toronto,Collaborator
+59,"King, Murphy and Peterson",Government,Ottawa,Collaborator
+60,"Riley, Miller and Barker",Private,Toronto,Strategic
+61,Patterson Inc,Government,Ottawa,Strategic
+62,"Nelson, Wheeler and Turner",Government,Ottawa,Collaborator
+63,Thompson-Rodriguez,Private,Toronto,Strategic
+64,Ramos-Martin,Government,Toronto,Strategic
+65,"Howard, Thomas and Herring",Government,Remote,Strategic
+66,Kelly LLC,Private,Vancouver,Strategic
+67,Woods-Melendez,Private,Ottawa,Strategic
+68,Watts LLC,Private,Toronto,Collaborator
+69,"Macdonald, Stewart and Dickerson",Government,Remote,Strategic
+70,"Delgado, Anderson and Nelson",Government,Remote,Collaborator
+71,"Love, Lambert and Mcneil",Government,Ottawa,Strategic
+72,White Inc,Private,Vancouver,Collaborator
+73,Greene LLC,Government,Ottawa,Strategic
+74,"White, Ramirez and Lopez",Private,Vancouver,Collaborator
+75,Nicholson-Foster,Government,Vancouver,Collaborator
+76,Burnett Inc,Private,Remote,Collaborator
+77,"Davis, Dickerson and Hoffman",Government,Remote,Strategic
+78,Leonard-Carter,Government,Vancouver,Strategic
+79,Roberts Group,Government,Vancouver,Strategic
+80,Buchanan LLC,Private,Toronto,Collaborator
+81,"Singh, Krause and Morrison",Government,Ottawa,Strategic
+82,"Austin, Frank and Jones",Government,Ottawa,Collaborator
+83,"Johnson, Hess and King",Private,Remote,Collaborator
+84,Wilson Ltd,Government,Remote,Strategic
+85,Jacobs Inc,Government,Vancouver,Strategic
+86,"Padilla, Carey and Jones",Government,Vancouver,Strategic
+87,"Herman, Melton and Grant",Government,Ottawa,Strategic
+88,Galloway Ltd,Private,Toronto,Strategic
+89,"White, Larson and Smith",Government,Vancouver,Strategic
+90,Olsen-Richmond,Government,Ottawa,Strategic
+91,"Clark, Cowan and Porter",Private,Remote,Strategic
+92,Frank Group,Private,Ottawa,Strategic
+93,Bennett-Brooks,Private,Ottawa,Strategic
+94,"Villegas, Stevens and Martin",Private,Ottawa,Strategic
+95,Smith-Newton,Private,Toronto,Collaborator
+96,Willis-Flores,Private,Ottawa,Strategic
+97,"Smith, Brown and Sanford",Private,Toronto,Collaborator
+98,"Bishop, Figueroa and Mason",Private,Toronto,Collaborator
+99,"House, Harris and Chandler",Private,Toronto,Strategic
+100,Stout LLC,Private,Remote,Collaborator
+101,"Hughes, Reynolds and Herrera",Government,Remote,Strategic
+102,Nielsen-Morrow,Private,Ottawa,Strategic
+103,"Morris, Curtis and Scott",Government,Ottawa,Strategic
+104,Payne Inc,Private,Vancouver,Collaborator
+105,Soto PLC,Government,Ottawa,Strategic
+106,Sanchez Ltd,Private,Vancouver,Strategic
+107,Mejia Group,Government,Ottawa,Collaborator
+108,"Lee, Leonard and Hendricks",Private,Remote,Collaborator
+109,Schmidt-Cochran,Government,Remote,Collaborator
+110,Walton and Sons,Government,Remote,Strategic
+111,"Moss, Davis and Hancock",Private,Remote,Collaborator
+112,"Bennett, Cain and Carter",Private,Remote,Collaborator
+113,"Richardson, Jones and Brandt",Private,Ottawa,Collaborator
+114,Fisher PLC,Government,Vancouver,Strategic
+115,Kirk PLC,Private,Toronto,Collaborator
+116,Morales and Sons,Private,Toronto,Collaborator
+117,"Kirby, Wilcox and Strickland",Government,Ottawa,Collaborator
+118,Rush-Cummings,Government,Ottawa,Strategic
+119,Bullock Inc,Private,Remote,Collaborator
+120,Mitchell-Davis,Private,Toronto,Collaborator
+121,"Gomez, Mann and Miller",Private,Ottawa,Strategic
+122,Anderson-Harper,Government,Toronto,Strategic
+123,"Foster, Garrison and Mcdaniel",Private,Ottawa,Collaborator
+124,Gomez and Sons,Private,Ottawa,Strategic
+125,"Hamilton, Rodriguez and Adams",Private,Toronto,Collaborator
+126,Meadows-Hayes,Private,Remote,Collaborator
+127,Brady LLC,Private,Vancouver,Collaborator
+128,King Ltd,Government,Remote,Collaborator
+129,Osborne-Whitehead,Private,Toronto,Collaborator
+130,"Williams, Stephenson and Patrick",Government,Remote,Strategic
+131,Martin Inc,Government,Vancouver,Collaborator
+132,"Horton, Hansen and Austin",Private,Remote,Collaborator
+133,Lee Group,Private,Vancouver,Collaborator
+134,"Ward, Juarez and Miller",Government,Remote,Strategic
+135,Meyer Group,Government,Ottawa,Collaborator
+136,"Brown, King and Romero",Private,Toronto,Strategic
+137,Johnson-Reed,Government,Toronto,Strategic
+138,Boyer-James,Government,Remote,Strategic
+139,Reed-Thornton,Private,Ottawa,Strategic
+140,"Stevens, Harper and Fox",Government,Remote,Collaborator
+141,"Martin, Mosley and Wilson",Government,Ottawa,Strategic
+142,Washington LLC,Private,Toronto,Collaborator
+143,Lewis-Gillespie,Government,Toronto,Collaborator
+144,Davis-Robertson,Government,Vancouver,Collaborator
+145,Sanchez Inc,Private,Remote,Collaborator
+146,Moore-Harris,Government,Ottawa,Strategic
+147,May-Blanchard,Private,Ottawa,Strategic
+148,Davis-Robinson,Private,Vancouver,Strategic
+149,Finley Inc,Private,Toronto,Collaborator
+150,"Gilmore, Cole and Williams",Government,Vancouver,Strategic
+151,Simon-Bridges,Government,Vancouver,Collaborator
+152,"Harris, Dunn and Garcia",Private,Vancouver,Collaborator
+153,Miller Inc,Government,Remote,Strategic
+154,"Wise, Delacruz and Holmes",Government,Ottawa,Strategic
+155,Peters Inc,Government,Ottawa,Collaborator
+156,"Lee, Butler and Jones",Government,Ottawa,Collaborator
+157,"Hunter, Santiago and Hunt",Government,Vancouver,Collaborator
+158,"Thompson, Kennedy and Reynolds",Private,Ottawa,Strategic
+159,"Haley, Garrett and Scott",Private,Ottawa,Strategic
+160,"Horne, Nelson and Thomas",Government,Remote,Strategic
+161,Norman LLC,Government,Ottawa,Collaborator
+162,Fuentes-Cole,Government,Toronto,Strategic
+163,"Haas, Hernandez and Soto",Government,Remote,Strategic
+164,"Clarke, Norris and Wyatt",Government,Toronto,Collaborator
+165,Turner-Daniel,Private,Ottawa,Collaborator
+166,Powell Group,Government,Toronto,Strategic
+167,Smith-Lopez,Private,Ottawa,Strategic
+168,"Contreras, Harvey and Dyer",Private,Toronto,Strategic
+169,"Martinez, Larsen and Ortiz",Government,Vancouver,Strategic
+170,Osborn-Goodman,Private,Vancouver,Strategic
+171,Howe LLC,Private,Ottawa,Collaborator
+172,Pope Inc,Government,Ottawa,Strategic
+173,Evans LLC,Government,Toronto,Strategic
+174,"James, Lucas and Carter",Private,Toronto,Collaborator
+175,Baker Group,Government,Remote,Strategic
+176,"Sanchez, White and Guerrero",Private,Vancouver,Strategic
+177,"Gordon, Blair and Austin",Government,Vancouver,Strategic
+178,Grant Inc,Government,Vancouver,Strategic
+179,Daniel-Jimenez,Government,Ottawa,Collaborator
+180,Pearson-Owens,Private,Toronto,Collaborator
+181,Hanson-Stephenson,Government,Remote,Collaborator
+182,Mills-Copeland,Private,Toronto,Strategic
+183,"Leach, Watkins and Gates",Government,Toronto,Strategic
+184,Mills PLC,Government,Vancouver,Strategic
+185,Harrison-Robinson,Private,Ottawa,Collaborator
+186,"Colon, Bell and Mack",Private,Ottawa,Strategic
+187,Simon-Tucker,Government,Ottawa,Strategic
+188,"Sanchez, Grant and Cross",Government,Remote,Strategic
+189,"Gray, Martin and Manning",Private,Toronto,Strategic
+190,Davis-Alvarado,Private,Ottawa,Collaborator
+191,Brown Group,Government,Remote,Strategic
+192,Butler Ltd,Government,Toronto,Collaborator
+193,Parker-Mack,Private,Vancouver,Collaborator
+194,"Edwards, Craig and Douglas",Private,Remote,Collaborator
+195,"Johnson, Smith and Reeves",Government,Vancouver,Collaborator
+196,"Ford, Alexander and Martinez",Government,Vancouver,Collaborator
+197,Johnston PLC,Government,Ottawa,Collaborator
+198,Flowers Inc,Government,Vancouver,Collaborator
+199,Jones-Lowery,Private,Vancouver,Strategic
+200,"Caldwell, Crosby and Walker",Private,Remote,Strategic
+201,"Dunn, Carter and Herrera",Government,Ottawa,Collaborator
+202,"Woods, Rollins and Butler",Private,Toronto,Strategic
+203,Morrison and Sons,Private,Remote,Strategic
+204,"Rangel, Watkins and Green",Private,Toronto,Strategic
+205,"Combs, Thomas and Humphrey",Private,Remote,Collaborator
+206,"Roberts, Flynn and Burton",Government,Remote,Strategic
+207,Banks and Sons,Government,Ottawa,Strategic
+208,"Butler, Brown and Lewis",Private,Vancouver,Collaborator
+209,"Smith, Sullivan and Torres",Government,Ottawa,Strategic
+210,Jacobs-Norris,Private,Toronto,Collaborator
+211,Brown-Anderson,Private,Toronto,Collaborator
+212,"Stewart, Stevens and Brown",Government,Toronto,Collaborator
+213,Anderson-Stone,Private,Ottawa,Collaborator
+214,Thompson and Sons,Government,Ottawa,Strategic
+215,Jackson Ltd,Government,Toronto,Strategic
+216,"Taylor, Guzman and Murillo",Government,Ottawa,Strategic
+217,Cameron PLC,Private,Ottawa,Strategic
+218,"Buckley, Terry and Beasley",Government,Toronto,Collaborator
+219,Ortiz and Sons,Private,Toronto,Collaborator
+220,Cruz Group,Private,Toronto,Collaborator
+221,"Thomas, Waters and Colon",Government,Ottawa,Collaborator
+222,"Lindsey, Edwards and Rivera",Government,Remote,Strategic
+223,Steele Inc,Private,Vancouver,Strategic
+224,Gonzales Inc,Private,Ottawa,Strategic
+225,Johnson Inc,Government,Vancouver,Collaborator
+226,Baker-Gates,Private,Toronto,Strategic
+227,Parks-Robinson,Government,Vancouver,Collaborator
+228,Acosta Group,Government,Vancouver,Strategic
+229,Crawford Group,Government,Vancouver,Collaborator
+230,Gibbs PLC,Private,Ottawa,Collaborator
+231,Arnold-Johnson,Private,Remote,Collaborator
+232,"Kramer, Hayes and Thompson",Government,Remote,Strategic
+233,"Watkins, Richard and Weiss",Government,Vancouver,Strategic
+234,"Olson, Peterson and Mclaughlin",Government,Vancouver,Collaborator
+235,"Johnson, Park and Moran",Government,Remote,Strategic
+236,"Alexander, Ryan and Potter",Private,Vancouver,Collaborator
+237,"Leon, Martinez and Green",Government,Toronto,Strategic
+238,Howard-Hamilton,Private,Toronto,Strategic
+239,James LLC,Government,Toronto,Strategic
+240,Barber Ltd,Private,Vancouver,Collaborator
+241,"Velez, Haas and Garcia",Government,Ottawa,Strategic
+242,"Perez, White and Allen",Private,Remote,Strategic
+243,"Clark, Marshall and Thompson",Government,Vancouver,Collaborator
+244,Anderson Group,Government,Toronto,Collaborator
+245,Pierce-Sandoval,Government,Ottawa,Collaborator
+246,"Flores, Stevenson and Leach",Private,Ottawa,Collaborator
+247,"Garcia, Dunn and Rodriguez",Government,Toronto,Strategic
+248,Graham and Sons,Private,Remote,Strategic
+249,Moore-Carney,Private,Toronto,Strategic
+250,"Perry, Nguyen and Wheeler",Private,Remote,Collaborator
+251,"Mahoney, Cherry and Hughes",Government,Ottawa,Collaborator
+252,"Golden, Walker and Holt",Government,Ottawa,Strategic
+253,Henderson Group,Private,Ottawa,Collaborator
+254,Harris and Sons,Government,Vancouver,Strategic
+255,Cruz-Fields,Private,Toronto,Strategic
+256,Chan LLC,Government,Toronto,Collaborator
+257,"Lawson, Jacobs and Willis",Private,Ottawa,Strategic
+258,Ward-Buck,Government,Remote,Collaborator
+259,Matthews LLC,Government,Toronto,Strategic
+260,Brown Group,Government,Ottawa,Strategic
+261,"Weeks, Wright and Brown",Government,Toronto,Collaborator
+262,"Turner, Arnold and Williams",Private,Ottawa,Collaborator
+263,Mason-Nelson,Government,Remote,Strategic
+264,Freeman PLC,Government,Toronto,Collaborator
+265,Watson PLC,Private,Toronto,Strategic
+266,Hensley-Richard,Government,Remote,Strategic
+267,Simmons Ltd,Government,Remote,Collaborator
+268,"Oconnor, Francis and Day",Government,Vancouver,Strategic
+269,Castillo-Estrada,Private,Ottawa,Strategic
+270,"Thomas, Hamilton and Medina",Private,Ottawa,Collaborator
+271,"Myers, Hopkins and Walters",Government,Remote,Strategic
+272,"Green, Anderson and Morales",Private,Ottawa,Strategic
+273,"Collins, Brown and Armstrong",Private,Toronto,Strategic
+274,"Nunez, Cook and Houston",Government,Vancouver,Strategic
+275,"Tyler, Bray and Rodriguez",Private,Ottawa,Strategic
+276,"Valentine, Duncan and Hoffman",Government,Vancouver,Strategic
+277,"Perkins, Johnson and Taylor",Government,Ottawa,Strategic
+278,Sanders Ltd,Private,Remote,Strategic
+279,Chapman-Hodges,Government,Vancouver,Strategic
+280,"Walker, Johnson and Blevins",Government,Remote,Strategic
+281,"Hayden, Stewart and Mitchell",Government,Ottawa,Strategic
+282,"Anthony, Marshall and Webb",Government,Ottawa,Strategic
+283,Johnson Group,Private,Remote,Collaborator
+284,"Martin, Bennett and Williams",Private,Vancouver,Collaborator
+285,"Hill, Adams and Delacruz",Government,Vancouver,Collaborator
+286,King Group,Government,Ottawa,Strategic
+287,Morris-Price,Government,Remote,Collaborator
+288,"Gallegos, Reese and Martin",Private,Vancouver,Collaborator
+289,Weaver PLC,Private,Toronto,Strategic
+290,Duffy-Perez,Government,Vancouver,Strategic
+291,Kline-Gomez,Private,Remote,Strategic
+292,"Jackson, Humphrey and Rowland",Private,Ottawa,Collaborator
+293,Hall LLC,Private,Vancouver,Collaborator
+294,"Evans, Cain and Barron",Government,Vancouver,Strategic
+295,Palmer PLC,Private,Vancouver,Collaborator
+296,Swanson-Chang,Government,Toronto,Collaborator
+297,Ramsey Group,Private,Remote,Strategic
+298,Adkins PLC,Government,Toronto,Collaborator
+299,Myers-Cook,Government,Remote,Strategic
+300,"Raymond, West and Roman",Private,Vancouver,Strategic
+301,Beltran-Wood,Private,Vancouver,Strategic
+302,Cook-Harris,Private,Toronto,Collaborator
+303,Rivera-Mendoza,Private,Ottawa,Collaborator
+304,Chang PLC,Private,Vancouver,Collaborator
+305,Russell and Sons,Private,Ottawa,Strategic
+306,Perez-Lewis,Private,Remote,Strategic
+307,"Solomon, Stewart and Mitchell",Private,Remote,Strategic
+308,Lowe-Swanson,Private,Remote,Collaborator
+309,"Anderson, Oneill and Robinson",Private,Vancouver,Strategic
+310,Savage-Murphy,Private,Vancouver,Strategic
+311,"Weiss, Acevedo and Lowe",Government,Toronto,Strategic
+312,Phelps and Sons,Government,Toronto,Strategic
+313,Clay-Thompson,Private,Ottawa,Collaborator
+314,"Martin, King and Barber",Private,Ottawa,Collaborator
+315,"Allen, Koch and Aguilar",Government,Vancouver,Strategic
+316,"Cooper, Welch and Brown",Private,Ottawa,Collaborator
+317,Ward Inc,Government,Toronto,Collaborator
+318,Jarvis Ltd,Private,Remote,Strategic
+319,Miller-Cole,Government,Remote,Collaborator
+320,Schmidt-Henry,Private,Toronto,Collaborator
+321,"Myers, Hall and Riley",Government,Vancouver,Collaborator
+322,Kelly-Schmidt,Private,Vancouver,Collaborator
+323,Long Inc,Private,Vancouver,Strategic
+324,"Beltran, Wilson and Curtis",Private,Ottawa,Collaborator
+325,Jackson Inc,Government,Ottawa,Strategic
+326,Rogers PLC,Government,Vancouver,Strategic
+327,"Williams, Fuentes and Sanchez",Government,Vancouver,Collaborator
+328,Herrera-Lyons,Private,Remote,Collaborator
+329,"Harris, Romero and Morris",Private,Remote,Strategic
+330,Reynolds-Dodson,Government,Vancouver,Strategic
+331,"Huerta, Torres and Curtis",Private,Remote,Strategic
+332,"Lane, Peterson and Hancock",Government,Toronto,Collaborator
+333,"Lewis, White and Thompson",Private,Toronto,Strategic
+334,Hampton-Reeves,Private,Ottawa,Collaborator
+335,"Beltran, Howell and Cooper",Government,Remote,Strategic
+336,Howell LLC,Government,Ottawa,Collaborator
+337,Cherry-Meyer,Private,Toronto,Strategic
+338,"Lewis, Wong and Scott",Private,Toronto,Strategic
+339,"Gonzalez, Perry and Ruiz",Government,Ottawa,Strategic
+340,Anderson-Cobb,Government,Remote,Strategic
+341,"Solis, Turner and Smith",Government,Vancouver,Collaborator
+342,Lee LLC,Private,Toronto,Strategic
+343,Hale-Glover,Government,Toronto,Collaborator
+344,Jackson-Barnett,Government,Remote,Strategic
+345,Smith Inc,Private,Ottawa,Strategic
+346,Ruiz and Sons,Government,Vancouver,Strategic
+347,Howell and Sons,Private,Vancouver,Strategic
+348,Pena Group,Government,Vancouver,Strategic
+349,"Webb, Adams and Hawkins",Government,Toronto,Strategic
+350,"Collins, Hopkins and Franklin",Private,Ottawa,Collaborator
+351,"Bowen, Erickson and White",Private,Toronto,Collaborator
+352,Wallace Group,Private,Remote,Collaborator
+353,"Sullivan, Owen and Patel",Government,Remote,Strategic
+354,King Group,Private,Remote,Strategic
+355,Howard-Cole,Private,Remote,Collaborator
+356,Middleton Inc,Government,Toronto,Collaborator
+357,Ross-Warner,Private,Remote,Collaborator
+358,Schneider-Wilkerson,Private,Ottawa,Strategic
+359,"Stevens, Burke and Foley",Private,Remote,Collaborator
+360,"Nash, Thompson and King",Private,Vancouver,Collaborator
+361,Farley Ltd,Government,Toronto,Strategic
+362,King Group,Government,Toronto,Strategic
+363,"James, Crawford and Patterson",Government,Vancouver,Strategic
+364,Cole Group,Private,Ottawa,Strategic
+365,"Smith, Gray and Campos",Private,Ottawa,Strategic
+366,Harris LLC,Government,Remote,Strategic
+367,"Page, Rangel and Perkins",Private,Remote,Collaborator
+368,"Hall, Richardson and Cochran",Government,Ottawa,Strategic
+369,Chambers-Mills,Government,Toronto,Strategic
+370,Garcia-Jacobs,Government,Remote,Collaborator
+371,"Fox, Ramirez and Gonzalez",Government,Ottawa,Strategic
+372,"Zimmerman, Giles and Mason",Government,Toronto,Strategic
+373,Perez-May,Government,Remote,Strategic
+374,Elliott Inc,Government,Toronto,Collaborator
+375,"Robertson, Lane and Baldwin",Government,Vancouver,Strategic
+376,Garner-Rodriguez,Private,Vancouver,Strategic
+377,Smith-Kelly,Private,Toronto,Strategic
+378,Wheeler-Carney,Private,Ottawa,Strategic
+379,Aguilar and Sons,Government,Ottawa,Strategic
+380,Duran-Sanders,Private,Vancouver,Collaborator
+381,Delacruz-Martin,Government,Remote,Collaborator
+382,"Carter, Jones and Powell",Private,Ottawa,Collaborator
+383,Greene-Smith,Government,Remote,Strategic
+384,Thompson LLC,Private,Vancouver,Strategic
+385,Cox-Deleon,Private,Remote,Collaborator
+386,"Bowers, Mcdowell and Johnson",Private,Vancouver,Strategic
+387,Parsons-Montes,Private,Remote,Collaborator
+388,Kaiser LLC,Government,Ottawa,Strategic
+389,"Wheeler, Patel and Murray",Government,Toronto,Strategic
+390,"Shepard, Richardson and Hays",Government,Toronto,Collaborator
+391,"Roberts, Peterson and Walker",Government,Vancouver,Collaborator
+392,Lewis Group,Government,Vancouver,Collaborator
+393,"Williamson, Adams and Gonzalez",Government,Toronto,Strategic
+394,"Thompson, Walker and Alvarez",Government,Toronto,Collaborator
+395,"Miles, Berry and Harrington",Private,Toronto,Collaborator
+396,"Hicks, Sanders and Woodward",Government,Remote,Strategic
+397,"Ward, Maxwell and Carlson",Government,Remote,Collaborator
+398,Marks-Lee,Private,Vancouver,Collaborator
+399,Wilson PLC,Private,Remote,Collaborator
+400,Washington Inc,Government,Remote,Strategic
+401,Hamilton-Gilmore,Private,Remote,Strategic
+402,Ellis and Sons,Private,Remote,Strategic
+403,"Knapp, Le and Byrd",Private,Remote,Collaborator
+404,Lopez-Alexander,Private,Vancouver,Collaborator
+405,"Cabrera, Boyd and Davis",Private,Remote,Collaborator
+406,Mejia-Reid,Government,Ottawa,Strategic
+407,Mclean Inc,Government,Toronto,Strategic
+408,Fields Inc,Private,Toronto,Collaborator
+409,Rodriguez-White,Government,Vancouver,Collaborator
+410,Khan Inc,Government,Ottawa,Strategic
+411,Phillips-Liu,Government,Ottawa,Strategic
+412,Phillips Inc,Private,Ottawa,Collaborator
+413,"Sanders, Cline and Oneill",Government,Remote,Collaborator
+414,"Gross, Moore and Cooper",Private,Ottawa,Collaborator
+415,Pace-Martin,Private,Remote,Collaborator
+416,"Smith, Mcknight and Turner",Private,Toronto,Collaborator
+417,Woods-Maddox,Private,Toronto,Collaborator
+418,Rogers Ltd,Government,Toronto,Strategic
+419,Young-Campbell,Government,Ottawa,Strategic
+420,Malone-Vaughn,Private,Remote,Collaborator
+421,Clark-Donovan,Government,Toronto,Collaborator
+422,"Martinez, Grant and Nelson",Private,Remote,Collaborator
+423,Torres and Sons,Government,Ottawa,Strategic
+424,"Glover, Rodriguez and Gonzalez",Private,Remote,Strategic
+425,"Green, Odom and Jones",Private,Vancouver,Collaborator
+426,Harvey-Vazquez,Government,Remote,Collaborator
+427,"Winters, Long and Phillips",Private,Ottawa,Strategic
+428,"Beard, Smith and Thomas",Private,Vancouver,Strategic
+429,Watts Group,Private,Vancouver,Strategic
+430,"Moses, Gibson and Hardin",Government,Vancouver,Collaborator
+431,"Schwartz, Mann and Perez",Government,Remote,Collaborator
+432,Miller-Moreno,Government,Remote,Strategic
+433,Williams-Phillips,Private,Vancouver,Collaborator
+434,"Johnson, Singleton and Vargas",Government,Ottawa,Collaborator
+435,"Vazquez, Lewis and Murphy",Government,Remote,Strategic
+436,Bryant and Sons,Government,Toronto,Strategic
+437,"Miller, Perez and Hopkins",Private,Vancouver,Strategic
+438,"Murphy, Mueller and Mann",Government,Vancouver,Strategic
+439,Campbell Group,Government,Vancouver,Collaborator
+440,"Chambers, Mora and Harrison",Private,Ottawa,Collaborator
+441,"Webb, Garcia and Clark",Government,Toronto,Strategic
+442,"Hobbs, Reynolds and Johnson",Government,Ottawa,Collaborator
+443,"Harris, Nelson and Ford",Private,Toronto,Strategic
+444,"Ramsey, Tucker and Edwards",Private,Toronto,Strategic
+445,Martin-Johnston,Private,Ottawa,Collaborator
+446,Bender Ltd,Government,Remote,Collaborator
+447,Harris PLC,Private,Vancouver,Collaborator
+448,"Solomon, Sandoval and Graham",Private,Toronto,Collaborator
+449,"Hawkins, Lee and Adkins",Government,Vancouver,Strategic
+450,Robinson LLC,Government,Ottawa,Collaborator
+451,Davis-Jordan,Private,Toronto,Strategic
+452,Durham-Torres,Private,Vancouver,Strategic
+453,Jones and Sons,Private,Toronto,Strategic
+454,Payne Ltd,Government,Ottawa,Strategic
+455,Valdez-Green,Government,Ottawa,Strategic
+456,Jones LLC,Private,Toronto,Strategic
+457,Bailey-Yang,Government,Vancouver,Collaborator
+458,Carter LLC,Private,Vancouver,Strategic
+459,Anderson Ltd,Private,Vancouver,Strategic
+460,Day-Hernandez,Private,Vancouver,Collaborator
+461,Allen LLC,Private,Toronto,Strategic
+462,Conrad-Garcia,Private,Remote,Collaborator
+463,"Lane, Rogers and Rivera",Government,Ottawa,Collaborator
+464,Spencer-Brady,Private,Toronto,Strategic
+465,Black-Maynard,Private,Toronto,Collaborator
+466,Bradley-Smith,Private,Vancouver,Collaborator
+467,Turner-Ellis,Government,Remote,Strategic
+468,Morgan-Miller,Private,Ottawa,Strategic
+469,Jackson-Jacobs,Government,Ottawa,Collaborator
+470,Smith-Santiago,Private,Vancouver,Strategic
+471,Smith Inc,Private,Ottawa,Collaborator
+472,Gilmore-Oliver,Government,Remote,Strategic
+473,Miller-Miller,Government,Toronto,Strategic
+474,Joyce-Kelly,Private,Toronto,Collaborator
+475,"Lee, Mcdonald and Hall",Private,Toronto,Strategic
+476,Freeman-Olson,Private,Remote,Strategic
+477,Alvarez-Costa,Government,Remote,Collaborator
+478,Le-Gibson,Government,Remote,Strategic
+479,Phillips-Charles,Private,Remote,Strategic
+480,"Howard, Clements and Lopez",Government,Toronto,Strategic
+481,Holloway-Jackson,Government,Toronto,Strategic
+482,Warner-Santos,Government,Remote,Collaborator
+483,Robinson-Howard,Private,Toronto,Collaborator
+484,Gomez-Rodriguez,Government,Vancouver,Collaborator
+485,Kim Inc,Private,Remote,Strategic
+486,Jones-Petersen,Private,Ottawa,Strategic
+487,Garrett Inc,Government,Vancouver,Strategic
+488,Harding PLC,Government,Toronto,Strategic
+489,"Evans, Frazier and Medina",Government,Ottawa,Strategic
+490,Andrews-Foster,Government,Vancouver,Strategic
+491,Lawrence-Lee,Private,Toronto,Collaborator
+492,Lewis-Smith,Government,Vancouver,Collaborator
+493,Sullivan Group,Government,Toronto,Collaborator
+494,"Reyes, Dunn and Bush",Private,Ottawa,Strategic
+495,"Schmitt, Davis and Franklin",Government,Remote,Collaborator
+496,Jackson and Sons,Government,Vancouver,Collaborator
+497,Estrada-Kennedy,Government,Toronto,Strategic
+498,Dixon-Watts,Government,Remote,Collaborator
+499,Johnson-Molina,Private,Vancouver,Strategic
+500,King-Morgan,Government,Ottawa,Strategic
+501,Lloyd-Munoz,Government,Vancouver,Collaborator
+502,Robertson-Ford,Government,Vancouver,Collaborator
+503,"Young, Watkins and Jenkins",Government,Vancouver,Strategic
+504,"Riley, Wells and Cole",Government,Ottawa,Collaborator
+505,"Gamble, Hill and Watson",Private,Vancouver,Collaborator
+506,Mullins Ltd,Private,Ottawa,Collaborator
+507,"Shepard, Barnes and Carpenter",Government,Vancouver,Collaborator
+508,Vargas PLC,Private,Ottawa,Strategic
+509,"Patterson, Rose and Kaufman",Government,Ottawa,Collaborator
+510,Moreno-Sawyer,Private,Ottawa,Collaborator
+511,Fritz-Martin,Government,Vancouver,Collaborator
+512,"Hubbard, Thomas and Wilkinson",Private,Ottawa,Collaborator
+513,Sherman PLC,Private,Ottawa,Strategic
+514,"Lopez, Orr and Rush",Private,Ottawa,Collaborator
+515,"Wu, Taylor and Gray",Government,Ottawa,Strategic
+516,"Carson, Simmons and Carpenter",Government,Toronto,Collaborator
+517,"Waters, Murray and Carlson",Government,Vancouver,Strategic
+518,"Doyle, Morris and Sanchez",Private,Ottawa,Collaborator
+519,Nicholson PLC,Private,Remote,Collaborator
+520,Williams LLC,Government,Vancouver,Collaborator
+521,West PLC,Government,Vancouver,Strategic
+522,Preston and Sons,Private,Remote,Strategic
+523,Carpenter-Reed,Private,Vancouver,Strategic
+524,Bass and Sons,Government,Ottawa,Strategic
+525,"Mason, Howe and Mitchell",Government,Vancouver,Collaborator
+526,"Shah, George and Lopez",Government,Remote,Collaborator
+527,"Rose, Daniels and Short",Private,Ottawa,Collaborator
+528,"Lopez, Goodman and Hill",Government,Toronto,Strategic
+529,Gray-Leonard,Private,Vancouver,Collaborator
+530,Smith PLC,Private,Vancouver,Collaborator
+531,Morales-Young,Government,Ottawa,Strategic
+532,Gallagher-Snyder,Private,Toronto,Strategic
+533,"Nelson, Lee and Herman",Government,Remote,Collaborator
+534,Harris-Bates,Private,Ottawa,Strategic
+535,Humphrey Ltd,Private,Remote,Collaborator
+536,Tate Inc,Government,Remote,Strategic
+537,Nunez-Frey,Government,Vancouver,Strategic
+538,Tucker and Sons,Private,Ottawa,Strategic
+539,"Hall, Silva and Harris",Government,Remote,Strategic
+540,"Evans, Matthews and Harris",Government,Remote,Collaborator
+541,Jones-Williams,Government,Ottawa,Strategic
+542,Grant-Miranda,Government,Remote,Strategic
+543,Flores and Sons,Government,Remote,Strategic
+544,Conley-Rodriguez,Government,Vancouver,Collaborator
+545,Sims-Johnson,Government,Toronto,Collaborator
+546,Bean-Turner,Government,Vancouver,Collaborator
+547,Cervantes Ltd,Government,Remote,Collaborator
+548,Ford Ltd,Government,Remote,Strategic
+549,Dawson-Tucker,Private,Ottawa,Strategic
+550,"Burke, Wall and Murphy",Government,Ottawa,Collaborator
+551,Cooley LLC,Government,Ottawa,Strategic
+552,"Reyes, Pierce and Swanson",Government,Toronto,Strategic
+553,Hughes-Stone,Government,Vancouver,Strategic
+554,Mueller Ltd,Government,Remote,Strategic
+555,Holland Ltd,Private,Remote,Collaborator
+556,Dunlap Inc,Government,Remote,Strategic
+557,Burns PLC,Government,Toronto,Strategic
+558,"Thomas, Delgado and Graves",Private,Vancouver,Strategic
+559,Owens Group,Government,Vancouver,Strategic
+560,Wagner-Lopez,Government,Ottawa,Collaborator
+561,"Rodriguez, Miller and Ramirez",Private,Toronto,Strategic
+562,Lewis-Taylor,Government,Remote,Strategic
+563,"Sutton, Pierce and Mays",Government,Vancouver,Strategic
+564,Rangel and Sons,Private,Ottawa,Strategic
+565,Arroyo-Robinson,Private,Vancouver,Collaborator
+566,"Fuentes, Cunningham and Williams",Private,Vancouver,Collaborator
+567,Kaiser and Sons,Private,Ottawa,Strategic
+568,Sullivan-Willis,Government,Ottawa,Collaborator
+569,Griffin-Copeland,Private,Toronto,Strategic
+570,Baker-Torres,Government,Remote,Collaborator
+571,"Garza, Rush and Sexton",Government,Vancouver,Strategic
+572,Chan-Pugh,Private,Remote,Strategic
+573,"Johnson, Wagner and White",Private,Ottawa,Collaborator
+574,Montgomery-Martin,Private,Toronto,Strategic
+575,Deleon PLC,Government,Vancouver,Collaborator
+576,Hahn Inc,Government,Remote,Strategic
+577,Peterson-Cruz,Private,Ottawa,Strategic
+578,Wilkinson-Foster,Private,Vancouver,Strategic
+579,Wilkins-Morales,Government,Vancouver,Strategic
+580,Mayer Inc,Government,Ottawa,Collaborator
+581,"Riley, Robinson and Herrera",Government,Ottawa,Collaborator
+582,"Doyle, Larsen and Lynch",Private,Vancouver,Collaborator
+583,"Cooper, Hubbard and Shah",Government,Toronto,Collaborator
+584,Lee LLC,Private,Vancouver,Collaborator
+585,Rodriguez Group,Government,Ottawa,Collaborator
+586,Chen-Randall,Government,Ottawa,Collaborator
+587,Fields-Webb,Private,Toronto,Collaborator
+588,Sanchez PLC,Government,Toronto,Collaborator
+589,"Ruiz, Stone and Blevins",Government,Vancouver,Collaborator
+590,Gonzalez-Torres,Private,Toronto,Strategic
+591,Spencer and Sons,Government,Toronto,Collaborator
+592,Liu-Gonzalez,Government,Vancouver,Collaborator
+593,Miller Ltd,Private,Ottawa,Collaborator
+594,Schroeder and Sons,Private,Toronto,Collaborator
+595,Wood Group,Private,Vancouver,Strategic
+596,Perry-Gonzales,Private,Vancouver,Strategic
+597,Landry Ltd,Government,Ottawa,Collaborator
+598,Perkins Inc,Government,Vancouver,Strategic
+599,"Smith, Pearson and Miller",Government,Remote,Collaborator
+600,Baker Ltd,Government,Ottawa,Collaborator
+601,Rogers-Brady,Private,Ottawa,Collaborator
+602,Thomas PLC,Private,Vancouver,Collaborator
+603,Mccoy-Hammond,Private,Vancouver,Strategic
+604,Gibson Inc,Private,Toronto,Collaborator
+605,Hernandez-Lambert,Private,Ottawa,Strategic
+606,"Ellison, Garcia and Cobb",Private,Toronto,Collaborator
+607,"Matthews, Andrade and Bailey",Private,Toronto,Strategic
+608,"Carter, Barnes and Jackson",Private,Remote,Strategic
+609,Flores Ltd,Private,Toronto,Collaborator
+610,Brown Inc,Private,Ottawa,Strategic
+611,Young Ltd,Government,Remote,Strategic
+612,Potter-Tate,Government,Vancouver,Strategic
+613,Buchanan Group,Private,Toronto,Strategic
+614,Jones and Sons,Private,Ottawa,Strategic
+615,Singh PLC,Government,Toronto,Collaborator
+616,Butler Group,Private,Ottawa,Collaborator
+617,Hammond-Mitchell,Private,Remote,Strategic
+618,Parker-Barker,Private,Ottawa,Strategic
+619,Hernandez-Garcia,Government,Vancouver,Collaborator
+620,"Campbell, Wagner and Chan",Government,Toronto,Strategic
+621,Gonzalez-Wilson,Private,Ottawa,Strategic
+622,"Vargas, Reynolds and Bond",Private,Toronto,Collaborator
+623,"Solis, Salas and Randolph",Private,Vancouver,Strategic
+624,"Moore, Salas and Baxter",Private,Remote,Strategic
+625,"Mccullough, Velez and Waters",Private,Toronto,Collaborator
+626,"Herrera, Snyder and Garner",Private,Ottawa,Strategic
+627,"Smith, Mullins and Barnett",Government,Vancouver,Collaborator
+628,Smith-Fields,Government,Remote,Collaborator
+629,Velasquez Ltd,Private,Ottawa,Collaborator
+630,"Avila, Garcia and Fowler",Government,Toronto,Strategic
+631,"White, Kaufman and Smith",Government,Ottawa,Collaborator
+632,Diaz and Sons,Private,Toronto,Strategic
+633,Johnson PLC,Government,Ottawa,Strategic
+634,Ramirez-Pearson,Private,Ottawa,Collaborator
+635,"Nichols, Rodriguez and Bryan",Government,Ottawa,Collaborator
+636,Davis Inc,Private,Remote,Collaborator
+637,Miller LLC,Government,Remote,Strategic
+638,Roberts-Zavala,Private,Vancouver,Strategic
+639,Marks-Page,Private,Ottawa,Collaborator
+640,"Green, Gay and Johnson",Private,Vancouver,Collaborator
+641,"Sexton, Collins and Boyer",Private,Toronto,Strategic
+642,Gomez PLC,Private,Ottawa,Strategic
+643,Robbins Ltd,Government,Remote,Collaborator
+644,Green-Jones,Government,Ottawa,Collaborator
+645,Nelson-Collins,Government,Toronto,Strategic
+646,Calderon Inc,Private,Toronto,Collaborator
+647,Williams and Sons,Private,Remote,Strategic
+648,"Rodriguez, Malone and Porter",Private,Toronto,Collaborator
+649,King LLC,Private,Vancouver,Strategic
+650,"Perry, Deleon and Torres",Government,Ottawa,Collaborator
+651,Miller-Moore,Government,Remote,Collaborator
+652,Hudson Ltd,Government,Vancouver,Strategic
+653,Gonzalez Group,Private,Remote,Strategic
+654,Richards-Knight,Private,Remote,Collaborator
+655,Hicks and Sons,Private,Remote,Strategic
+656,Kelley PLC,Private,Vancouver,Strategic
+657,Edwards-Taylor,Private,Ottawa,Strategic
+658,Daniels and Sons,Private,Remote,Collaborator
+659,"Curry, York and Hobbs",Private,Remote,Strategic
+660,Banks and Sons,Government,Remote,Collaborator
+661,"Green, Nguyen and Hernandez",Government,Toronto,Strategic
+662,"Ross, Cruz and Sullivan",Private,Ottawa,Collaborator
+663,Woodward-Shaffer,Government,Remote,Strategic
+664,Simpson LLC,Government,Toronto,Collaborator
+665,Evans-Burton,Private,Ottawa,Strategic
+666,Phillips-Houston,Government,Remote,Strategic
+667,Lowe-Scott,Government,Remote,Collaborator
+668,Turner-Howard,Private,Remote,Collaborator
+669,Gray Group,Government,Toronto,Strategic
+670,Robertson-Greene,Private,Remote,Collaborator
+671,Norman-Chapman,Government,Vancouver,Collaborator
+672,Carroll Group,Government,Toronto,Strategic
+673,Dougherty Group,Government,Vancouver,Collaborator
+674,Miller-Taylor,Private,Vancouver,Collaborator
+675,Trevino-Sandoval,Government,Toronto,Collaborator
+676,"Hansen, Smith and Young",Private,Vancouver,Collaborator
+677,"Martinez, Adams and Hoffman",Government,Ottawa,Collaborator
+678,Cooper-Miller,Government,Toronto,Collaborator
+679,Barnes-Salas,Private,Remote,Strategic
+680,"Reynolds, Best and Vasquez",Private,Toronto,Strategic
+681,"Richardson, Jones and Sampson",Government,Ottawa,Strategic
+682,"Franklin, Watson and Jenkins",Government,Vancouver,Collaborator
+683,Young-Hill,Private,Vancouver,Collaborator
+684,"Wright, Riley and Wyatt",Government,Ottawa,Strategic
+685,"Lynch, Bell and Kennedy",Government,Ottawa,Strategic
+686,"Todd, Schmitt and Lester",Government,Vancouver,Collaborator
+687,"Murphy, Underwood and Cantrell",Private,Remote,Collaborator
+688,Brown-Rodgers,Private,Ottawa,Strategic
+689,Henderson Ltd,Government,Toronto,Collaborator
+690,"Simpson, Wise and Mcdonald",Government,Ottawa,Strategic
+691,Leach Ltd,Private,Ottawa,Strategic
+692,Williams Inc,Private,Remote,Collaborator
+693,Lynch PLC,Government,Ottawa,Collaborator
+694,Small Inc,Government,Remote,Strategic
+695,Harmon-Erickson,Private,Remote,Collaborator
+696,Carroll-Bruce,Private,Vancouver,Collaborator
+697,Aguilar-Brooks,Government,Ottawa,Collaborator
+698,Bridges-Henry,Private,Remote,Collaborator
+699,"Cruz, Friedman and Mclaughlin",Government,Toronto,Strategic
+700,Steele-Cole,Private,Toronto,Collaborator
+701,Coffey Inc,Private,Vancouver,Collaborator
+702,Jacobs and Sons,Private,Ottawa,Strategic
+703,Weaver-Anderson,Government,Remote,Collaborator
+704,Wright Ltd,Private,Toronto,Strategic
+705,"Gregory, Kennedy and Sandoval",Government,Ottawa,Collaborator
+706,Rodriguez-Johnson,Private,Ottawa,Collaborator
+707,Morrow PLC,Government,Remote,Strategic
+708,"Castro, Robinson and Taylor",Private,Ottawa,Strategic
+709,"Shaw, Norton and Cox",Government,Ottawa,Collaborator
+710,Hickman Group,Private,Toronto,Strategic
+711,Beard-Williams,Private,Ottawa,Collaborator
+712,Martin PLC,Government,Vancouver,Strategic
+713,Berry-Davis,Government,Ottawa,Strategic
+714,Webb-Rhodes,Government,Remote,Collaborator
+715,"Dean, Cunningham and Little",Government,Remote,Collaborator
+716,Young PLC,Private,Toronto,Collaborator
+717,"Stanley, Henderson and Vargas",Government,Ottawa,Strategic
+718,Delgado Group,Private,Vancouver,Strategic
+719,"Lyons, Pearson and Hernandez",Private,Toronto,Strategic
+720,"Cunningham, Livingston and Simon",Private,Vancouver,Strategic
+721,Mueller LLC,Private,Remote,Strategic
+722,Strong-Lewis,Government,Ottawa,Collaborator
+723,Curry-Powell,Private,Ottawa,Strategic
+724,Williamson PLC,Government,Remote,Strategic
+725,Smith-Sparks,Government,Remote,Collaborator
+726,"Daniel, Baker and Kennedy",Private,Ottawa,Strategic
+727,"Henderson, Hawkins and Avila",Government,Vancouver,Collaborator
+728,Spencer Group,Government,Toronto,Strategic
+729,"Fox, Young and Whitney",Private,Toronto,Collaborator
+730,"Martinez, Chen and Kramer",Private,Ottawa,Collaborator
+731,"Lang, Shaw and Martinez",Private,Ottawa,Collaborator
+732,Patton Group,Government,Ottawa,Collaborator
+733,"Sullivan, Conner and Munoz",Private,Vancouver,Strategic
+734,Thompson Ltd,Government,Vancouver,Strategic
+735,Miller Inc,Government,Toronto,Strategic
+736,Rodriguez Inc,Government,Remote,Strategic
+737,Smith PLC,Private,Remote,Strategic
+738,"Nguyen, Barrera and Palmer",Private,Vancouver,Collaborator
+739,Williams-Perry,Private,Toronto,Strategic
+740,"Middleton, Lynch and Day",Government,Remote,Strategic
+741,"Wilson, Myers and Bartlett",Private,Remote,Collaborator
+742,Banks PLC,Private,Vancouver,Strategic
+743,"Ramos, Woods and White",Government,Ottawa,Strategic
+744,Serrano-Mcdonald,Private,Toronto,Strategic
+745,Boyle-Bowen,Government,Vancouver,Strategic
+746,Donaldson-Johnson,Private,Remote,Collaborator
+747,Rodriguez Group,Government,Ottawa,Collaborator
+748,Wells-Clark,Private,Remote,Collaborator
+749,White-Bass,Government,Remote,Strategic
+750,Moore-Johnson,Private,Ottawa,Strategic
+751,Zimmerman-Hartman,Government,Toronto,Collaborator
+752,"Munoz, Haley and Pena",Private,Remote,Collaborator
+753,"Proctor, Clark and Chapman",Government,Vancouver,Strategic
+754,Miles Inc,Government,Toronto,Strategic
+755,"Barry, Francis and Cole",Private,Ottawa,Collaborator
+756,Larson-Erickson,Private,Vancouver,Collaborator
+757,"Chambers, Weber and Wright",Government,Vancouver,Strategic
+758,"Johnson, Cole and Stewart",Private,Ottawa,Strategic
+759,Gonzales-Woods,Government,Toronto,Strategic
+760,"Clark, Hoffman and Richards",Private,Toronto,Collaborator
+761,Davis-Johnson,Private,Ottawa,Strategic
+762,Frye Ltd,Private,Toronto,Collaborator
+763,Barajas-Shepard,Private,Toronto,Strategic
+764,"Garcia, Boyer and Conrad",Private,Toronto,Collaborator
+765,Lawson-Hall,Private,Remote,Strategic
+766,Martin-Perez,Government,Toronto,Collaborator
+767,Bailey-Singleton,Private,Remote,Collaborator
+768,Marshall-Gilbert,Private,Remote,Strategic
+769,Crane and Sons,Private,Ottawa,Strategic
+770,Smith-Ochoa,Private,Remote,Collaborator
+771,"Fuller, Hicks and Roth",Government,Toronto,Collaborator
+772,"Richardson, Taylor and Macias",Private,Vancouver,Strategic
+773,Rasmussen Ltd,Government,Ottawa,Collaborator
+774,Love and Sons,Government,Remote,Collaborator
+775,Ray-Willis,Private,Toronto,Collaborator
+776,"Sanchez, Phillips and Jackson",Government,Remote,Strategic
+777,Stanley Group,Private,Remote,Strategic
+778,Oliver-Jordan,Government,Toronto,Collaborator
+779,"Stephens, Sherman and Fisher",Government,Ottawa,Collaborator
+780,Martinez PLC,Private,Ottawa,Strategic
+781,"Townsend, Crosby and Miller",Government,Toronto,Collaborator
+782,Phillips Inc,Government,Toronto,Strategic
+783,Chen-Mendoza,Government,Toronto,Strategic
+784,"Higgins, Willis and Wright",Government,Remote,Collaborator
+785,Nicholson-Dean,Government,Vancouver,Strategic
+786,"Hale, Soto and Schneider",Government,Toronto,Strategic
+787,"Jennings, Woodward and Brown",Private,Remote,Strategic
+788,Campbell Group,Private,Ottawa,Collaborator
+789,Armstrong-Evans,Government,Toronto,Collaborator
+790,"Berry, Perez and Thompson",Government,Vancouver,Strategic
+791,Olson-Meadows,Private,Vancouver,Strategic
+792,Miller and Sons,Private,Remote,Collaborator
+793,Camacho Group,Government,Ottawa,Strategic
+794,Ingram-Reid,Private,Remote,Collaborator
+795,"Riddle, Hanson and Murphy",Government,Vancouver,Strategic
+796,Anderson and Sons,Private,Ottawa,Strategic
+797,"Zavala, Mcgee and Cook",Government,Ottawa,Strategic
+798,Cook PLC,Government,Ottawa,Strategic
+799,Price-Cardenas,Private,Vancouver,Strategic
+800,Anderson-Tran,Government,Toronto,Strategic
+801,Thomas Group,Private,Toronto,Collaborator
+802,"Campbell, Gregory and Gonzalez",Government,Vancouver,Strategic
+803,"Dawson, Wong and Hall",Private,Vancouver,Strategic
+804,"Benson, Brown and Cook",Government,Toronto,Collaborator
+805,"Weber, Rhodes and Johnson",Government,Toronto,Collaborator
+806,Stark-Duncan,Private,Vancouver,Strategic
+807,"Thompson, Thompson and Fields",Private,Vancouver,Strategic
+808,"Patrick, Diaz and Phillips",Government,Vancouver,Collaborator
+809,Larson PLC,Government,Toronto,Strategic
+810,Cook Ltd,Private,Toronto,Collaborator
+811,"Williams, Mcdonald and Hood",Private,Vancouver,Strategic
+812,Bell-Mcconnell,Private,Ottawa,Collaborator
+813,Johnson-Ellis,Private,Remote,Collaborator
+814,Davis Inc,Government,Remote,Collaborator
+815,Joseph-Medina,Private,Toronto,Collaborator
+816,Moore-Taylor,Government,Remote,Strategic
+817,Young Inc,Government,Remote,Collaborator
+818,"Bryant, Dominguez and Davis",Private,Vancouver,Strategic
+819,"Young, Smith and Morrison",Private,Ottawa,Collaborator
+820,Dawson LLC,Government,Ottawa,Strategic
+821,"Bullock, Dyer and Stark",Government,Toronto,Collaborator
+822,Gross-Ryan,Private,Vancouver,Collaborator
+823,Turner-Gonzalez,Government,Remote,Strategic
+824,"Arnold, Ramos and Thompson",Private,Ottawa,Strategic
+825,"Nguyen, Walsh and Beard",Government,Ottawa,Strategic
+826,Smith Group,Private,Remote,Strategic
+827,Mitchell-Jones,Private,Toronto,Collaborator
+828,Peters Ltd,Private,Toronto,Strategic
+829,Oconnor and Sons,Private,Ottawa,Strategic
+830,Day and Sons,Government,Ottawa,Strategic
+831,"Gardner, Baker and Bender",Private,Vancouver,Strategic
+832,"English, Shelton and Hayes",Private,Toronto,Collaborator
+833,"James, Wright and Nelson",Government,Ottawa,Collaborator
+834,Smith and Sons,Private,Toronto,Strategic
+835,Oliver PLC,Private,Vancouver,Strategic
+836,Hernandez PLC,Government,Toronto,Strategic
+837,"Day, Smith and Edwards",Government,Toronto,Strategic
+838,Gibson PLC,Government,Ottawa,Strategic
+839,Gonzalez-Bennett,Government,Toronto,Strategic
+840,"Knight, Ware and Parker",Government,Ottawa,Strategic
+841,Steele PLC,Government,Vancouver,Collaborator
+842,"Cordova, Sexton and Gomez",Private,Toronto,Strategic
+843,Gilmore-Baker,Private,Vancouver,Strategic
+844,Cantu-Lopez,Government,Toronto,Collaborator
+845,Williams-Chen,Government,Ottawa,Collaborator
+846,Mitchell-Martin,Government,Vancouver,Strategic
+847,"Nelson, Hernandez and Potter",Government,Remote,Strategic
+848,Roberts-Atkinson,Private,Vancouver,Strategic
+849,Ramirez-Shaw,Government,Toronto,Strategic
+850,Harris-Sanchez,Private,Remote,Strategic
+851,Ortiz-Long,Government,Ottawa,Strategic
+852,Brown-Burton,Government,Ottawa,Strategic
+853,Spencer PLC,Government,Remote,Collaborator
+854,Butler PLC,Government,Toronto,Strategic
+855,"Patel, Stephens and Brown",Private,Ottawa,Collaborator
+856,Solomon Inc,Private,Vancouver,Collaborator
+857,King and Sons,Government,Vancouver,Strategic
+858,"Johnston, Hicks and Riley",Private,Toronto,Strategic
+859,Patterson Inc,Private,Ottawa,Strategic
+860,"Mitchell, Smith and Sullivan",Private,Toronto,Strategic
+861,Abbott-Johnson,Private,Ottawa,Strategic
+862,Johnston and Sons,Private,Ottawa,Strategic
+863,"Bennett, Yoder and Clay",Private,Toronto,Collaborator
+864,"Hughes, Keller and Day",Private,Ottawa,Strategic
+865,Young-Frye,Private,Ottawa,Strategic
+866,Brown-Stewart,Private,Ottawa,Collaborator
+867,"Sweeney, Cook and Foley",Government,Vancouver,Strategic
+868,Bowen-Mcdonald,Government,Toronto,Strategic
+869,Stewart-Cline,Private,Toronto,Collaborator
+870,"Miller, Melendez and Glenn",Government,Ottawa,Strategic
+871,Burton-Reilly,Private,Remote,Collaborator
+872,"Wolf, Lloyd and Chapman",Government,Vancouver,Collaborator
+873,Patton LLC,Private,Ottawa,Collaborator
+874,Trujillo-Bonilla,Government,Remote,Strategic
+875,Cooper PLC,Private,Toronto,Strategic
+876,"Byrd, Hall and Patrick",Government,Vancouver,Strategic
+877,Mckenzie Group,Private,Remote,Collaborator
+878,"Richardson, Dixon and Garcia",Private,Ottawa,Collaborator
+879,Martinez LLC,Private,Vancouver,Collaborator
+880,"Kelley, Brown and Ramirez",Private,Toronto,Strategic
+881,"Jones, Tanner and Le",Government,Vancouver,Collaborator
+882,"Cabrera, Maxwell and Olson",Government,Ottawa,Collaborator
+883,"Chavez, Parrish and Bennett",Government,Vancouver,Strategic
+884,Smith-Vaughn,Private,Remote,Collaborator
+885,Becker LLC,Government,Toronto,Strategic
+886,Edwards LLC,Private,Remote,Collaborator
+887,Nixon-Sanchez,Government,Vancouver,Strategic
+888,Johnson-Lewis,Private,Vancouver,Collaborator
+889,Harris-Rogers,Government,Vancouver,Strategic
+890,Hoffman Inc,Government,Vancouver,Strategic
+891,"Kent, Bates and Kaiser",Private,Ottawa,Collaborator
+892,Lewis-Baker,Private,Vancouver,Strategic
+893,Chen Ltd,Private,Toronto,Collaborator
+894,Mcdonald-Cameron,Private,Toronto,Strategic
+895,"Meyer, Howard and Chambers",Private,Vancouver,Strategic
+896,"Moyer, Raymond and Payne",Private,Ottawa,Strategic
+897,Bennett-Holland,Government,Toronto,Collaborator
+898,Wilson LLC,Government,Ottawa,Strategic
+899,Gonzales Ltd,Government,Vancouver,Collaborator
+900,"Newman, Woodard and Mitchell",Government,Toronto,Strategic
+901,Hanson Group,Government,Ottawa,Strategic
+902,"Cole, Mack and White",Private,Toronto,Strategic
+903,"Martinez, Turner and West",Private,Toronto,Strategic
+904,Barry-Stokes,Private,Vancouver,Collaborator
+905,Lane-Dominguez,Private,Ottawa,Collaborator
+906,Le-Herrera,Private,Vancouver,Collaborator
+907,Wyatt-Mack,Government,Ottawa,Strategic
+908,"Jones, Wiley and Ferrell",Private,Toronto,Collaborator
+909,"Ponce, Adkins and Gibson",Private,Ottawa,Strategic
+910,"Perez, Bray and Martin",Government,Ottawa,Strategic
+911,Sellers-Wells,Government,Remote,Strategic
+912,Ayers Inc,Government,Remote,Strategic
+913,"Hernandez, Lewis and Oconnell",Government,Toronto,Collaborator
+914,Whitney-Flynn,Private,Ottawa,Strategic
+915,"Jones, Rodriguez and Mcdaniel",Private,Remote,Collaborator
+916,Oneal and Sons,Private,Remote,Collaborator
+917,"Young, Cline and Cochran",Government,Toronto,Strategic
+918,Hardy-Campbell,Government,Toronto,Strategic
+919,Herrera-Michael,Private,Ottawa,Strategic
+920,Monroe and Sons,Government,Vancouver,Collaborator
+921,"Everett, Harris and Lopez",Government,Vancouver,Collaborator
+922,Collins-Gallagher,Private,Remote,Collaborator
+923,Castillo-Arellano,Government,Vancouver,Strategic
+924,Jones Group,Private,Toronto,Strategic
+925,Thomas-Wade,Government,Remote,Strategic
+926,Molina Ltd,Government,Vancouver,Collaborator
+927,"Young, Preston and Harris",Private,Toronto,Strategic
+928,"Navarro, Boyd and Jones",Government,Toronto,Strategic
+929,"Thompson, Pittman and Carr",Private,Ottawa,Collaborator
+930,Hart Group,Government,Vancouver,Collaborator
+931,"Rush, Gibbs and Johnson",Government,Vancouver,Strategic
+932,"Davis, Weeks and Navarro",Private,Ottawa,Collaborator
+933,"Morgan, Parks and Jones",Private,Vancouver,Collaborator
+934,Davidson-Burton,Private,Vancouver,Strategic
+935,"Watson, Robertson and Arroyo",Government,Toronto,Collaborator
+936,Dennis-Richards,Private,Remote,Collaborator
+937,"Wilson, Kim and Fuller",Government,Toronto,Collaborator
+938,Parker LLC,Private,Remote,Strategic
+939,Orozco-Brewer,Private,Toronto,Collaborator
+940,White Inc,Private,Toronto,Collaborator
+941,Odonnell Group,Government,Remote,Collaborator
+942,Robinson LLC,Private,Vancouver,Collaborator
+943,Turner-Jenkins,Private,Ottawa,Collaborator
+944,Myers-Butler,Private,Vancouver,Strategic
+945,Carney-Johnson,Government,Vancouver,Strategic
+946,"Taylor, Lewis and Smith",Government,Remote,Collaborator
+947,"Trevino, Ponce and Kim",Government,Remote,Strategic
+948,Yates-Martinez,Private,Toronto,Strategic
+949,Harmon and Sons,Private,Vancouver,Strategic
+950,"Ramsey, Wright and Avila",Government,Toronto,Collaborator
+951,"Swanson, Jones and Butler",Government,Remote,Strategic
+952,Daniel-Juarez,Private,Toronto,Strategic
+953,Austin-Church,Government,Ottawa,Strategic
+954,"Carroll, Robertson and Young",Government,Toronto,Strategic
+955,Smith and Sons,Government,Ottawa,Collaborator
+956,Barrett-Mitchell,Government,Toronto,Collaborator
+957,Jensen-Ayers,Government,Remote,Strategic
+958,"Scott, Aguirre and Tyler",Government,Toronto,Collaborator
+959,Holden-Dawson,Private,Vancouver,Strategic
+960,Romero Inc,Government,Toronto,Collaborator
+961,Decker-Martinez,Private,Toronto,Collaborator
+962,George LLC,Government,Toronto,Collaborator
+963,Andersen Inc,Private,Toronto,Collaborator
+964,"Doyle, Wade and Bennett",Private,Remote,Collaborator
+965,"Guerra, Mendoza and Huber",Private,Remote,Strategic
+966,Rhodes LLC,Government,Remote,Strategic
+967,Villarreal-Smith,Private,Ottawa,Collaborator
+968,Brown and Sons,Private,Ottawa,Strategic
+969,"Smith, Rodriguez and Swanson",Government,Remote,Collaborator
+970,Marsh Ltd,Private,Ottawa,Strategic
+971,Jones-Gallagher,Private,Toronto,Strategic
+972,Anthony-Allen,Private,Vancouver,Strategic
+973,"Mack, Carter and Anderson",Private,Ottawa,Collaborator
+974,Young PLC,Private,Vancouver,Collaborator
+975,Taylor-Miranda,Private,Ottawa,Collaborator
+976,"Graham, Henry and Johnson",Government,Remote,Strategic
+977,Mcintosh Inc,Private,Vancouver,Strategic
+978,"Conner, Aguilar and Smith",Private,Ottawa,Collaborator
+979,"Hardy, Lynch and Avila",Private,Remote,Collaborator
+980,Mason and Sons,Government,Remote,Strategic
+981,Torres-Collins,Government,Toronto,Collaborator
+982,"Ortega, Anderson and Robinson",Private,Ottawa,Strategic
+983,"Mercado, Freeman and Medina",Private,Toronto,Collaborator
+984,Hill-Whitehead,Government,Vancouver,Strategic
+985,Torres Ltd,Private,Toronto,Collaborator
+986,Mitchell Ltd,Government,Vancouver,Strategic
+987,Dixon-Burke,Government,Vancouver,Strategic
+988,"Moore, King and Moreno",Private,Toronto,Strategic
+989,"Fry, Smith and Ray",Government,Remote,Collaborator
+990,Diaz-Hall,Private,Vancouver,Collaborator
+991,Thompson Inc,Private,Toronto,Collaborator
+992,Berry-Sharp,Government,Toronto,Strategic
+993,Carey PLC,Private,Toronto,Strategic
+994,Green-Gentry,Private,Toronto,Strategic
+995,"Webster, Shannon and Davies",Government,Toronto,Strategic
+996,"Guzman, Riley and Roberson",Government,Vancouver,Collaborator
+997,Dunlap-Shelton,Government,Vancouver,Collaborator
+998,"Steele, Silva and Decker",Private,Ottawa,Strategic
+999,"Benson, Andrews and Lawrence",Government,Remote,Strategic
+1000,Humphrey-Jones,Government,Toronto,Strategic
+1001,Pope-Hurley,Government,Remote,Collaborator
+1002,Trujillo Ltd,Government,Vancouver,Strategic
+1003,Garcia Group,Government,Vancouver,Strategic
+1004,Murray PLC,Government,Toronto,Collaborator
+1005,"Pearson, Miller and King",Private,Ottawa,Collaborator
+1006,Sullivan LLC,Private,Remote,Strategic
+1007,"Harris, Boyer and Lara",Government,Remote,Collaborator
+1008,Thomas-Jimenez,Private,Vancouver,Collaborator
+1009,Gallagher-Flowers,Private,Ottawa,Collaborator
+1010,"Paul, Kim and Johnson",Private,Vancouver,Collaborator
+1011,"Drake, Johnson and Sloan",Private,Toronto,Collaborator
+1012,Vaughan-Stafford,Government,Toronto,Strategic
+1013,Ramirez-Diaz,Government,Remote,Collaborator
+1014,Rose-Smith,Government,Remote,Strategic
+1015,Bailey PLC,Private,Ottawa,Strategic
+1016,Roberts-Edwards,Private,Remote,Collaborator
+1017,"Calhoun, Lewis and Matthews",Private,Vancouver,Collaborator
+1018,"Pollard, Robertson and Richardson",Private,Ottawa,Strategic
+1019,"Nguyen, Riley and Ruiz",Government,Toronto,Strategic
+1020,"Gould, Mcguire and Flores",Government,Vancouver,Strategic
+1021,"Daniels, Barton and Russell",Government,Toronto,Strategic
+1022,Ward and Sons,Private,Vancouver,Collaborator
+1023,"Terrell, Watkins and Moore",Private,Vancouver,Strategic
+1024,Clements-Graham,Private,Ottawa,Collaborator
+1025,Griffith-Clark,Government,Vancouver,Collaborator
+1026,Jones-Martin,Government,Remote,Strategic
+1027,"Romero, Fox and Compton",Private,Toronto,Strategic
+1028,Jones-Miller,Private,Toronto,Strategic
+1029,Hendricks-Goodwin,Private,Ottawa,Collaborator
+1030,"Edwards, Martinez and Salinas",Private,Vancouver,Strategic
+1031,"Harrell, Carter and Herrera",Government,Ottawa,Strategic
+1032,Khan LLC,Private,Toronto,Collaborator
+1033,Little and Sons,Government,Ottawa,Strategic
+1034,Curtis Ltd,Government,Ottawa,Strategic
+1035,Peters-Oconnell,Private,Vancouver,Collaborator
+1036,Evans-Johnson,Government,Remote,Strategic
+1037,Mcdaniel-Duncan,Government,Remote,Collaborator
+1038,Cervantes-Cox,Private,Remote,Strategic
+1039,"Mccormick, Martin and Taylor",Private,Ottawa,Strategic
+1040,Schmitt-Edwards,Private,Toronto,Strategic
+1041,Williams and Sons,Government,Ottawa,Collaborator
+1042,"Sanchez, Miranda and Mcclure",Government,Vancouver,Collaborator
+1043,Mcmahon Ltd,Government,Ottawa,Collaborator
+1044,Hinton-Humphrey,Government,Vancouver,Collaborator
+1045,Wagner-Lopez,Private,Remote,Collaborator
+1046,Bradley Inc,Government,Remote,Collaborator
+1047,Kim Inc,Government,Toronto,Strategic
+1048,Parker Ltd,Private,Toronto,Strategic
+1049,Harvey PLC,Private,Toronto,Strategic
+1050,Smith-Lee,Private,Ottawa,Strategic
+1051,Kerr and Sons,Government,Toronto,Strategic
+1052,"Gutierrez, Hernandez and Deleon",Government,Toronto,Collaborator
+1053,Sanders-Johnson,Government,Ottawa,Strategic
+1054,Small Ltd,Government,Ottawa,Strategic
+1055,Weaver PLC,Government,Ottawa,Strategic
+1056,Wilson-Moore,Government,Vancouver,Collaborator
+1057,Schmitt Group,Government,Ottawa,Collaborator
+1058,Compton LLC,Government,Remote,Strategic
+1059,Meza-Tate,Private,Ottawa,Collaborator
+1060,Young-Ray,Government,Vancouver,Strategic
+1061,"Perkins, White and Robertson",Government,Toronto,Collaborator
+1062,Brown PLC,Government,Remote,Strategic
+1063,Olson-Madden,Government,Remote,Collaborator
+1064,Jones Inc,Private,Vancouver,Strategic
+1065,"Gonzalez, Ruiz and Sanchez",Government,Ottawa,Strategic
+1066,"Murray, Dennis and Olson",Government,Ottawa,Collaborator
+1067,Garrett Group,Government,Remote,Collaborator
+1068,Webb-Jimenez,Private,Vancouver,Collaborator
+1069,Hayes-Roberts,Private,Vancouver,Collaborator
+1070,"Perez, Rogers and Bonilla",Government,Ottawa,Collaborator
+1071,Mitchell LLC,Government,Toronto,Collaborator
+1072,Robbins-Jacobson,Government,Toronto,Strategic
+1073,Wall Inc,Government,Vancouver,Collaborator
+1074,Perkins-Thompson,Private,Remote,Strategic
+1075,Goodman Ltd,Private,Ottawa,Collaborator
+1076,Brown-Carrillo,Private,Ottawa,Collaborator
+1077,Garcia-Mccoy,Government,Ottawa,Strategic
+1078,Peterson-Flores,Private,Vancouver,Strategic
+1079,Miller PLC,Government,Ottawa,Strategic
+1080,Montgomery-Waters,Private,Ottawa,Strategic
+1081,Taylor LLC,Government,Ottawa,Collaborator
+1082,Carroll-Phillips,Government,Ottawa,Strategic
+1083,Cruz-Carpenter,Government,Toronto,Collaborator
+1084,"Bautista, Powers and Anderson",Government,Vancouver,Collaborator
+1085,Jones Group,Private,Vancouver,Strategic
+1086,"Walker, Leonard and Perez",Government,Remote,Strategic
+1087,Banks-Davis,Government,Ottawa,Collaborator
+1088,"Wright, Peterson and Gray",Government,Toronto,Collaborator
+1089,Ferguson LLC,Government,Ottawa,Collaborator
+1090,Wilkerson-Whitaker,Private,Vancouver,Strategic
+1091,Ponce Group,Private,Ottawa,Strategic
+1092,King and Sons,Private,Remote,Strategic
+1093,Hale-Johnson,Private,Remote,Collaborator
+1094,Carter-Jones,Government,Remote,Strategic
+1095,Jackson Inc,Private,Vancouver,Collaborator
+1096,Brown Inc,Private,Toronto,Collaborator
+1097,Kim-Chan,Government,Vancouver,Collaborator
+1098,Sanders LLC,Government,Toronto,Collaborator
+1099,Jones-Bernard,Government,Ottawa,Strategic
+1100,"Campbell, Daniel and Evans",Government,Vancouver,Collaborator
+1101,Mccarthy and Sons,Private,Toronto,Collaborator
+1102,"Newman, Klein and Roberts",Government,Ottawa,Strategic
+1103,Garcia-Hill,Government,Vancouver,Strategic
+1104,Hernandez Inc,Government,Toronto,Collaborator
+1105,Castro and Sons,Private,Toronto,Collaborator
+1106,Gregory PLC,Private,Remote,Collaborator
+1107,Gonzalez-Oneill,Government,Remote,Collaborator
+1108,Smith-Frederick,Government,Ottawa,Collaborator
+1109,Shaw-Anderson,Government,Ottawa,Strategic
+1110,"Novak, Orr and Rodriguez",Government,Toronto,Strategic
+1111,"Boyle, Norris and Ross",Government,Ottawa,Strategic
+1112,Wells LLC,Private,Toronto,Collaborator
+1113,King-Nunez,Private,Vancouver,Strategic
+1114,Herring PLC,Government,Vancouver,Strategic
+1115,Bailey LLC,Government,Ottawa,Collaborator
+1116,Frost Group,Government,Vancouver,Strategic
+1117,"Morales, Ball and Compton",Private,Ottawa,Strategic
+1118,Bean-Hammond,Private,Ottawa,Collaborator
+1119,Morgan Inc,Government,Toronto,Strategic
+1120,Harrington-Mcguire,Government,Ottawa,Strategic
+1121,Howard and Sons,Private,Vancouver,Collaborator
+1122,Richard and Sons,Private,Vancouver,Strategic
+1123,"Arnold, West and Taylor",Private,Toronto,Strategic
+1124,Ramsey Inc,Private,Remote,Collaborator
+1125,Anderson-Werner,Private,Toronto,Strategic
+1126,Moore Ltd,Government,Toronto,Strategic
+1127,Walker-Pierce,Private,Ottawa,Strategic
+1128,Osborne-Smith,Private,Ottawa,Strategic
+1129,Adams-Poole,Private,Remote,Collaborator
+1130,"Martin, Gonzalez and Garcia",Government,Vancouver,Collaborator
+1131,Martinez LLC,Private,Ottawa,Collaborator
+1132,Smith PLC,Government,Remote,Collaborator
+1133,Fuller PLC,Private,Remote,Collaborator
+1134,Butler-Tyler,Private,Vancouver,Strategic
+1135,"Blevins, Ali and Campbell",Private,Toronto,Collaborator
+1136,"Steele, Tapia and Morrow",Government,Toronto,Collaborator
+1137,"Davis, Medina and Howe",Government,Remote,Strategic
+1138,Lawson-Ward,Government,Remote,Strategic
+1139,"Hall, Bell and Barton",Government,Toronto,Collaborator
+1140,Tran PLC,Government,Remote,Collaborator
+1141,"Bridges, Kline and Hudson",Government,Vancouver,Collaborator
+1142,Rodriguez PLC,Private,Ottawa,Strategic
+1143,"Davis, Soto and Hall",Private,Ottawa,Collaborator
+1144,"Owens, King and Mccormick",Government,Remote,Strategic
+1145,"Richards, Moran and Walker",Private,Ottawa,Collaborator
+1146,Clark LLC,Government,Remote,Strategic
+1147,Rodriguez and Sons,Private,Vancouver,Strategic
+1148,"Walter, Soto and Byrd",Government,Ottawa,Strategic
+1149,Franco PLC,Private,Remote,Strategic
+1150,"Burton, Cook and Sexton",Private,Remote,Collaborator
+1151,Hartman-Wilkinson,Government,Ottawa,Strategic
+1152,Torres-French,Private,Remote,Collaborator
+1153,"Smith, Robinson and Mcdonald",Government,Remote,Collaborator
+1154,"Morgan, Cook and Green",Private,Vancouver,Collaborator
+1155,Taylor Inc,Government,Toronto,Strategic
+1156,Duncan PLC,Government,Toronto,Strategic
+1157,Ortiz-Harrison,Government,Remote,Strategic
+1158,Valdez LLC,Private,Vancouver,Strategic
+1159,Rosales-Williams,Private,Toronto,Strategic
+1160,"Meyer, Savage and Austin",Private,Vancouver,Collaborator
+1161,Terry Ltd,Government,Toronto,Collaborator
+1162,Patton Ltd,Government,Remote,Strategic
+1163,Mccullough-Kennedy,Government,Toronto,Collaborator
+1164,Aguirre Inc,Government,Vancouver,Strategic
+1165,Hernandez-Vargas,Government,Remote,Collaborator
+1166,Foley Group,Government,Remote,Strategic
+1167,Willis-Neal,Private,Vancouver,Collaborator
+1168,Carter PLC,Private,Remote,Collaborator
+1169,"Vasquez, Potter and Martinez",Government,Toronto,Collaborator
+1170,Ramirez Group,Government,Ottawa,Strategic
+1171,"Garrison, Edwards and Lang",Private,Vancouver,Strategic
+1172,Lawson-Colon,Government,Toronto,Strategic
+1173,Solomon-Rhodes,Government,Vancouver,Strategic
+1174,Hart-French,Private,Ottawa,Strategic
+1175,Nelson-Stone,Private,Ottawa,Collaborator
+1176,"Howard, Perkins and Brown",Government,Ottawa,Strategic
+1177,"Brown, Hill and Gibson",Government,Ottawa,Strategic
+1178,Robbins-White,Private,Remote,Strategic
+1179,Fuller Group,Private,Toronto,Strategic
+1180,"Mathis, Velez and Carter",Government,Toronto,Collaborator
+1181,Hansen-Wilson,Government,Ottawa,Collaborator
+1182,Kelly Inc,Private,Remote,Strategic
+1183,Zuniga-Mercado,Government,Toronto,Strategic
+1184,Lopez and Sons,Government,Toronto,Strategic
+1185,Schultz-Rodriguez,Government,Toronto,Collaborator
+1186,Miranda Inc,Private,Remote,Collaborator
+1187,Evans PLC,Private,Toronto,Collaborator
+1188,"Lambert, Parks and Graham",Government,Remote,Strategic
+1189,King-Larson,Government,Ottawa,Strategic
+1190,Lyons-Allen,Private,Vancouver,Strategic
+1191,Simmons LLC,Private,Toronto,Collaborator
+1192,"Dennis, Jones and Valentine",Private,Toronto,Collaborator
+1193,"French, Harrington and Stein",Government,Vancouver,Collaborator
+1194,"Hatfield, Webster and Thompson",Government,Remote,Strategic
+1195,Johnson and Sons,Private,Vancouver,Strategic
+1196,"Benton, Fox and Chase",Private,Vancouver,Collaborator
+1197,"Garcia, Rivera and Wiley",Private,Toronto,Strategic
+1198,Rodriguez-Farrell,Government,Vancouver,Strategic
+1199,House-Gross,Private,Ottawa,Collaborator
+1200,Stanley-Richardson,Private,Vancouver,Strategic
+1201,Garcia-Blair,Private,Remote,Strategic
+1202,Hunter LLC,Private,Toronto,Collaborator
+1203,Herrera LLC,Private,Ottawa,Collaborator
+1204,Stephenson-Casey,Government,Ottawa,Strategic
+1205,Allen PLC,Private,Vancouver,Strategic
+1206,Campbell-Lindsey,Private,Ottawa,Strategic
+1207,Thomas Group,Government,Vancouver,Collaborator
+1208,Montoya Group,Government,Vancouver,Strategic
+1209,Allen-Gonzalez,Private,Vancouver,Collaborator
+1210,"Petersen, Brown and Price",Private,Remote,Collaborator
+1211,Holt Group,Private,Toronto,Strategic
+1212,Taylor-Chapman,Government,Remote,Collaborator
+1213,Perkins-Webb,Government,Ottawa,Strategic
+1214,Davidson-Benson,Government,Vancouver,Strategic
+1215,"Peters, Moyer and Hernandez",Private,Ottawa,Collaborator
+1216,Stone-King,Government,Ottawa,Strategic
+1217,Cruz-Williams,Government,Ottawa,Collaborator
+1218,Le LLC,Private,Remote,Strategic
+1219,Thomas-Austin,Government,Vancouver,Strategic
+1220,Walls-Camacho,Government,Ottawa,Collaborator
+1221,Maynard Inc,Private,Vancouver,Strategic
+1222,Gilmore-Cline,Private,Ottawa,Strategic
+1223,Anderson-Adams,Private,Toronto,Strategic
+1224,Ford LLC,Private,Vancouver,Collaborator
+1225,Bernard-Lopez,Government,Vancouver,Strategic
+1226,Rivera-Walsh,Private,Ottawa,Strategic
+1227,"Mendoza, Watkins and Johnson",Private,Remote,Collaborator
+1228,Turner Ltd,Private,Remote,Collaborator
+1229,Baird-Garcia,Government,Ottawa,Strategic
+1230,Ortega Ltd,Government,Vancouver,Strategic
+1231,Clark-Smith,Government,Toronto,Strategic
+1232,Bennett-Hampton,Private,Toronto,Collaborator
+1233,"Rivera, Flowers and Vaughn",Government,Toronto,Strategic
+1234,Vargas Group,Private,Vancouver,Strategic
+1235,Stevens and Sons,Private,Remote,Collaborator
+1236,Evans and Sons,Private,Ottawa,Collaborator
+1237,"Gates, Adams and Herrera",Government,Remote,Strategic
+1238,Brown-Ponce,Government,Toronto,Collaborator
+1239,Johnson Group,Government,Remote,Collaborator
+1240,"Thomas, Lawrence and Coleman",Private,Remote,Strategic
+1241,"Fitzgerald, Carr and Garcia",Government,Toronto,Strategic
+1242,Velazquez and Sons,Private,Ottawa,Collaborator
+1243,Rios Group,Government,Remote,Collaborator
+1244,"Hernandez, Osborn and Davis",Private,Remote,Collaborator
+1245,Rodriguez and Sons,Government,Ottawa,Strategic
+1246,Dixon PLC,Government,Remote,Strategic
+1247,Decker-Howard,Government,Vancouver,Strategic
+1248,"Huber, Kemp and Taylor",Government,Ottawa,Strategic
+1249,Peterson and Sons,Government,Ottawa,Strategic
+1250,Jackson-Robinson,Private,Ottawa,Strategic
+1251,"Sweeney, Graham and Cooper",Government,Remote,Collaborator
+1252,"Stanley, Cox and Davis",Private,Remote,Collaborator
+1253,Murphy-Johnson,Private,Remote,Strategic
+1254,Williams-King,Government,Ottawa,Strategic
+1255,Wise-Solomon,Private,Remote,Collaborator
+1256,"Johns, Kennedy and Reed",Private,Toronto,Collaborator
+1257,"Santos, Bennett and Valenzuela",Private,Toronto,Strategic
+1258,Brown PLC,Government,Remote,Collaborator
+1259,Russell-Byrd,Private,Vancouver,Collaborator
+1260,"Mathis, Jackson and Harper",Private,Toronto,Collaborator
+1261,"Morris, Soto and Davis",Private,Ottawa,Strategic
+1262,Morgan Inc,Government,Vancouver,Collaborator
+1263,"Dunn, Wilson and Robinson",Private,Vancouver,Strategic
+1264,Long PLC,Private,Vancouver,Collaborator
+1265,Goodman Ltd,Government,Ottawa,Strategic
+1266,"Smith, Torres and Watkins",Private,Vancouver,Collaborator
+1267,Arellano-Green,Private,Ottawa,Strategic
+1268,"Ryan, Young and Edwards",Private,Remote,Collaborator
+1269,Miller-Leon,Private,Toronto,Strategic
+1270,Coleman-Diaz,Private,Remote,Collaborator
+1271,White and Sons,Government,Remote,Collaborator
+1272,"Mills, Williams and Spears",Government,Remote,Collaborator
+1273,"Wheeler, Williams and Yoder",Private,Remote,Strategic
+1274,Swanson Ltd,Government,Ottawa,Collaborator
+1275,Smith Inc,Government,Vancouver,Strategic
+1276,Bennett Ltd,Government,Toronto,Strategic
+1277,"Hansen, Dennis and Norris",Private,Remote,Collaborator
+1278,Massey-Reese,Government,Toronto,Strategic
+1279,Ross Inc,Government,Remote,Collaborator
+1280,Blair-Madden,Government,Toronto,Strategic
+1281,Pearson-Reynolds,Private,Ottawa,Strategic
+1282,Thompson-Myers,Private,Remote,Collaborator
+1283,Garcia Ltd,Government,Remote,Strategic
+1284,Williams Inc,Private,Toronto,Strategic
+1285,Smith-Davis,Private,Vancouver,Strategic
+1286,Calhoun-Moreno,Private,Toronto,Strategic
+1287,Newman Group,Government,Remote,Collaborator
+1288,Simon-Mckee,Private,Toronto,Strategic
+1289,Wallace and Sons,Government,Ottawa,Strategic
+1290,Hopkins Group,Private,Ottawa,Collaborator
+1291,"Roy, Rosales and Gonzales",Government,Toronto,Collaborator
+1292,Richardson Inc,Government,Ottawa,Strategic
+1293,Jenkins-Davis,Private,Toronto,Strategic
+1294,"Shaw, Taylor and Morris",Government,Remote,Collaborator
+1295,"Johnson, Smith and Goodwin",Private,Remote,Strategic
+1296,Marshall Ltd,Government,Remote,Collaborator
+1297,Robinson Ltd,Private,Vancouver,Collaborator
+1298,Hall-Walters,Private,Ottawa,Collaborator
+1299,Hopkins-Gardner,Government,Remote,Collaborator
+1300,"Thomas, Wilcox and Oconnor",Government,Ottawa,Strategic
+1301,Cochran Group,Private,Remote,Collaborator
+1302,Ramos and Sons,Private,Toronto,Strategic
+1303,Romero-Martinez,Government,Ottawa,Strategic
+1304,Scott Ltd,Private,Ottawa,Strategic
+1305,Deleon Group,Government,Ottawa,Strategic
+1306,White Group,Private,Remote,Strategic
+1307,"Grimes, Lee and Chen",Government,Remote,Collaborator
+1308,Valencia-Humphrey,Private,Toronto,Strategic
+1309,"Hall, Gonzalez and Gonzalez",Private,Vancouver,Strategic
+1310,"Holt, Alexander and Foster",Government,Remote,Collaborator
+1311,Alexander-Knox,Government,Remote,Collaborator
+1312,Miller Ltd,Private,Ottawa,Strategic
+1313,Stout-Pope,Government,Ottawa,Collaborator
+1314,"Ruiz, May and Aguilar",Private,Toronto,Collaborator
+1315,Roberts Ltd,Government,Ottawa,Collaborator
+1316,Ho LLC,Private,Ottawa,Collaborator
+1317,Brown Inc,Government,Toronto,Collaborator
+1318,Mathis-Malone,Government,Remote,Strategic
+1319,"Stevens, Dickerson and Fry",Private,Remote,Strategic
+1320,Gould-Hendrix,Government,Vancouver,Collaborator
+1321,Johnson Inc,Government,Ottawa,Strategic
+1322,Johnston Inc,Government,Ottawa,Strategic
+1323,"Carson, Gentry and Sanchez",Government,Toronto,Collaborator
+1324,"Deleon, Butler and Warren",Private,Remote,Collaborator
+1325,Reyes Ltd,Private,Ottawa,Collaborator
+1326,Adams Inc,Private,Ottawa,Strategic
+1327,Sanford and Sons,Government,Vancouver,Strategic
+1328,Williams-Bauer,Private,Remote,Strategic
+1329,Gonzalez Ltd,Government,Toronto,Strategic
+1330,Strickland Group,Private,Ottawa,Strategic
+1331,"Riley, Walker and Grimes",Private,Toronto,Strategic
+1332,"Lee, Mckee and Harper",Private,Ottawa,Strategic
+1333,Kelly Inc,Government,Ottawa,Collaborator
+1334,Sanchez LLC,Government,Vancouver,Strategic
+1335,Johnston Inc,Government,Vancouver,Collaborator
+1336,"Herman, Casey and Peterson",Government,Vancouver,Collaborator
+1337,"Gallegos, Parker and Williams",Private,Vancouver,Strategic
+1338,"Bowen, Martinez and Scott",Government,Toronto,Strategic
+1339,"Price, Williams and Flores",Government,Toronto,Strategic
+1340,Mcintyre-Watson,Government,Remote,Collaborator
+1341,Rush Inc,Government,Toronto,Collaborator
+1342,Parker-Wheeler,Private,Toronto,Collaborator
+1343,"Johnson, Brown and Wilson",Private,Ottawa,Collaborator
+1344,Smith Group,Private,Remote,Strategic
+1345,Williams-Williamson,Private,Vancouver,Collaborator
+1346,Hall-Campbell,Private,Ottawa,Collaborator
+1347,Stokes-Williams,Private,Vancouver,Strategic
+1348,"Young, Mueller and Wilson",Private,Ottawa,Strategic
+1349,Davis Inc,Government,Toronto,Strategic
+1350,Morris PLC,Government,Vancouver,Collaborator
+1351,"Bowman, Ward and Booth",Government,Toronto,Strategic
+1352,Rogers LLC,Private,Remote,Collaborator
+1353,Patel and Sons,Private,Remote,Strategic
+1354,"Vaughn, Martin and Hardin",Private,Ottawa,Collaborator
+1355,"Carpenter, Evans and Valentine",Private,Ottawa,Strategic
+1356,Smith Ltd,Private,Toronto,Strategic
+1357,"Brown, Hayes and Nunez",Government,Remote,Collaborator
+1358,"Smith, Phillips and Pena",Private,Toronto,Strategic
+1359,Gomez-Owen,Government,Vancouver,Collaborator
+1360,Davis-Collins,Government,Ottawa,Collaborator
+1361,Moon Group,Government,Toronto,Collaborator
+1362,Williams-Arnold,Government,Vancouver,Strategic
+1363,Walton-Chang,Government,Ottawa,Strategic
+1364,Jones-Hodges,Government,Remote,Strategic
+1365,Stephens-Smith,Government,Remote,Collaborator
+1366,"Mitchell, Cooper and Wagner",Private,Ottawa,Collaborator
+1367,"Kaufman, Wood and Gomez",Private,Vancouver,Collaborator
+1368,Garcia PLC,Government,Remote,Strategic
+1369,Watson-Zamora,Private,Ottawa,Strategic
+1370,Taylor Group,Private,Remote,Strategic
+1371,Duffy-Gonzalez,Government,Vancouver,Strategic
+1372,Garcia Ltd,Government,Ottawa,Collaborator
+1373,Manning LLC,Government,Toronto,Collaborator
+1374,Beasley Inc,Private,Vancouver,Strategic
+1375,Oconnell-Williams,Government,Vancouver,Collaborator
+1376,"Patterson, Williams and Cruz",Government,Remote,Collaborator
+1377,Dixon and Sons,Government,Remote,Strategic
+1378,"Kirk, Williams and Sims",Government,Vancouver,Collaborator
+1379,Douglas Group,Private,Ottawa,Collaborator
+1380,"Conrad, Juarez and Smith",Government,Vancouver,Strategic
+1381,Ortiz-Henderson,Government,Remote,Collaborator
+1382,Hunter Ltd,Government,Vancouver,Collaborator
+1383,Mendez PLC,Government,Vancouver,Collaborator
+1384,Hall-Atkins,Government,Vancouver,Strategic
+1385,"Zavala, Gibson and Hernandez",Government,Ottawa,Collaborator
+1386,Miller-Anderson,Private,Remote,Strategic
+1387,Hardin-George,Government,Remote,Collaborator
+1388,Barker LLC,Government,Remote,Collaborator
+1389,"Harris, Navarro and Newman",Private,Toronto,Collaborator
+1390,"Robinson, Anderson and Walker",Government,Remote,Strategic
+1391,Bradshaw and Sons,Government,Toronto,Collaborator
+1392,"Gomez, Stevens and Hoffman",Government,Ottawa,Collaborator
+1393,"Gomez, Green and White",Private,Ottawa,Collaborator
+1394,"Reed, Hawkins and Higgins",Private,Toronto,Collaborator
+1395,Novak-Barrett,Private,Ottawa,Strategic
+1396,Rogers-Johnson,Government,Remote,Collaborator
+1397,Williams Ltd,Private,Vancouver,Collaborator
+1398,Jones-Bell,Private,Vancouver,Collaborator
+1399,Dyer LLC,Private,Toronto,Strategic
+1400,Banks-Hamilton,Government,Remote,Collaborator
+1401,Gill and Sons,Private,Remote,Collaborator
+1402,"Garcia, White and Fitzpatrick",Government,Remote,Strategic
+1403,Cardenas Inc,Government,Toronto,Collaborator
+1404,Briggs-Williams,Government,Vancouver,Collaborator
+1405,"Robertson, Davis and Garcia",Private,Toronto,Strategic
+1406,Williams-Hansen,Government,Ottawa,Collaborator
+1407,Smith-James,Private,Toronto,Strategic
+1408,Jordan and Sons,Private,Toronto,Collaborator
+1409,Long Inc,Private,Toronto,Strategic
+1410,Jennings PLC,Government,Vancouver,Collaborator
+1411,Martinez PLC,Government,Vancouver,Strategic
+1412,Arnold-Solis,Government,Toronto,Collaborator
+1413,French PLC,Private,Remote,Strategic
+1414,"Hayes, Anderson and Hanson",Government,Toronto,Collaborator
+1415,Flowers PLC,Private,Toronto,Collaborator
+1416,Gonzalez-Pearson,Government,Ottawa,Collaborator
+1417,"Kelley, Armstrong and Miller",Government,Ottawa,Collaborator
+1418,"Robinson, Thompson and Wade",Government,Toronto,Collaborator
+1419,Thomas Inc,Government,Ottawa,Collaborator
+1420,Brown-Bailey,Government,Remote,Strategic
+1421,Moore-Rodriguez,Private,Remote,Strategic
+1422,Rice Ltd,Government,Toronto,Collaborator
+1423,Brown PLC,Private,Vancouver,Strategic
+1424,Harrison-Miranda,Private,Ottawa,Collaborator
+1425,Randall-Foley,Private,Toronto,Strategic
+1426,Cervantes Group,Private,Ottawa,Collaborator
+1427,"Brown, Simpson and Carr",Government,Ottawa,Strategic
+1428,Reynolds-Dennis,Private,Ottawa,Collaborator
+1429,Alexander PLC,Private,Ottawa,Strategic
+1430,"Pruitt, Dixon and Turner",Private,Ottawa,Collaborator
+1431,"Estes, Weber and Walsh",Private,Remote,Strategic
+1432,Walker LLC,Private,Vancouver,Collaborator
+1433,"Brown, Mann and Andrews",Government,Vancouver,Collaborator
+1434,Gonzalez-Costa,Government,Vancouver,Strategic
+1435,Phillips-Henderson,Government,Toronto,Strategic
+1436,Lewis-Davis,Government,Toronto,Strategic
+1437,Elliott and Sons,Government,Toronto,Strategic
+1438,Abbott-Allen,Private,Remote,Collaborator
+1439,"Hill, Stone and Peterson",Private,Ottawa,Strategic
+1440,Edwards Ltd,Government,Vancouver,Collaborator
+1441,Johnson and Sons,Government,Vancouver,Collaborator
+1442,Patterson-Alexander,Private,Ottawa,Collaborator
+1443,Lee-Lam,Government,Remote,Collaborator
+1444,Castillo-Salazar,Government,Toronto,Collaborator
+1445,Bruce-Williams,Private,Toronto,Strategic
+1446,Wise-Lam,Government,Ottawa,Strategic
+1447,Savage-Washington,Private,Vancouver,Strategic
+1448,Rasmussen-Ross,Private,Toronto,Collaborator
+1449,Klein LLC,Private,Vancouver,Collaborator
+1450,Hawkins Inc,Private,Ottawa,Strategic
+1451,Callahan-Lin,Government,Vancouver,Collaborator
+1452,Cervantes Ltd,Government,Vancouver,Collaborator
+1453,"Price, Taylor and Page",Government,Toronto,Collaborator
+1454,Johnson Ltd,Private,Ottawa,Strategic
+1455,Sullivan-Bailey,Government,Remote,Collaborator
+1456,"Smith, Sampson and Simmons",Private,Ottawa,Collaborator
+1457,"Patterson, Bolton and Sanchez",Private,Toronto,Strategic
+1458,"Warren, Graham and Ferguson",Private,Toronto,Collaborator
+1459,Ross-Ramos,Private,Toronto,Strategic
+1460,Henry-Payne,Government,Ottawa,Strategic
+1461,Johnston-Arnold,Government,Ottawa,Strategic
+1462,"Hansen, Johnson and Ward",Government,Toronto,Strategic
+1463,Torres LLC,Government,Vancouver,Collaborator
+1464,Acosta-Christensen,Government,Vancouver,Collaborator
+1465,"Alexander, Gallagher and Williams",Private,Ottawa,Strategic
+1466,Lewis-Ward,Private,Ottawa,Strategic
+1467,Kelly-Lee,Private,Vancouver,Collaborator
+1468,Thompson-Sanchez,Government,Vancouver,Collaborator
+1469,Jackson and Sons,Government,Remote,Strategic
+1470,"Johnson, Torres and Espinoza",Government,Toronto,Collaborator
+1471,"Patel, Potter and Pacheco",Private,Ottawa,Collaborator
+1472,Kim Ltd,Government,Remote,Strategic
+1473,Brown Ltd,Government,Vancouver,Collaborator
+1474,Brown Inc,Private,Ottawa,Strategic
+1475,"Dunn, Zuniga and Best",Government,Ottawa,Strategic
+1476,Ford-Aguilar,Private,Toronto,Collaborator
+1477,Hodges PLC,Government,Remote,Strategic
+1478,Evans LLC,Private,Remote,Collaborator
+1479,"Carlson, Diaz and Moreno",Government,Ottawa,Collaborator
+1480,Harper and Sons,Government,Remote,Collaborator
+1481,Smith-Smith,Government,Remote,Collaborator
+1482,Murphy LLC,Government,Vancouver,Strategic
+1483,Stone Ltd,Government,Remote,Strategic
+1484,Vazquez and Sons,Government,Remote,Collaborator
+1485,Payne-Brown,Government,Toronto,Strategic
+1486,Malone-Collins,Private,Toronto,Collaborator
+1487,Berg-Myers,Private,Toronto,Strategic
+1488,Trujillo Group,Private,Remote,Collaborator
+1489,"Walker, Eaton and Lynch",Government,Ottawa,Strategic
+1490,Manning-Sullivan,Private,Ottawa,Collaborator
+1491,Webb PLC,Private,Vancouver,Strategic
+1492,"Ross, Rios and Snyder",Private,Vancouver,Strategic
+1493,"Young, Cabrera and Velez",Private,Ottawa,Collaborator
+1494,Porter Group,Government,Ottawa,Strategic
+1495,"Rivera, Barrera and Maynard",Government,Ottawa,Collaborator
+1496,"Wolfe, Jefferson and Morales",Government,Ottawa,Strategic
+1497,Hunter Inc,Government,Remote,Collaborator
+1498,Fox Group,Government,Vancouver,Strategic
+1499,Fox-Wright,Private,Vancouver,Collaborator
+1500,Yoder Ltd,Private,Toronto,Collaborator
